@@ -1,0 +1,62 @@
+
+_GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocumentInfo(System.Guid)¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csœ* œ(9"0*õ
+0¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csž'  (œ™
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csž1 ž(Q9
+%03System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>·
+´
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csž5 ž(O
+
+%1void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>¯
+¬
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csž' ž(Q>
+docInfo3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>
+Š
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csŸ Ÿ(/2
+%2,GestorDocumentacion.Models.Entities.Document"[GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocument(System.Guid)*FD
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService*
+""§
+¤
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csŸ Ÿ(4
+%3string"5GestorDocumentacion.Models.Entities.Document.Name.get*4
+2
+%2,GestorDocumentacion.Models.Entities.Documentì
+é
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csŸ6 Ÿ(R
+%4byte[]"`GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocumentBytes(System.Guid)*FD
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService*
+""¤
+¡
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csŸ Ÿ(S
+
+%5void"__mapSet*@
+>
+docInfo3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+%3string*
+
+%4byte[]"ë
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs   (@
+>
+docInfo3System.Collections.Generic.Dictionary<TKey, TValue>*í
+1¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs¡	 ¡(	"¾
+¦
+™C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs¡ ¡(	
+implicit return:
+
+documentIdSystem.GuidBFD
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService

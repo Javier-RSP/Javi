@@ -1,0 +1,36 @@
+
+TGestorDocumentacion.Models.Services.PagesOperationServiceMockService.GetPage(string)¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs9 9("0*­
+0¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; <(Ù
+Ö
+¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; ;(!(
+%0"System.Collections.Generic.List<T>"__id*{*yF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
+	_pageList"System.Collections.Generic.List<T>©
+¦
+¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; ;(R.
+%1(GestorDocumentacion.Models.Entities.Page"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""–
+“
+¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; ;(R0
+page(GestorDocumentacion.Models.Entities.Page"__id*0
+.
+%1(GestorDocumentacion.Models.Entities.Page"Ý
+¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs< <(2
+0
+page(GestorDocumentacion.Models.Entities.Page*í
+1¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs=	 =(	"¾
+¦
+›C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs= =(	
+implicit return:
+routestringBHF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService

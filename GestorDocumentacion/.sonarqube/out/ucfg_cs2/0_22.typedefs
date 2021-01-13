@@ -1,0 +1,7 @@
+Ó
+9GestorDocumentacion.Models.Services.FileOperationsServiceobject˜
+-ReadFile(Microsoft.AspNetCore.Http.IFormFile)gGestorDocumentacion.Models.Services.FileOperationsService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)j
+DeleteDocument(string)PGestorDocumentacion.Models.Services.FileOperationsService.DeleteDocument(string)°
+9SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)sGestorDocumentacion.Models.Services.FileOperationsService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)f
+ReadDocument(string)NGestorDocumentacion.Models.Services.FileOperationsService.ReadDocument(string)l
+FileOperationsService()QGestorDocumentacion.Models.Services.FileOperationsService.FileOperationsService()

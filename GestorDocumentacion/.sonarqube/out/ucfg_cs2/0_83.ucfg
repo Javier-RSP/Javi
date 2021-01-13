@@ -1,0 +1,68 @@
+
+]GestorDocumentacion.Models.Services.TemplatesOperationMockService.DeleteTemplate(System.Guid)£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs* *(""0*†
+0£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs, -( ×
+Ô
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs,  ,(-(
+%0"System.Collections.Generic.List<T>"__id*|*zC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
+_pageTemplate"System.Collections.Generic.List<T>ª
+§
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs,  ,(h2
+%1,GestorDocumentacion.Models.Entities.Template"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""Ÿ
+œ
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs, ,(h8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%1,GestorDocumentacion.Models.Entities.Template©
+¦
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs- -( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+""*
+1
+2*Ö
+1£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs/ /(-×
+Ô
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs/ /((
+%3"System.Collections.Generic.List<T>"__id*|*zC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
+_pageTemplate"System.Collections.Generic.List<T>Ë
+È
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs/ /(.
+
+%4bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%3"System.Collections.Generic.List<T>*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+2*Ú
+2£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs1 1("®
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs1 1(
+""*ç
+3£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs2	 2(	"»
+£
+˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs2 2(	
+implicit return:
+
+templateIDSystem.GuidBEC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService

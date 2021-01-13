@@ -1,0 +1,10 @@
+¿
+,GestorDocumentacion.Models.Entities.DocumentobjectE
+
+Document()7GestorDocumentacion.Models.Entities.Document.Document()M
+DocumentId.get;GestorDocumentacion.Models.Entities.Document.DocumentId.getM
+DocumentId.set;GestorDocumentacion.Models.Entities.Document.DocumentId.setA
+Name.get5GestorDocumentacion.Models.Entities.Document.Name.getA
+Name.set5GestorDocumentacion.Models.Entities.Document.Name.setM
+SavedRoute.get;GestorDocumentacion.Models.Entities.Document.SavedRoute.getM
+SavedRoute.set;GestorDocumentacion.Models.Entities.Document.SavedRoute.set

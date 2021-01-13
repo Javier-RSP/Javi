@@ -1,0 +1,187 @@
+
+gGestorDocumentacion.Models.Services.PagesOperationServiceMockService.PagesOperationServiceMockService()¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (/"1*±
+1¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs%	 %(	*
+0*œ@
+0¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs $(˙˜
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>è
+å
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (&
+
+%1void")System.Collections.Generic.List<T>.List()**
+(
+%0"System.Collections.Generic.List<T>Ÿ
+÷
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs ((yF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
+	_pageList"System.Collections.Generic.List<T>"__id**
+(
+%0"System.Collections.Generic.List<T>ÜÉ
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (.
+%2(GestorDocumentacion.Models.Entities.Page"(GestorDocumentacion.Models.Entities.Pageõ
+ò
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (!
+
+%3void"/GestorDocumentacion.Models.Entities.Page.Page()*0
+.
+%2(GestorDocumentacion.Models.Entities.PageÁ
+‰
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs ('
+%4System.Guid"System.Guid.NewGuid()*"
+System.Guidª
+∏
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs ('
+%5System.Guid"3GestorDocumentacion.Models.Entities.Page.PageID.set*0
+.
+%2(GestorDocumentacion.Models.Entities.Page*
+
+%4System.Guid∑
+¥
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (+
+%6string"2GestorDocumentacion.Models.Entities.Page.Route.set*0
+.
+%2(GestorDocumentacion.Models.Entities.Page*
+/pages/page1.html‡
+›
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (T
+%7string"4GestorDocumentacion.Models.Entities.Page.Content.set*0
+.
+%2(GestorDocumentacion.Models.Entities.Page*<:
+8<html><head></head><body><p>hola mundo</p></body></html>Ò
+Ó
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (+
+%8System.DateTime"System.DateTime.Now.get*"
+System.DateTime…
+∆
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (+
+%9System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*0
+.
+%2(GestorDocumentacion.Models.Entities.Page*
+
+%8System.DateTimeΩ
+∫
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs ($
+%10System.Nullable<T>":GestorDocumentacion.Models.Entities.Page.LastRequested.set*0
+.
+%2(GestorDocumentacion.Models.Entities.Page*
+""ó
+î
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (1
+page1(GestorDocumentacion.Models.Entities.Page"__id*0
+.
+%2(GestorDocumentacion.Models.Entities.PageáÑ
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs "(/
+%11(GestorDocumentacion.Models.Entities.Page"(GestorDocumentacion.Models.Entities.Pageù
+ö
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (!
+%12void"/GestorDocumentacion.Models.Entities.Page.Page()*1
+/
+%11(GestorDocumentacion.Models.Entities.PageË
+Â
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs ('
+%13System.Guid"System.Guid.NewGuid()*"
+System.Guidæ
+ª
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs ('
+%14System.Guid"3GestorDocumentacion.Models.Entities.Page.PageID.set*1
+/
+%11(GestorDocumentacion.Models.Entities.Page*
+
+%13System.Guidπ
+∂
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (+
+%15string"2GestorDocumentacion.Models.Entities.Page.Route.set*1
+/
+%11(GestorDocumentacion.Models.Entities.Page*
+/pages/page2.html‚
+ﬂ
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs (T
+%16string"4GestorDocumentacion.Models.Entities.Page.Content.set*1
+/
+%11(GestorDocumentacion.Models.Entities.Page*<:
+8<html><head></head><body><p>hola mundo</p></body></html>Ú
+Ô
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs   (+
+%17System.DateTime"System.DateTime.Now.get*"
+System.DateTimeÃ
+…
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs   (+
+%18System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*1
+/
+%11(GestorDocumentacion.Models.Entities.Page*
+
+%17System.DateTimeæ
+ª
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs! !($
+%19System.Nullable<T>":GestorDocumentacion.Models.Entities.Page.LastRequested.set*1
+/
+%11(GestorDocumentacion.Models.Entities.Page*
+""ò
+ï
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs "(1
+page2(GestorDocumentacion.Models.Entities.Page"__id*1
+/
+%11(GestorDocumentacion.Models.Entities.Page⁄
+◊
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs# #()
+%20"System.Collections.Generic.List<T>"__id*{*yF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
+	_pageList"System.Collections.Generic.List<T>´
+®
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs# #( 
+%21void"
+__arrayAdd*+
+)
+%20"System.Collections.Generic.List<T>*: *3
+1
+page1(GestorDocumentacion.Models.Entities.Page⁄
+◊
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs$ $()
+%22"System.Collections.Generic.List<T>"__id*{*yF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
+	_pageList"System.Collections.Generic.List<T>´
+®
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs$ $( 
+%23void"
+__arrayAdd*+
+)
+%22"System.Collections.Generic.List<T>*: *3
+1
+page2(GestorDocumentacion.Models.Entities.Page*
+2*Ì
+2¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs%	 %(	"æ
+¶
+õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs% %(	
+implicit returnBHF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService

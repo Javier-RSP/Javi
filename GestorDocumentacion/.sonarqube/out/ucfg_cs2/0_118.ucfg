@@ -1,0 +1,62 @@
+
+[GestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocumentInfo(System.Guid)¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs‘* ‘(9"0*Á
+0¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs“' •(˜•
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs“1 “(Q9
+%03System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>³
+°
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs“5 “(O
+
+%1void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>«
+¨
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs“' “(Q>
+docInfo3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>
+þ
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs” ”(/2
+%2,GestorDocumentacion.Models.Entities.Document"WGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(System.Guid)*B@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService*
+""£
+ 
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs” ”(4
+%3string"5GestorDocumentacion.Models.Entities.Document.Name.get*4
+2
+%2,GestorDocumentacion.Models.Entities.Documentà
+Ý
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs”6 ”(R
+%4byte[]"\GestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocumentBytes(System.Guid)*B@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService*
+"" 
+
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs” ”(S
+
+%5void"__mapSet*@
+>
+docInfo3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+%3string*
+
+%4byte[]"ç
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs• •(@
+>
+docInfo3System.Collections.Generic.Dictionary<TKey, TValue>*å
+1¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs–	 –(	"º
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs– –(	
+implicit return:
+
+documentIdSystem.GuidBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

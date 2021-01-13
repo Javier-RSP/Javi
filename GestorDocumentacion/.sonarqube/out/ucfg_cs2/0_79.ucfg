@@ -1,0 +1,46 @@
+
+NGestorDocumentacion.Controllers.TemplateController.DeleteTemplate(System.Guid)”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csp p(+"2*ª
+0”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(K…
+‚
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(1F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*š*—4
+2GestorDocumentacion.Controllers.TemplateController"_
+_templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServicesóð
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(L
+
+%1bool"\GestorDocumentacion.Models.Services.ITemplatesOperationsServices.DeleteTemplate(System.Guid)*H
+F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*
+""2DeleteTemplate(System.Guid)ÄÁ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(M-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+
+%1bool2
+Ok(object)"È
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(N/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*É
+1”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.css	 s(	"¬
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.css s(	
+implicit return*Ø
+2”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csp< p(<¶
+³
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csp p(+
+%3"__entrypoint*
+""*
+0:
+
+templateIDSystem.GuidB64
+2GestorDocumentacion.Controllers.TemplateController

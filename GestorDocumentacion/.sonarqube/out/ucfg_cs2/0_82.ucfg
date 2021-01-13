@@ -1,0 +1,46 @@
+
+∂GestorDocumentacion.Controllers.PageController.PageController(GestorDocumentacion.Models.Services.IPagesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs ("3*í
+1ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs!	 !(	u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*°
+0ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs  (:Ñ
+Å
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs (<ã0
+.GestorDocumentacion.Controllers.PageController"W
+_pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices"__id*X
+V
+pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices¸
+˘
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs   (:á0
+.GestorDocumentacion.Controllers.PageController"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService"__id*T
+R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
+2*¡
+2ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs!	 !(	"®
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs! !(	
+implicit return*¯
+3ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs{ ({⁄
+◊
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs (
+%1"__entrypoint*X
+V
+pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices*T
+R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
+1:V
+pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices:R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationServiceB20
+.GestorDocumentacion.Controllers.PageController

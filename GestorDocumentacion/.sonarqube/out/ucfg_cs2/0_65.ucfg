@@ -1,0 +1,95 @@
+
+ZGestorDocumentacion.Models.Services.TemplatesOperationsService.DeleteTemplate(System.Guid) 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs (""0*Þ
+0 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs  (Ø
+Õ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs  ((.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextÃ
+À
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs  (12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*0
+.
+%0(GestorDocumentacion.Models.EntityContextÄ
+Á
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs  (t2
+%2,GestorDocumentacion.Models.Entities.Template"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""œ
+™
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs (t8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%2,GestorDocumentacion.Models.Entities.Template¦
+£
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs   (
+
+%3bool""object.operator !=(object, object)*
+"
+object*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+""*
+1
+2*€
+1 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs" #(&Ø
+Õ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs" "(.
+%4(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContext·´
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs" "((G
+%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"?Microsoft.EntityFrameworkCore.DbContext.Entry<TEntity>(TEntity)*0
+.
+%4(GestorDocumentacion.Models.EntityContext*:
+8
+template,GestorDocumentacion.Models.Entities.Template2Entry<TEntity>(TEntity)º
+·
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs"1 "(D
+%6"__id*
+""ùö
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs" "(D/
+%7)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*I
+G
+%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+
+%62	State.setØ
+Õ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs# #(.
+%8(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContext©¦
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs# #(&	
+%9int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*0
+.
+%8(GestorDocumentacion.Models.EntityContext2SaveChanges()*
+2*Ô
+2 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs% %("«
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs% %(
+""*á
+3 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs&	 &(	"¸
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs& &(	
+implicit return:
+
+templateIDSystem.GuidBB@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService

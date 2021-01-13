@@ -1,0 +1,358 @@
+
+¤GestorDocumentacion.Models.Services.DocumentsOperationsService.LoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile) 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csd d( "0*Î
+0 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf g(
+
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf% f()
+%0string"__id*T*R@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"
+pathstring²
+¯
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf, f(?
+%1System.Guid";GestorDocumentacion.Models.Entities.Document.DocumentId.get*:
+8
+document,GestorDocumentacion.Models.Entities.DocumentÖ
+Ó
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf" f(E
+%2string"__concat*
+
+%0string*
+""ã
+à
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf" f(E
+%3string"__concat*
+
+%2string*
+
+%1System.GuidÖ
+Ó
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf" f(E
+%4string"__concat*
+
+%3string*
+""½
+º
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csf f(E
+%5string";GestorDocumentacion.Models.Entities.Document.SavedRoute.set*:
+8
+document,GestorDocumentacion.Models.Entities.Document*
+
+%4string*
+1
+2*×
+1 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csi i($¦
+£
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csi i($
+
+%6bool""object.operator !=(object, object)*
+"
+object*:
+8
+document,GestorDocumentacion.Models.Entities.Document*
+""*
+3
+4*È
+3 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csi( i(K§
+¤
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csi> i(K
+%7string"5GestorDocumentacion.Models.Entities.Document.Name.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentí
+ê
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csi) i(L
+
+%8bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%7string*
+5
+4*ƒ	
+5 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csiP i(r§
+¤
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csi\ i(i
+%9string"5GestorDocumentacion.Models.Entities.Document.Name.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentƒ
+€
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csiP i(j3
+%10,GestorDocumentacion.Models.Entities.Document"RGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(string)*B@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService*
+
+%9string¢
+Ÿ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csiP i(r
+%11bool""object.operator ==(object, object)*
+"
+object*5
+3
+%10,GestorDocumentacion.Models.Entities.Document*
+""*
+6
+4*â
+6 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csk o(Ù
+Ö
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csk k(/
+%12(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextÅ
+Â
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csk k(%3
+%13,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*1
+/
+%12(GestorDocumentacion.Models.EntityContext¬©
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csk k(3H
+%14AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*5
+3
+%13,Microsoft.EntityFrameworkCore.DbSet<TEntity>*:
+8
+document,GestorDocumentacion.Models.Entities.Document2Add(TEntity)Ù
+Ö
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csl l(/
+%15(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContext«¨
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csl l(*
+
+%16int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
+/
+%15(GestorDocumentacion.Models.EntityContext2SaveChanges()‹
+ˆ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csn n(*@
+%179GestorDocumentacion.Models.Services.IFileOperationService"__id*š*—@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService®
+«
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csn8 n(K
+%18string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentïì
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csn n(Z
+%19void"sGestorDocumentacion.Models.Services.IFileOperationService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)*B
+@
+%179GestorDocumentacion.Models.Services.IFileOperationService*
+
+%18string*5
+3
+documentFile#Microsoft.AspNetCore.Http.IFormFile29SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)"«
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cso o( 
+""*À
+2 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cst u((³
+°
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cst1 t(D
+%20System.Guid";GestorDocumentacion.Models.Entities.Document.DocumentId.get*:
+8
+document,GestorDocumentacion.Models.Entities.DocumentŽ
+‹
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cst% t(E3
+%21,GestorDocumentacion.Models.Entities.Document"WGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(System.Guid)*B@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService*
+
+%20System.Guid£
+ 
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cst t(E>
+documentModify,GestorDocumentacion.Models.Entities.Document"__id*5
+3
+%21,GestorDocumentacion.Models.Entities.Document¢
+Ÿ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csu u((
+%22bool""object.operator !=(object, object)*
+"
+object*5
+3
+documentFile#Microsoft.AspNetCore.Http.IFormFile*
+""*
+7
+8*
+7 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csw x(Y‹
+ˆ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csw w(*@
+%239GestorDocumentacion.Models.Services.IFileOperationService"__id*š*—@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService®
+«
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csw: w(M
+%24string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentòï
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csw w(N
+%25void"PGestorDocumentacion.Models.Services.IFileOperationService.DeleteDocument(string)*B
+@
+%239GestorDocumentacion.Models.Services.IFileOperationService*
+
+%24string2DeleteDocument(string)‹
+ˆ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csx x(*@
+%269GestorDocumentacion.Models.Services.IFileOperationService"__id*š*—@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService®
+«
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csx8 x(K
+%27string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentïì
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csx x(Z
+%28void"sGestorDocumentacion.Models.Services.IFileOperationService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)*B
+@
+%269GestorDocumentacion.Models.Services.IFileOperationService*
+
+%27string*5
+3
+documentFile#Microsoft.AspNetCore.Http.IFormFile29SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)*
+8*Ë
+8 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csz z(7¨
+¥
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csz* z(7
+%29string"5GestorDocumentacion.Models.Entities.Document.Name.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentï
+ì
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csz z(8
+%30bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%29string*
+9
+4*“
+9 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csz< z(`¨
+¥
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csz< z(I
+%31string"5GestorDocumentacion.Models.Entities.Document.Name.get*:
+8
+document,GestorDocumentacion.Models.Entities.Document®
+«
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cszM z(`
+%32string"5GestorDocumentacion.Models.Entities.Document.Name.get*@
+>
+documentModify,GestorDocumentacion.Models.Entities.Document…
+‚
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csz< z(`
+%33bool""string.operator !=(string, string)*
+"
+string*
+
+%31string*
+
+%32string*
+10
+4*ˆ	
+10 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs| |(:¨
+¥
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs|$ |(1
+%34string"5GestorDocumentacion.Models.Entities.Document.Name.get*:
+8
+document,GestorDocumentacion.Models.Entities.Document„
+
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs| |(23
+%35,GestorDocumentacion.Models.Entities.Document"RGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(string)*B@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService*
+
+%34string¢
+Ÿ
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs| |(:
+%36bool""object.operator ==(object, object)*
+"
+object*5
+3
+%35,GestorDocumentacion.Models.Entities.Document*
+""*
+11
+12*£
+11 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs~ (.¨
+¥
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs~. ~(;
+%37string"5GestorDocumentacion.Models.Entities.Document.Name.get*:
+8
+document,GestorDocumentacion.Models.Entities.Document¿
+¼
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs~ ~(;
+%38string"5GestorDocumentacion.Models.Entities.Document.Name.set*@
+>
+documentModify,GestorDocumentacion.Models.Entities.Document*
+
+%37stringÙ
+Ö
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs ( /
+%39(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContext«¨
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs (.
+
+%40int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
+/
+%39(GestorDocumentacion.Models.EntityContext2SaveChanges()*
+4*Ù
+12¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csƒ ƒ($"­
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csƒ ƒ(%
+""*Ø
+4¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csˆ ˆ("­
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csˆ ˆ(
+""*æ
+13¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csŠ	 Š(	"º
+¢
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csŠ Š(	
+implicit return:8
+document,GestorDocumentacion.Models.Entities.Document:
+isNewbool:3
+documentFile#Microsoft.AspNetCore.Http.IFormFileBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

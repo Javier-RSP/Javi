@@ -1,0 +1,82 @@
+
+KGestorDocumentacion.Controllers.TemplateController.GetTemplate(System.Guid)î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs& &(("4*Ú
+0î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( )( Ö
+Ç
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( ((6F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*ö*ó4
+2GestorDocumentacion.Controllers.TemplateController"_
+_templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServicesïí
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( ((N2
+%1,GestorDocumentacion.Models.Entities.Template"YGestorDocumentacion.Models.Services.ITemplatesOperationsServices.GetTemplate(System.Guid)*H
+F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*
+""2GetTemplate(System.Guid)ê
+ç
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( ((N8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%1,GestorDocumentacion.Models.Entities.Templateö
+ó
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs) )( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+""*
+1
+2*œ
+1î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(*û
+õ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(*
+%3string"8GestorDocumentacion.Models.Entities.Template.Content.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template∆√
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(+-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%3string2
+Ok(object)"»
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(,/
+-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult*≠
+2î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs- -(!≈¬
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs- -("-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	Not found2
+Ok(object)"»
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs- -(#/
+-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult*…
+3î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs.	 .(	"¨
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs. .(	
+implicit return*ÿ
+4î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs&9 &(9∂
+≥
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs& &((
+%6"__entrypoint*
+""*
+0:
+
+templateIdSystem.GuidB64
+2GestorDocumentacion.Controllers.TemplateController

@@ -1,0 +1,39 @@
+
+eGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs ( "0*ô
+0™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !(#É
+Æ
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !(/
+%0)Microsoft.AspNetCore.Http.RequestDelegate"__id*q*o9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegateþ
+û
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !($!
+%1System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*-+
+)Microsoft.AspNetCore.Http.RequestDelegate*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+1
+2*ü
+1™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs% %(6Õ
+Ò
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs% %(7!
+%2System.Threading.Tasks.Task"…GestorDocumentacion.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+
+exSystem.Exception*
+2*Ó
+2™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs'	 '(	"±
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs' '(	
+implicit return:0
+context%Microsoft.AspNetCore.Http.HttpContextB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

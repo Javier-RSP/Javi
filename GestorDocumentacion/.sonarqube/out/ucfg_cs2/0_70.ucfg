@@ -1,0 +1,46 @@
+
+AGestorDocumentacion.Controllers.DocumentController.GetDocuments()”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs5 5()"2*Ç
+0”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs7 8(ƒ
+€
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs7 7(7E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*™*–4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceíê
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs7 7(F(
+%1"System.Collections.Generic.List<T>"NGestorDocumentacion.Models.Services.IDocumentsOperationsService.GetDocuments()*G
+E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService2GetDocuments()ý
+ú
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs7 7(F/
+	documents"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>éæ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs8 8( -
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*1
+/
+	documents"System.Collections.Generic.List<T>2
+Ok(object)"È
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs8 8(!/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*É
+1”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs9	 9(	"¬
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs9 9(	
+implicit return*Ð
+2”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs5+ 5(+®
+«
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs5 5()
+%3"__entrypoint*
+0B64
+2GestorDocumentacion.Controllers.DocumentController

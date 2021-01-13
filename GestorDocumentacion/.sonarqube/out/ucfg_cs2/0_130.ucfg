@@ -1,0 +1,133 @@
+
+LGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateLoggin(string)ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csN N(!"0*±
+0ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csP Q(/∞
+≠
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csP# P(/
+%0string"DGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.GetLogPath()*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddlewareŒ
+À
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csP P(/
+pathDirectorystring"__id*
+
+%0stringÉ
+Ä
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csQ Q(0
+
+%1bool""System.IO.Directory.Exists(string)*"
+System.IO.Directory*
+
+pathDirectorystring*
+1
+2*∆
+1ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csS S(7ü
+ú
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csS S(8
+%2System.IO.DirectoryInfo"+System.IO.Directory.CreateDirectory(string)*"
+System.IO.Directory*
+
+pathDirectorystring*
+2*º
+2ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(yﬂ‹
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(2!
+%3Serilog.LoggerConfiguration"Serilog.LoggerConfigurationÉ
+Ä
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(0
+
+%4void"1Serilog.LoggerConfiguration.LoggerConfiguration()*#
+!
+%3Serilog.LoggerConfigurationß
+§
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(99
+%53Serilog.Configuration.LoggerEnrichmentConfiguration"&Serilog.LoggerConfiguration.Enrich.get*#
+!
+%3Serilog.LoggerConfiguration≈
+¬
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(J!
+%6Serilog.LoggerConfiguration"DSerilog.Configuration.LoggerEnrichmentConfiguration.FromLogContext()*;
+9
+%53Serilog.Configuration.LoggerEnrichmentConfiguration¢
+ü
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(R3
+%7-Serilog.Configuration.LoggerSinkConfiguration"'Serilog.LoggerConfiguration.WriteTo.get*#
+!
+%6Serilog.LoggerConfiguration⁄
+◊
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csUX U(
+%8string"__concat*
+
+pathDirectorystring*
+""ﬂ
+‹
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csUX U(
+%9string"__concat*
+
+%8string*
+
+
+pTimestampstring–
+Õ
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csUX U(
+%10string"__concat*
+
+%9string*
+""Ò
+Ó
+ö
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(Ä"
+%11Serilog.LoggerConfiguration"ÀSerilog.FileLoggerConfigurationExtensions.File(Serilog.Configuration.LoggerSinkConfiguration, string, Serilog.Events.LogEventLevel, string, System.IFormatProvider, long?, Serilog.Core.LoggingLevelSwitch, bool, bool, System.TimeSpan?, Serilog.RollingInterval, bool, int?, System.Text.Encoding, Serilog.Sinks.File.FileLifecycleHooks)*-"+
+)Serilog.FileLoggerConfigurationExtensions*5
+3
+%7-Serilog.Configuration.LoggerSinkConfiguration*
+
+%10string*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""é
+ã
+ö
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(è
+%12Serilog.Core.Logger"*Serilog.LoggerConfiguration.CreateLogger()*$
+"
+%11Serilog.LoggerConfigurationˇ
+¸
+ö
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(è
+%13Serilog.ILogger"Serilog.Log.Logger.set*"
+Serilog.Log*
+
+%12Serilog.Core.Logger*
+3*”
+3ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csV	 V(	"±
+ô
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csV V(	
+implicit return:
+
+pTimestampstringB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

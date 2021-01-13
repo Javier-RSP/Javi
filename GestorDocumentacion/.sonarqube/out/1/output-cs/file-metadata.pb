@@ -1,0 +1,10 @@
+î
+äC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\TestDocumentController.csutf-8ê
+ÜC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\TestPageController.csutf-8î
+äC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\TestTemplateController.csutf-8ò
+éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\UnitTestDocumentsOperation.csutf-8õ
+äC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\UnitTestPagesOperation.cswindows-1252ó
+çC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\UnitTestTemplateOperation.csutf-8}
+rC:\Users\JRuiz\.nuget\packages\microsoft.net.test.sdk\16.2.0\build\netcoreapp1.0\Microsoft.NET.Test.Sdk.Program.csutf-8√
+∑C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8¡
+µC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\XUnitTestGestorDocumentacion\obj\Debug\netcoreapp3.1\XUnitTestGestorDocumentacion.AssemblyInfo.csutf-8

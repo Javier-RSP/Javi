@@ -1,0 +1,103 @@
+
+KGestorDocumentacion.Controllers.DocumentController.GetDocument(System.Guid)î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs% %(("4*ö
+0î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' (($É
+Ä
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' '(:E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*ô*ñ4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService¢ü
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' '(N9
+%13System.Collections.Generic.Dictionary<TKey, TValue>"\GestorDocumentacion.Models.Services.IDocumentsOperationsService.GetDocumentInfo(System.Guid)*G
+E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+""2GetDocumentInfo(System.Guid)¢
+ü
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' '(NC
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
+9
+%13System.Collections.Generic.Dictionary<TKey, TValue>•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs( (($
+
+%2bool""object.operator !=(object, object)*
+"
+object*E
+C
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>*
+""*
+1
+2*≠
+1î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(dÏ
+È
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(/I
+%3CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection">System.Collections.Generic.Dictionary<TKey, TValue>.Values.get*E
+C
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>È
+Ê
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(7
+%4byte[]"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*K
+I
+%3CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollectionË
+Â
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs*K *(\G
+%5ASystem.Collections.Generic.Dictionary<TKey, TValue>.KeyCollection"<System.Collections.Generic.Dictionary<TKey, TValue>.Keys.get*E
+C
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>Á
+‰
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs*K *(d
+%6string"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*I
+G
+%5ASystem.Collections.Generic.Dictionary<TKey, TValue>.KeyCollectioníè
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(e0
+%7*Microsoft.AspNetCore.Mvc.FileContentResult"DMicrosoft.AspNetCore.Mvc.ControllerBase.File(byte[], string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%4byte[]*
+application/pdf*
+
+%6string2File(byte[], string, string)"À
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(f2
+0
+%7*Microsoft.AspNetCore.Mvc.FileContentResult*≠
+2î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs, ,(!≈¬
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs, ,("-
+%8'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	Not found2
+Ok(object)"»
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs, ,(#/
+-
+%8'Microsoft.AspNetCore.Mvc.OkObjectResult*…
+3î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs-	 -(	"¨
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs- -(	
+implicit return*ÿ
+4î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs%1 %(1∂
+≥
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs% %((
+%9"__entrypoint*
+""*
+0:
+idSystem.GuidB64
+2GestorDocumentacion.Controllers.DocumentController

@@ -1,0 +1,36 @@
+
+ÜGestorDocumentacion.Controllers.DocumentController.DocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (!"3*ñ
+1î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs	 (	u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*º
+0î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (Dö
+ó
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (Dñ4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*_
+]
+documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+2*…
+2î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs	 (	"¨
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (	
+implicit return*±
+3î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY (Yè
+å
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (!
+%1"__entrypoint*_
+]
+documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+1:]
+documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceB64
+2GestorDocumentacion.Controllers.DocumentController

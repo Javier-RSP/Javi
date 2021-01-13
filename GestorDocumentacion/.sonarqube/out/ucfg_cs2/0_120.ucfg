@@ -1,0 +1,84 @@
+
+IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs- -("0*ü
+0õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs/ 0(Œ
+À
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs/ /( .
+%0(GestorDocumentacion.Models.EntityContext"__id*u*s;
+9GestorDocumentacion.Models.Services.PagesOperationService"4
+_context(GestorDocumentacion.Models.EntityContext∫
+∑
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs/ /(%2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1GestorDocumentacion.Models.EntityContext.Page.get*0
+.
+%0(GestorDocumentacion.Models.EntityContextª
+∏
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs/ /(V.
+%2(GestorDocumentacion.Models.Entities.Page"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""ã
+à
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs/ /(V0
+page(GestorDocumentacion.Models.Entities.Page"__id*0
+.
+%2(GestorDocumentacion.Models.Entities.Pageô
+ñ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs0 0(
+
+%3bool""object.operator !=(object, object)*
+"
+object*2
+0
+page(GestorDocumentacion.Models.Entities.Page*
+""*
+1
+2*Œ
+
+1õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs2 3(&Ê
+„
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs2% 2(1
+%4System.DateTime"System.DateTime.Now.get*"
+System.DateTimeƒ
+¡
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs2 2(1
+%5System.Nullable<T>":GestorDocumentacion.Models.Entities.Page.LastRequested.set*2
+0
+page(GestorDocumentacion.Models.Entities.Page*
+
+%4System.DateTimeŒ
+À
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs3 3(.
+%6(GestorDocumentacion.Models.EntityContext"__id*u*s;
+9GestorDocumentacion.Models.Services.PagesOperationService"4
+_context(GestorDocumentacion.Models.EntityContext§°
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs3 3(&	
+%7int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*0
+.
+%6(GestorDocumentacion.Models.EntityContext2SaveChanges()*
+2*ˆ
+2õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs6 6("“
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs6 6(2
+0
+page(GestorDocumentacion.Models.Entities.Page*◊
+3õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs7	 7(	"≥
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs7 7(	
+implicit return:
+routestringB=;
+9GestorDocumentacion.Models.Services.PagesOperationService

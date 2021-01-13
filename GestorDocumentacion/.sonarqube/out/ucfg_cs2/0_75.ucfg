@@ -1,0 +1,226 @@
+
+yGestorDocumentacion.Controllers.DocumentController.LoadDocument(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csD D()"7*à
+0”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csF H(,®
+«
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csF  F(*
+%0"__id*
+""Å
+Â
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csF F(*
+guidDocumentSystem.Guid"__id*
+
+%0·
+´
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csG G(
+isNewbool"__id*
+""®
+«
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csH H(
+%1"__id*
+""×
+Ô
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csH H(-
+
+%2bool"System.Guid.Equals(System.Guid)*
+
+%1*
+""*
+1
+2*†
+1”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csJ K(Õ
+Ò
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csJ J(-
+%3System.Guid"System.Guid.NewGuid()*"
+System.GuidÒ
+Ï
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csJ J(-
+guidDocumentSystem.Guid"__id*
+
+%3System.Guid·
+´
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csK K(
+isNewbool"__id*
+""*
+3*ç
+2”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csO O()Å
+Â
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csO O()
+guidDocumentSystem.Guid"__id*
+""*
+3*²
+3”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csR W(Jüù
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csR V(2
+%4,GestorDocumentacion.Models.Entities.Document",GestorDocumentacion.Models.Entities.Document•
+’
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csR  R((
+
+%5void"7GestorDocumentacion.Models.Entities.Document.Document()*4
+2
+%4,GestorDocumentacion.Models.Entities.Document§
+¤
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csT T(
+%6string"5GestorDocumentacion.Models.Entities.Document.Name.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Document*
+
+namestring¿
+¼
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csU U()
+%7System.Guid";GestorDocumentacion.Models.Entities.Document.DocumentId.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Document*
+
+guidDocumentSystem.GuidŒ
+‰
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csR V(4
+page,GestorDocumentacion.Models.Entities.Document"__id*4
+2
+%4,GestorDocumentacion.Models.Entities.Documentƒ
+€
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csW W(,E
+%8?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*™*–4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceõò
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csW W(K
+
+%9bool"¥GestorDocumentacion.Models.Services.IDocumentsOperationsService.LoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile)*G
+E
+%8?GestorDocumentacion.Models.Services.IDocumentsOperationsService*6
+4
+page,GestorDocumentacion.Models.Entities.Document*
+
+isNewbool*,
+*
+pdf#Microsoft.AspNetCore.Http.IFormFile2eLoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile)*
+4
+5*ð
+4”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY Y(@Í
+Ê
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY" Y(P
+%10string"__concat*
+""*
+
+namestringÌ
+É
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY" Y(P
+%11string"__concat*
+
+%10string*
+""àÝ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY Y(Q6
+%12/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%11string2BadRequest(object)"Ñ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY Y(R8
+6
+%12/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*¿
+5”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs[ [("ÖÓ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs[ [(#.
+%13'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+guidDocumentSystem.Guid2
+Ok(object)"É
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs[ [($0
+.
+%13'Microsoft.AspNetCore.Mvc.OkObjectResult*É
+6”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs^	 ^(	"¬
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs^ ^(	
+implicit return*Ÿ
+7”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csDV D(V÷
+ô
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csD D()
+%14"__entrypoint*
+
+namestring*
+""*,
+*
+pdf#Microsoft.AspNetCore.Http.IFormFileƒ
+€
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csB	 B(
+%15"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*
+
+namestringƒ
+€
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csC	 C(
+%16"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+namestringÊ
+Ç
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csD* D(5
+namestring"__annotation*
+
+%15*
+
+%16Ÿ
+œ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csB	 B(
+%17"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*,
+*
+pdf#Microsoft.AspNetCore.Http.IFormFileŸ
+œ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csC	 C(
+%18"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*,
+*
+pdf#Microsoft.AspNetCore.Http.IFormFileæ
+ã
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csDH D(U*
+pdf#Microsoft.AspNetCore.Http.IFormFile"__annotation*
+
+%17*
+
+%18*
+0:
+namestring:
+
+documentIdSystem.Guid:*
+pdf#Microsoft.AspNetCore.Http.IFormFileB64
+2GestorDocumentacion.Controllers.DocumentController

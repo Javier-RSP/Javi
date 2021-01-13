@@ -1,0 +1,37 @@
+
+[GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocument(System.Guid)§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs[ [(#"0*æ
+0§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs] ^(⁄
+◊
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs]  ](.(
+%0"System.Collections.Generic.List<T>"__id*~*|D
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"4
+_listDocuments"System.Collections.Generic.List<T>´
+®
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs]  ](s2
+%1,GestorDocumentacion.Models.Entities.Document"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""†
+ù
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs] ](s8
+document,GestorDocumentacion.Models.Entities.Document"__id*4
+2
+%1,GestorDocumentacion.Models.Entities.Document"„
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs^ ^(:
+8
+document,GestorDocumentacion.Models.Entities.Document*È
+1§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs_	 _(	"º
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs_ _(	
+implicit return:
+
+documentIdSystem.GuidBFD
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService

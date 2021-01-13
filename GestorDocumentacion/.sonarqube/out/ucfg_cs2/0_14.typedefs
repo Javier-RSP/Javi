@@ -1,0 +1,10 @@
+³
+,GestorDocumentacion.Models.Entities.TemplateobjectE
+
+Template()7GestorDocumentacion.Models.Entities.Template.Template()M
+TemplateID.get;GestorDocumentacion.Models.Entities.Template.TemplateID.getM
+TemplateID.set;GestorDocumentacion.Models.Entities.Template.TemplateID.setA
+Name.get5GestorDocumentacion.Models.Entities.Template.Name.getA
+Name.set5GestorDocumentacion.Models.Entities.Template.Name.setG
+Content.get8GestorDocumentacion.Models.Entities.Template.Content.getG
+Content.set8GestorDocumentacion.Models.Entities.Template.Content.set

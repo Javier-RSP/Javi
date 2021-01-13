@@ -1,0 +1,88 @@
+
+^GestorDocumentacion.Models.Services.DocumentsOperationsMockService.DeleteDocument(System.Guid)§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs1 1(""0*ç
+0§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3 4( ⁄
+◊
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3  3(.(
+%0"System.Collections.Generic.List<T>"__id*~*|D
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"4
+_listDocuments"System.Collections.Generic.List<T>´
+®
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3  3(q2
+%1,GestorDocumentacion.Models.Entities.Document"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""†
+ù
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3 3(q8
+document,GestorDocumentacion.Models.Entities.Document"__id*4
+2
+%1,GestorDocumentacion.Models.Entities.Document™
+ß
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs4 4( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*:
+8
+document,GestorDocumentacion.Models.Entities.Document*
+""*
+1
+2*ö
+1§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs6 7(I⁄
+◊
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs6 6((
+%3"System.Collections.Generic.List<T>"__id*~*|D
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"4
+_listDocuments"System.Collections.Generic.List<T>Ã
+…
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs6 6(/
+
+%4bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%3"System.Collections.Generic.List<T>*:
+8
+document,GestorDocumentacion.Models.Entities.Documentí
+è
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs7 7(&?
+%59GestorDocumentacion.Models.Services.IFileOperationService"__id*û*õD
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService±
+Æ
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs76 7(I
+%6string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
+8
+document,GestorDocumentacion.Models.Entities.DocumentÛ
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs7 7(J
+
+%7void"PGestorDocumentacion.Models.Services.IFileOperationService.DeleteDocument(string)*A
+?
+%59GestorDocumentacion.Models.Services.IFileOperationService*
+
+%6string2DeleteDocument(string)*
+2*‹
+2§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs9 9("Ø
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs9 9(
+""*È
+3§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs:	 :(	"º
+§
+ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs: :(	
+implicit return:
+
+documentIdSystem.GuidBFD
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockService

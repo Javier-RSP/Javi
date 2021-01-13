@@ -1,0 +1,30 @@
+
+UGestorDocumentacion.Models.Services.TemplatesOperationMockService.GetTemplate(string)£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs8 8(#"0*è	
+0£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs: :(N◊
+‘
+£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs: :( (
+%0"System.Collections.Generic.List<T>"__id*|*zC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
+_pageTemplate"System.Collections.Generic.List<T>™
+ß
+£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs: :(O2
+%1,GestorDocumentacion.Models.Entities.Template"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+"""‹
+£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs: :(P4
+2
+%1,GestorDocumentacion.Models.Entities.Template*Á
+1£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs;	 ;(	"ª
+£
+òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs; ;(	
+implicit return:
+namestringBEC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService

@@ -1,0 +1,9 @@
+»
+9GestorDocumentacion.Models.Services.PagesOperationServiceobject¼
+?PagesOperationService(GestorDocumentacion.Models.EntityContext)yGestorDocumentacion.Models.Services.PagesOperationService.PagesOperationService(GestorDocumentacion.Models.EntityContext)l
+DeletePage(System.Guid)QGestorDocumentacion.Models.Services.PagesOperationService.DeletePage(System.Guid)\
+GetPage(string)IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)f
+GetPage(System.Guid)NGestorDocumentacion.Models.Services.PagesOperationService.GetPage(System.Guid)R
+
+GetPages()DGestorDocumentacion.Models.Services.PagesOperationService.GetPages()®
+8LoadPage(GestorDocumentacion.Models.Entities.Page, bool)rGestorDocumentacion.Models.Services.PagesOperationService.LoadPage(GestorDocumentacion.Models.Entities.Page, bool)

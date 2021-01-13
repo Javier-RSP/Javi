@@ -1,0 +1,238 @@
+
+…GestorDocumentacion.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs) )()"0*›
+0™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+ +(/ˆ
+…
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+% +(/
+%0string"__id*S*Q9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstringæ
+ã
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+ +(0
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%0string*
+1
+2*Ð
+2™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+4 +(Xˆ
+…
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+5 +(?
+%2string"__id*S*Q9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstringµ
+²
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+G +(X
+%3string"IGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddlewareã
+à
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs+5 +(Y
+
+%4bool"string.Equals(string?)*
+
+%2string*
+
+%3string*
+1
+3*»
+
+1™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs- .('µ
+²
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs- -(.
+%5string"IGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddlewareˆ
+…
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs- -(.Q9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstring"__id*
+
+%5stringˆ
+…
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs. .('
+%6string"__id*S*Q9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstringÆ
+Ã
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs. .((
+
+%7void"LGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateLoggin(string)*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware*
+
+%6string*
+3*¿	
+3™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs1 ?(:³
+°
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs1 1(9
+%8"__id*
+""Ð
+Í
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs1 1(9!
+codeSystem.Net.HttpStatusCode"__id*
+
+%8‹
+ˆ
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs> >(]
+%9string"3Newtonsoft.Json.JsonConvert.SerializeObject(object)*"
+Newtonsoft.Json.JsonConvert*
+""Ç
+Ä
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs> >(]
+resultstring"__id*
+
+%9string´
+±
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs? ?(:
+%10"__id*
+""*
+4
+5*ô
+4™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csA A(Móð
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csAC A(M
+%11string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getŒ
+‰
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csA A(P
+%12string"3Newtonsoft.Json.JsonConvert.SerializeObject(object)*"
+Newtonsoft.Json.JsonConvert*
+""È
+Å
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csA A(P
+resultstring"__id*
+
+%12string*
+6*‡
+5™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE E(8óð
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE E('
+%13string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getùö
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE+ E(8
+%14string"System.Exception.StackTrace.get*
+
+exSystem.Exception2StackTrace.getÑ
+Î
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE E(<
+%15string"__concat*
+
+%13string*
+""Ú
+×
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE E(<
+%16string"__concat*
+
+%15string*
+
+%14stringÑ
+Î
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE E(<
+%17string"__concat*
+
+%16string*
+""é
+æ
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csE E(=
+%18void"Serilog.Log.Error(string)*"
+Serilog.Log*
+
+%17string*
+6*›
+6™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csH K(5¶
+³
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csH H(-
+%19&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext­
+ª
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csH H(=
+%20string"6Microsoft.AspNetCore.Http.HttpResponse.ContentType.set*/
+-
+%19&Microsoft.AspNetCore.Http.HttpResponse*
+application/json¶
+³
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csI I(-
+%21&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*2
+0
+context%Microsoft.AspNetCore.Http.HttpContextÑ
+Î
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csI* I(3
+%22"__id*#
+!
+codeSystem.Net.HttpStatusCodeœ
+™
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csI I(3
+
+%23int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.set*/
+-
+%21&Microsoft.AspNetCore.Http.HttpResponse*
+
+%22¶
+³
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csK K(#-
+%24&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*2
+0
+context%Microsoft.AspNetCore.Http.HttpContextæ
+ã
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csK K(6"
+%25System.Threading.Tasks.Task"–Microsoft.AspNetCore.Http.HttpResponseWritingExtensions.WriteAsync(Microsoft.AspNetCore.Http.HttpResponse, string, System.Threading.CancellationToken)*;"9
+7Microsoft.AspNetCore.Http.HttpResponseWritingExtensions*/
+-
+%24&Microsoft.AspNetCore.Http.HttpResponse*
+
+resultstring*
+"""Â
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csK K(7$
+"
+%25System.Threading.Tasks.Task*Ó
+7™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csL	 L(	"±
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csL L(	
+implicit return:0
+context%Microsoft.AspNetCore.Http.HttpContext:
+exSystem.ExceptionB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

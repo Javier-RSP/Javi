@@ -1,0 +1,31 @@
+
+¾GestorDocumentacion.Models.Services.DocumentsOperationsService.DocumentsOperationsService(GestorDocumentacion.Models.EntityContext, GestorDocumentacion.Models.Services.IFileOperationService) 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs ()"1*«
+1 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs	 (	*
+0*ª
+0 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs (;Ý
+Ú
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs (x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContext"__id*5
+3
+context(GestorDocumentacion.Models.EntityContextœ
+™
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs (;—@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService"__id*T
+R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
+2*á
+2 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs	 (	"¸
+ 
+•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs (	
+implicit return:3
+context(GestorDocumentacion.Models.EntityContext:R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationServiceBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

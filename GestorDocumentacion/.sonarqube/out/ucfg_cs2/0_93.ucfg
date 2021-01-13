@@ -1,0 +1,46 @@
+
+FGestorDocumentacion.Controllers.PageController.DeletePage(System.Guid)ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.csz z('"2*ˆ
+
+0ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs| |(?Ò
+Ó
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs| |(-B
+%0<GestorDocumentacion.Models.Services.IPagesOperationsServices"__id*é*ã0
+.GestorDocumentacion.Controllers.PageController"W
+_pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServicesﬂ‹
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs| |(@
+
+%1bool"TGestorDocumentacion.Models.Services.IPagesOperationsServices.DeletePage(System.Guid)*D
+B
+%0<GestorDocumentacion.Models.Services.IPagesOperationsServices*
+""2DeletePage(System.Guid)¿Ω
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs| |(A-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+
+%1bool2
+Ok(object)"ƒ
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs| |(B/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*¡
+1ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs}	 }(	"®
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs} }(	
+implicit return*–
+2ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.csz4 z(4≤
+Ø
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.csz z('
+%3"__entrypoint*
+""*
+0:
+pageIdSystem.GuidB20
+.GestorDocumentacion.Controllers.PageController

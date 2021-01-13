@@ -1,0 +1,11 @@
+½
++GestorDocumentacion.ViewModel.PageViewModelobjectN
+PageViewModel();GestorDocumentacion.ViewModel.PageViewModel.PageViewModel()D
+
+PageID.get6GestorDocumentacion.ViewModel.PageViewModel.PageID.getD
+
+PageID.set6GestorDocumentacion.ViewModel.PageViewModel.PageID.setB
+	Route.get5GestorDocumentacion.ViewModel.PageViewModel.Route.getB
+	Route.set5GestorDocumentacion.ViewModel.PageViewModel.Route.setP
+LastModified.get<GestorDocumentacion.ViewModel.PageViewModel.LastModified.getP
+LastModified.set<GestorDocumentacion.ViewModel.PageViewModel.LastModified.set

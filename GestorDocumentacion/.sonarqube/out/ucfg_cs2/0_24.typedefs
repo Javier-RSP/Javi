@@ -1,0 +1,11 @@
+Ø
+
+BGestorDocumentacion.Models.Services.DocumentsOperationsMockServiceobject˙
+YDocumentsOperationsMockService(GestorDocumentacion.Models.Services.IFileOperationService)úGestorDocumentacion.Models.Services.DocumentsOperationsMockService.DocumentsOperationsMockService(GestorDocumentacion.Models.Services.IFileOperationService)}
+DeleteDocument(System.Guid)^GestorDocumentacion.Models.Services.DocumentsOperationsMockService.DeleteDocument(System.Guid)m
+GetDocument(string)VGestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocument(string)Å
+GetDocumentBytes(System.Guid)`GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocumentBytes(System.Guid)w
+GetDocument(System.Guid)[GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocument(System.Guid)c
+GetDocuments()QGestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocuments()í
+eLoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile)®GestorDocumentacion.Models.Services.DocumentsOperationsMockService.LoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile)
+GetDocumentInfo(System.Guid)_GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocumentInfo(System.Guid)

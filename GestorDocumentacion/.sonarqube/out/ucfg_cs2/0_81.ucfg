@@ -1,0 +1,244 @@
+
+yGestorDocumentacion.Controllers.TemplateController.LoadTemplate(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN N()"7*à
+0”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csP R(,®
+«
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csP  P(*
+%0"__id*
+""Å
+Â
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csP P(*
+guidTemplateSystem.Guid"__id*
+
+%0·
+´
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csQ Q(
+isNewbool"__id*
+""®
+«
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csR R(
+%1"__id*
+""×
+Ô
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csR R(-
+
+%2bool"System.Guid.Equals(System.Guid)*
+
+%1*
+""*
+1
+2*†
+1”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csT U(Õ
+Ò
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csT T(-
+%3System.Guid"System.Guid.NewGuid()*"
+System.GuidÒ
+Ï
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csT T(-
+guidTemplateSystem.Guid"__id*
+
+%3System.Guid·
+´
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csU U(
+isNewbool"__id*
+""*
+3*ç
+2”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csY Y()Å
+Â
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csY Y()
+guidTemplateSystem.Guid"__id*
+""*
+3*¨
+3”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\ b(Iüù
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\  a(2
+%4,GestorDocumentacion.Models.Entities.Template",GestorDocumentacion.Models.Entities.Template•
+’
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\$ \(,
+
+%5void"7GestorDocumentacion.Models.Entities.Template.Template()*4
+2
+%4,GestorDocumentacion.Models.Entities.Template§
+¤
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs^ ^(
+%6string"5GestorDocumentacion.Models.Entities.Template.Name.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Template*
+
+namestring¿
+¼
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs_ _()
+%7System.Guid";GestorDocumentacion.Models.Entities.Template.TemplateID.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Template*
+
+guidTemplateSystem.Guidò
+ï
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs` `(0?
+%89GestorDocumentacion.Models.Services.IFileOperationService"__id*Ž*‹4
+2GestorDocumentacion.Controllers.TemplateController"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService»¸
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs` `(H
+%9string"gGestorDocumentacion.Models.Services.IFileOperationService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)*A
+?
+%89GestorDocumentacion.Models.Services.IFileOperationService*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFile2-ReadFile(Microsoft.AspNetCore.Http.IFormFile)©
+¦
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs` `(H
+%10string"8GestorDocumentacion.Models.Entities.Template.Content.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Template*
+
+%9string
+
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\ a(8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%4,GestorDocumentacion.Models.Entities.Template†
+ƒ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csb b(,G
+%11@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*š*—4
+2GestorDocumentacion.Controllers.TemplateController"_
+_templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServices…‚
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csb b(J
+%12bool"GestorDocumentacion.Models.Services.ITemplatesOperationsServices.LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)*I
+G
+%11@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+
+isNewbool2@LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)*
+4
+5*ð
+4”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd d(@Í
+Ê
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd" d(P
+%13string"__concat*
+""*
+
+namestringÌ
+É
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd" d(P
+%14string"__concat*
+
+%13string*
+""àÝ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd d(Q6
+%15/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%14string2BadRequest(object)"Ñ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd d(R8
+6
+%15/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*¿
+5”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csf f("ÖÓ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csf f(#.
+%16'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+guidTemplateSystem.Guid2
+Ok(object)"É
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csf f($0
+.
+%16'Microsoft.AspNetCore.Mvc.OkObjectResult*É
+6”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csg	 g(	"¬
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csg g(	
+implicit return*Ç
+7”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN` N(`
+þ
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN N()
+%17"__entrypoint*
+
+namestring*
+""*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFileƒ
+€
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csL	 L(
+%18"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*
+
+namestringƒ
+€
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csM	 M(
+%19"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+namestringÊ
+Ç
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN* N(5
+namestring"__annotation*
+
+%18*
+
+%19©
+¦
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csL	 L(
+%20"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFile©
+¦
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csM	 M(
+%21"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFileð
+í
+”
+‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csNH N(_4
+html_template#Microsoft.AspNetCore.Http.IFormFile"__annotation*
+
+%20*
+
+%21*
+0:
+namestring:
+
+templateIdSystem.Guid:4
+html_template#Microsoft.AspNetCore.Http.IFormFileB64
+2GestorDocumentacion.Controllers.TemplateController

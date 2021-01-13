@@ -1,0 +1,29 @@
+
+NGestorDocumentacion.Models.Services.FileOperationsService.ReadDocument(string)õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs; ;(""0*ú
+0õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= >(˚
+¯
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= =(/
+%0byte[]"#System.IO.File.ReadAllBytes(string)*"
+System.IO.File*
+
+routestring«
+ƒ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= =(/
+databyte[]"__id*
+
+%0byte[]"∞
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs> >(
+
+databyte[]*◊
+1õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs?	 ?(	"≥
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs? ?(	
+implicit return:
+routestringB=;
+9GestorDocumentacion.Models.Services.FileOperationsService

@@ -1,0 +1,7 @@
+¹
+2GestorDocumentacion.Controllers.DocumentController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÞ
+SDocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)†GestorDocumentacion.Controllers.DocumentController.DocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)g
+GetDocument(System.Guid)KGestorDocumentacion.Controllers.DocumentController.GetDocument(System.Guid)S
+GetDocuments()AGestorDocumentacion.Controllers.DocumentController.GetDocuments()Ã
+FLoadDocument(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)yGestorDocumentacion.Controllers.DocumentController.LoadDocument(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)m
+DeleteDocument(System.Guid)NGestorDocumentacion.Controllers.DocumentController.DeleteDocument(System.Guid)

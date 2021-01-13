@@ -1,0 +1,8 @@
+ä
+AGestorDocumentacion.Models.Services.TemplatesOperationMockServiceobject„
+TemplatesOperationMockService()aGestorDocumentacion.Models.Services.TemplatesOperationMockService.TemplatesOperationMockService()|
+DeleteTemplate(System.Guid)]GestorDocumentacion.Models.Services.TemplatesOperationMockService.DeleteTemplate(System.Guid)l
+GetTemplate(string)UGestorDocumentacion.Models.Services.TemplatesOperationMockService.GetTemplate(string)v
+GetTemplate(System.Guid)ZGestorDocumentacion.Models.Services.TemplatesOperationMockService.GetTemplate(System.Guid)b
+GetTemplates()PGestorDocumentacion.Models.Services.TemplatesOperationMockService.GetTemplates()Ç
+@LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)‚GestorDocumentacion.Models.Services.TemplatesOperationMockService.LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)

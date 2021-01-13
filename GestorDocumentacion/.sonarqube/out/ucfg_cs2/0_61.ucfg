@@ -1,0 +1,41 @@
+
+lGestorDocumentacion.Models.EntityContext.EntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("1*”
+1‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs	 (	*
+0*‚
+0‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (è
+å
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*;
+9
+options.Microsoft.EntityFrameworkCore.DbContextOptions*
+2
+3*‹
+2‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("ÃÀ
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (A
+%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*+)
+'Microsoft.EntityFrameworkCore.DbContext2Database.get®
+«
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("
+
+%2void"…Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)*D"B
+@Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions*C
+A
+%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+3*³
+3‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs	 (	"¡
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (	
+implicit return:9
+options.Microsoft.EntityFrameworkCore.DbContextOptions:
+memoryboolB,*
+(GestorDocumentacion.Models.EntityContext

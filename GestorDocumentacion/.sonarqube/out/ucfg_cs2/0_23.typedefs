@@ -1,0 +1,11 @@
+Ö
+
+>GestorDocumentacion.Models.Services.DocumentsOperationsServiceobjectÂ
+DocumentsOperationsService(GestorDocumentacion.Models.EntityContext, GestorDocumentacion.Models.Services.IFileOperationService)¾GestorDocumentacion.Models.Services.DocumentsOperationsService.DocumentsOperationsService(GestorDocumentacion.Models.EntityContext, GestorDocumentacion.Models.Services.IFileOperationService)y
+DeleteDocument(System.Guid)ZGestorDocumentacion.Models.Services.DocumentsOperationsService.DeleteDocument(System.Guid)i
+GetDocument(string)RGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(string)}
+GetDocumentBytes(System.Guid)\GestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocumentBytes(System.Guid)s
+GetDocument(System.Guid)WGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(System.Guid)_
+GetDocuments()MGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocuments()Ž
+eLoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile)¤GestorDocumentacion.Models.Services.DocumentsOperationsService.LoadDocument(GestorDocumentacion.Models.Entities.Document, bool, Microsoft.AspNetCore.Http.IFormFile){
+GetDocumentInfo(System.Guid)[GestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocumentInfo(System.Guid)

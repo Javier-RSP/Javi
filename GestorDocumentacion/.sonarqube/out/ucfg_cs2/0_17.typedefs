@@ -1,0 +1,7 @@
+ë
+<GestorDocumentacion.Models.Services.FileOperationMockServiceobject›
+-ReadFile(Microsoft.AspNetCore.Http.IFormFile)jGestorDocumentacion.Models.Services.FileOperationMockService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)m
+DeleteDocument(string)SGestorDocumentacion.Models.Services.FileOperationMockService.DeleteDocument(string)³
+9SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)vGestorDocumentacion.Models.Services.FileOperationMockService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)i
+ReadDocument(string)QGestorDocumentacion.Models.Services.FileOperationMockService.ReadDocument(string)u
+FileOperationMockService()WGestorDocumentacion.Models.Services.FileOperationMockService.FileOperationMockService()

@@ -1,0 +1,7 @@
+≤
+2GestorDocumentacion.Controllers.TemplateController'Microsoft.AspNetCore.Mvc.ControllerBaseobject◊
+èTemplateController(GestorDocumentacion.Models.Services.ITemplatesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)¬GestorDocumentacion.Controllers.TemplateController.TemplateController(GestorDocumentacion.Models.Services.ITemplatesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)g
+GetTemplate(System.Guid)KGestorDocumentacion.Controllers.TemplateController.GetTemplate(System.Guid)S
+GetTemplates()AGestorDocumentacion.Controllers.TemplateController.GetTemplates()√
+FLoadTemplate(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)yGestorDocumentacion.Controllers.TemplateController.LoadTemplate(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)m
+DeleteTemplate(System.Guid)NGestorDocumentacion.Controllers.TemplateController.DeleteTemplate(System.Guid)

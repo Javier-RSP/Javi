@@ -1,0 +1,6 @@
+Ç
+,GestorDocumentacion.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject«
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jGestorDocumentacion.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¯
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)lGestorDocumentacion.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)©
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)iGestorDocumentacion.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)O
+InitialCreate()<GestorDocumentacion.Migrations.InitialCreate.InitialCreate()

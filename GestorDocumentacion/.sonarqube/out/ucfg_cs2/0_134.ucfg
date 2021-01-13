@@ -1,0 +1,47 @@
+
+sGestorDocumentacion.Models.Services.FileOperationsService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs0 0( "0*º
+0õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs2 5(œ
+Ã
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs2 2($
+	routeFilestring"__id*
+
+routestringá
+Ñ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs3 3(/
+%0System.IO.FileStream"System.IO.File.Create(string)*"
+System.IO.File*
+
+	routeFilestringÂ
+‚
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs3 3(/
+streamSystem.IO.FileStream"__id*
+
+%0System.IO.FileStream⁄◊
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs4 4(#
+
+%1void"<Microsoft.AspNetCore.Http.IFormFile.CopyTo(System.IO.Stream)*1
+/
+document#Microsoft.AspNetCore.Http.IFormFile* 
+
+streamSystem.IO.FileStream2CopyTo(System.IO.Stream)ÚÔ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs5 5(
+
+%2void"System.IO.Stream.Close()* 
+
+streamSystem.IO.FileStream2Close()*
+1*◊
+1õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs6	 6(	"≥
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs6 6(	
+implicit return:
+routestring:/
+document#Microsoft.AspNetCore.Http.IFormFileB=;
+9GestorDocumentacion.Models.Services.FileOperationsService

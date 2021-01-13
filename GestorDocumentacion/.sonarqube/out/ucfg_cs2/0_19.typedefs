@@ -1,0 +1,8 @@
+™
+>GestorDocumentacion.Models.Services.TemplatesOperationsServiceobjectÌ
+DTemplatesOperationsService(GestorDocumentacion.Models.EntityContext)ƒGestorDocumentacion.Models.Services.TemplatesOperationsService.TemplatesOperationsService(GestorDocumentacion.Models.EntityContext)y
+DeleteTemplate(System.Guid)ZGestorDocumentacion.Models.Services.TemplatesOperationsService.DeleteTemplate(System.Guid)i
+GetTemplate(string)RGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(string)s
+GetTemplate(System.Guid)WGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(System.Guid)_
+GetTemplates()MGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplates()Ã
+@LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)GestorDocumentacion.Models.Services.TemplatesOperationsService.LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)

@@ -1,0 +1,93 @@
+
+gGestorDocumentacion.Models.Services.FileOperationsService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs ("0*ê
+0õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (F›⁄
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (,
+%0System.Text.StringBuilder"System.Text.StringBuilder˚
+¯
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (*
+
+%1void")System.Text.StringBuilder.StringBuilder()*!
+
+%0System.Text.StringBuilderÔ
+Ï
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (,#
+resultSystem.Text.StringBuilder"__id*!
+
+%0System.Text.StringBuilder∞≠
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs1 (F
+%2System.IO.Stream"4Microsoft.AspNetCore.Http.IFormFile.OpenReadStream()*-
++
+file#Microsoft.AspNetCore.Http.IFormFile2OpenReadStream()◊‘
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs  (G
+%3System.IO.StreamReader"System.IO.StreamReaderû
+õ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs$ (0
+
+%4void"5System.IO.StreamReader.StreamReader(System.IO.Stream)*
+
+%3System.IO.StreamReader*
+
+%2System.IO.StreamÈ
+Ê
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (G 
+readerSystem.IO.StreamReader"__id*
+
+%3System.IO.StreamReader*
+1*£
+1õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs ()˜Ù
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs ($	
+%5int"System.IO.StreamReader.Peek()*"
+ 
+readerSystem.IO.StreamReader2Peek()*
+2
+3*÷
+2õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (7Çˇ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs& (7
+%6string"!System.IO.StreamReader.ReadLine()*"
+ 
+readerSystem.IO.StreamReader2
+ReadLine()®
+•
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (8
+%7System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
+#
+resultSystem.Text.StringBuilder*
+
+%6string*
+1*¶
+3õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs!	 !(	*
+4*—
+4õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs   ($¸
+˘
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs   ($
+%8string"$System.Text.StringBuilder.ToString()*%
+#
+resultSystem.Text.StringBuilder"Æ
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs   (%
+
+%8string*◊
+5õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs!	 !(	"≥
+õ
+êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs! !(	
+implicit return:+
+file#Microsoft.AspNetCore.Http.IFormFileB=;
+9GestorDocumentacion.Models.Services.FileOperationsService

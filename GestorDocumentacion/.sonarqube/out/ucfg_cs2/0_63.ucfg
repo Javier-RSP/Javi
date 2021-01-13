@@ -1,0 +1,64 @@
+
+dGestorDocumentacion.Models.EntityContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs    (/"0*Ö
+0‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" +($ðí
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" "('P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()–“
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" #('E
+%1?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"•Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)‡„
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" $(E
+%2?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
+E
+%1?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
+""2IsUnique(bool)ðí
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& &(+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()–“
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& '(&E
+%4?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"•Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)‡„
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& ((E
+%5?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
+E
+%4?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
+""2IsUnique(bool)ðí
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* *(+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()–“
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* +(%E
+%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"•Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)‡„
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* ,(E
+%8?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
+E
+%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
+""2IsUnique(bool)*
+1*³
+1‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs-	 -(	"¡
+‰
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs- -(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB,*
+(GestorDocumentacion.Models.EntityContext

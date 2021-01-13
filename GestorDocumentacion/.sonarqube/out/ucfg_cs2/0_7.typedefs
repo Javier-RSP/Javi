@@ -1,0 +1,7 @@
+Å
+GestorDocumentacion.Startupobjectî
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)VGestorDocumentacion.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)º
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)jGestorDocumentacion.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)˚
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)âGestorDocumentacion.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)B
+Configuration.get-GestorDocumentacion.Startup.Configuration.getB
+Configuration.set-GestorDocumentacion.Startup.Configuration.set
