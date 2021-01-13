@@ -1,0 +1,4 @@
+¼
+)UrisFactory.Controllers.FactoryController'Microsoft.AspNetCore.Mvc.ControllerBaseobject®
+@FactoryController(UrisFactory.Models.Services.ConfigJsonHandler)jUrisFactory.Controllers.FactoryController.FactoryController(UrisFactory.Models.Services.ConfigJsonHandler)¬
+?GenerateUri(string, string, UrisFactory.Extra.Enum.EleccionUri)iUrisFactory.Controllers.FactoryController.GenerateUri(string, string, UrisFactory.Extra.Enum.EleccionUri)

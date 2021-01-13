@@ -1,5 +1,5 @@
-‘
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs
+§
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs
 
  #<
 , G ''' :77 7WW ,ii 1
@@ -23,8 +23,8 @@
 RR WW: >
 
 gg +
-gg1 7iiA GÜ
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs
+gg1 7iiA G÷
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs
 
  <
 ) @ #)) .99 /jj '|| -
@@ -54,8 +54,8 @@
 cc jj1 5
 
 zz '
-zz- 3||9 ?◊
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs
+zz- 3||9 ?ß
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs
 
  #<
 - H '(( 677 7bb ,rr 1
@@ -84,8 +84,8 @@
 \\ bb: B
 
 pp +
-pp1 ;rrA K›
-éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs
+pp1 ;rrA K≠
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs
 
  (
 ) . !! 
@@ -115,8 +115,8 @@
 ee ff 
 mm qq  '
 rr 0tt (vv 2(
-ss vv zz || "√
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
+ss vv zz || "ì
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
 
  &
 
@@ -132,8 +132,8 @@
 ""4 5""9 :
 
 22  $
-226 F44 77 Î
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs
+226 F44 77 ª
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs
 
  $
 
@@ -146,8 +146,8 @@
 4 59 :
 
   $<
-6 F   ## '' ++ 22 Ã
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.cs
+6 F   ## '' ++ 22 ú
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.cs
 
  )
 
@@ -157,8 +157,8 @@
        %% 
 
 ,,  $F
-,,6 F.. 22 66 :: AA HH ∂
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs
+,,6 F.. 22 66 :: AA HH Ü
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs
 
  
 
@@ -166,8 +166,8 @@
 
  
 
-  …
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs
+  ö
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs
 
  
 
@@ -179,8 +179,8 @@
 
  $
 
- &∂
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs
+ &Ü
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs
 
  
 
@@ -188,8 +188,8 @@
 
  
 
- ·
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs
+ ≤
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs
 
  
 
@@ -207,8 +207,8 @@
   = I"" && ** 
 ## ##  
 '' ''  
-++ ++ ˘	
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs
+++ ++ …	
+jC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs
 
  /(
  " !%% !ss% )J
@@ -271,8 +271,8 @@
 
 ûû' .
 üü 
-†† µ	
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs
+†† Ö	
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs
 
  +
  "ff% )x
@@ -318,8 +318,8 @@
 
 ìì' .
 îî 
-ïï §
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs
+ïï Ù
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs
 
  )
 
@@ -340,8 +340,8 @@
 00 "
 
 00* /
-22 33+ /ﬂ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs
+22 33+ /Ø
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs
 
  &
 
@@ -362,8 +362,8 @@
 
 ;; "
 ;;* /==) .
-== >> Ÿ
-ñC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\IDocumentsOperationsService.cs
+== >> ©
+gC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\IDocumentsOperationsService.cs
 
  0
 
@@ -395,8 +395,8 @@
 
 ==9 >
 
-==J Vã
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\IFileOperationService.cs
+==J V€
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\IFileOperationService.cs
 
 		 *
 
@@ -416,8 +416,8 @@
 
  "
 
-* /ö
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\IPagesOperationsServices.cs
+* /Í
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\IPagesOperationsServices.cs
 
  -
 
@@ -439,8 +439,8 @@
 
 // 
 
-//$ *û
-óC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\ITemplatesOperationsServices.cs
+//$ *Ó
+hC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\ITemplatesOperationsServices.cs
 
  1
 
@@ -462,8 +462,8 @@
 
 // "
 
-//( 2Ñ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs
+//( 2‘
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs
 
  &x
 ' /     ## $$ //  33 @@ HH aa bb ~~ 
@@ -489,8 +489,8 @@
 PP" &XX XX: >XXa eXXx |^^ aa& *hh) -ii) -ii: >oo) -rr* .rr9 =tt  $vv+ /
 PP- 2VV (
 RR  SS TT UU F
-hh iiJ Too pp rrG Qvv "ww "À
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs
+hh iiJ Too pp rrG Qvv "ww "õ
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs
 
  1d
  $ ## $$ -- !00 ;; !EE !NN ]] 
@@ -517,8 +517,8 @@
 VV å
 VV" &[[ [[: >[[a e[[x |]]" &cc) -dd* .dd; ?ff) -hh* .hh9 =jj  $ll+ /
 VV- 2YY 2
-cc ddK Uff hhG Qll "ü
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs
+cc ddK Uff hhG Qll "Ô
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs
 
  .d
  , "" ## ,,  -// ::  CC  KK  YY !
@@ -544,8 +544,8 @@
 SS* 2WW WW> FWWi q
 WWá èYY& .__1 9``* 2``? Gbb- 5dd* 2dd< Dff$ ,hh. 6
 SS9 >UU 2
-__ "``S abb "ddM [hh &ö
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs
+__ "``S abb "ddM [hh &Í
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs
 
  +n
 ' /   ("" ## .. 77 ?? NN OO ee 
@@ -570,8 +570,8 @@
 GG* 2KK KK> FKKi q
 KKá èMM NN* 2UU1 9VV* 2VV? GXX- 5ZZ* 2ZZ< D\\$ ,^^. 6
 GG9 >II 2
-UU "VVS aXX "ZZM [^^ &‰
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs
+UU "VVS aXX "ZZM [^^ &µ
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs
 
  
 
@@ -579,8 +579,8 @@ rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumenta
 		) - "
 # 4 
 > B& *
-* 4 ô
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs
+* 4 Í
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs
 
 !! 
 
@@ -630,8 +630,8 @@ rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumenta
 òò 
 
 öö &
-úú µ
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs
+úú Ö
+SC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs
 
  
 
@@ -641,8 +641,8 @@ rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumenta
 
  
 
- $≠
-ÜC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+ $}
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
 
  "
 

@@ -1,91 +1,36 @@
 
->GestorDocumentacion.Controllers.PageController.GetPage(string)ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs' '($"4*ß
-0ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) *(Ò
-Ó
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) )(.B
-%0<GestorDocumentacion.Models.Services.IPagesOperationsServices"__id*é*ã0
-.GestorDocumentacion.Controllers.PageController"W
-_pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices˛˚
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) )(=.
-%1(GestorDocumentacion.Models.Entities.Page"LGestorDocumentacion.Models.Services.IPagesOperationsServices.GetPage(string)*D
-B
-%0<GestorDocumentacion.Models.Services.IPagesOperationsServices*
-
-routestring2GetPage(string)Ä
-˝
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) )(=0
+YGestorDocumentacion.Models.Services.PagesOperationServiceMockService.GetPage(System.Guid)v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csC C("0*∏	
+0v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE F(®
+•
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE E(!(
+%0"System.Collections.Generic.List<T>"__id*{*yF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
+	_pageList"System.Collections.Generic.List<T>¯
+ı
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE E(T.
+%1(GestorDocumentacion.Models.Entities.Page"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""Â
+‚
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE E(T0
 page(GestorDocumentacion.Models.Entities.Page"__id*0
 .
-%1(GestorDocumentacion.Models.Entities.Pageé
-ã
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs* *(
-
-%2bool""object.operator !=(object, object)*
-"
-object*2
+%1(GestorDocumentacion.Models.Entities.Page"¨
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csF F(2
 0
-page(GestorDocumentacion.Models.Entities.Page*
-""*
-1
-2*∆
-1ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs, ,(Ê„
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs, ,(-
-%3'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*2
-0
-page(GestorDocumentacion.Models.Entities.Page2
-Ok(object)"ƒ
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs, ,( /
--
-%3'Microsoft.AspNetCore.Mvc.OkObjectResult*ö
-2ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs. .(∫∑
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs. .(-
-%4'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-""2
-Ok(object)"ƒ
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs. .(/
--
-%4'Microsoft.AspNetCore.Mvc.OkObjectResult*¡
-3ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs/	 /(	"®
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs/ /(	
-implicit return*õ
-4ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs'2 '(2Ω
-∫
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs' '($
-%5"__entrypoint*
-
-routestring˝
-˙
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs&	 &(
-%6"
-__annotate*@>
-<Microsoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute()*
-
-routestringΩ
-∫
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs'% '(1
-routestring"__annotation*
-
-%6*
-0:
-routestringB20
-.GestorDocumentacion.Controllers.PageController
+page(GestorDocumentacion.Models.Entities.Page*ã
+1v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csG	 G(	"ç
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csG G(	
+implicit return:
+pageIDSystem.GuidBHF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService

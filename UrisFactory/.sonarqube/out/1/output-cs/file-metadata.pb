@@ -1,0 +1,12 @@
+Ä
+wC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\Integration\ApiTest.csutf-8í
+àC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\Integration\UnitTestConfigOperations.csutf-8ç
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\Properties\Resources.Designer.csutf-8ì
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\services\SchemaConfigMemoryOperations.csutf-8É
+sC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\TestIntegracion.cswindows-1252Ö
+|C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\UnitTestConfigOperations.csutf-8
+vC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\UnitTestController.csutf-8Ä
+pC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\UnitTestUris.cswindows-1252}
+rC:\Users\JRuiz\.nuget\packages\microsoft.net.test.sdk\16.2.0\build\netcoreapp1.0\Microsoft.NET.Test.Sdk.Program.csutf-8≥
+ßC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8©
+ùC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\obj\Debug\netcoreapp3.1\XUnitTestUrisFactory.AssemblyInfo.csutf-8

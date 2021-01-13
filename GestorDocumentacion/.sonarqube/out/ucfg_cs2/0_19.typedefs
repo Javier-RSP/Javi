@@ -1,8 +1,7 @@
-™
->GestorDocumentacion.Models.Services.TemplatesOperationsServiceobjectÌ
-DTemplatesOperationsService(GestorDocumentacion.Models.EntityContext)ƒGestorDocumentacion.Models.Services.TemplatesOperationsService.TemplatesOperationsService(GestorDocumentacion.Models.EntityContext)y
-DeleteTemplate(System.Guid)ZGestorDocumentacion.Models.Services.TemplatesOperationsService.DeleteTemplate(System.Guid)i
-GetTemplate(string)RGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(string)s
-GetTemplate(System.Guid)WGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(System.Guid)_
-GetTemplates()MGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplates()Ã
-@LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)GestorDocumentacion.Models.Services.TemplatesOperationsService.LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)
+ë
+<GestorDocumentacion.Models.Services.FileOperationMockServiceobject›
+-ReadFile(Microsoft.AspNetCore.Http.IFormFile)jGestorDocumentacion.Models.Services.FileOperationMockService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)m
+DeleteDocument(string)SGestorDocumentacion.Models.Services.FileOperationMockService.DeleteDocument(string)³
+9SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)vGestorDocumentacion.Models.Services.FileOperationMockService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)i
+ReadDocument(string)QGestorDocumentacion.Models.Services.FileOperationMockService.ReadDocument(string)u
+FileOperationMockService()WGestorDocumentacion.Models.Services.FileOperationMockService.FileOperationMockService()

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>XUnitTestUrisFactory</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>665fcc09-0821-4117-9b2b-69d0a0a3318a</ProjectGuid>
+  <FullPath>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\XUnitTestUrisFactory.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\bin\Debug\netcoreapp3.1\XUnitTestUrisFactory.dll.RoslynCA.json|C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\XUnitTestUrisFactory\bin\Debug\netcoreapp3.1\XUnitTestUrisFactory.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+</ProjectInfo>

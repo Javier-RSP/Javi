@@ -1,0 +1,4 @@
+Ë
+'UrisFactory.Filters.AddParametersFilterobject∞
+BAddParametersFilter(UrisFactory.Models.Services.ConfigJsonHandler)jUrisFactory.Filters.AddParametersFilter.AddParametersFilter(UrisFactory.Models.Services.ConfigJsonHandler)Å
+jApply(Microsoft.OpenApi.Models.OpenApiOperation, Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)íUrisFactory.Filters.AddParametersFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation, Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)

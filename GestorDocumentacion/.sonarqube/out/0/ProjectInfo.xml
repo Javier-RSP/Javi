@@ -4,14 +4,14 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
   <ProjectGuid>5ac5b15c-0ce2-4495-9fae-e349209b8ed3</ProjectGuid>
-  <FullPath>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\GestorDocumentacion.csproj</FullPath>
+  <FullPath>C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\GestorDocumentacion.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\out\0\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\out\0\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\bin\Debug\netcoreapp3.1\GestorDocumentacion.dll.RoslynCA.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\bin\Debug\netcoreapp3.1\GestorDocumentacion.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\out\0</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

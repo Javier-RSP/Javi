@@ -1,7 +1,7 @@
-π
-2GestorDocumentacion.Controllers.DocumentController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectﬁ
-SDocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)ÜGestorDocumentacion.Controllers.DocumentController.DocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)g
-GetDocument(System.Guid)KGestorDocumentacion.Controllers.DocumentController.GetDocument(System.Guid)S
-GetDocuments()AGestorDocumentacion.Controllers.DocumentController.GetDocuments()√
-FLoadDocument(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)yGestorDocumentacion.Controllers.DocumentController.LoadDocument(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)m
-DeleteDocument(System.Guid)NGestorDocumentacion.Controllers.DocumentController.DeleteDocument(System.Guid)
+≤
+2GestorDocumentacion.Controllers.TemplateController'Microsoft.AspNetCore.Mvc.ControllerBaseobject◊
+èTemplateController(GestorDocumentacion.Models.Services.ITemplatesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)¬GestorDocumentacion.Controllers.TemplateController.TemplateController(GestorDocumentacion.Models.Services.ITemplatesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)g
+GetTemplate(System.Guid)KGestorDocumentacion.Controllers.TemplateController.GetTemplate(System.Guid)S
+GetTemplates()AGestorDocumentacion.Controllers.TemplateController.GetTemplates()√
+FLoadTemplate(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)yGestorDocumentacion.Controllers.TemplateController.LoadTemplate(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)m
+DeleteTemplate(System.Guid)NGestorDocumentacion.Controllers.TemplateController.DeleteTemplate(System.Guid)

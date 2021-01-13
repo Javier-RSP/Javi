@@ -1,11 +1,18 @@
 
-vGestorDocumentacion.Models.Services.FileOperationMockService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs( (( "0*Ý
-0ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs+	 +(	"¶
-ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs+ +(	
-implicit return:
-routestring:/
-document#Microsoft.AspNetCore.Http.IFormFileB@>
-<GestorDocumentacion.Models.Services.FileOperationMockService
+-GestorDocumentacion.Startup.Configuration.setM
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs(. ((1"0*‰
+0M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs(2 ((2û
+ø
+M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs(. ((2c
+GestorDocumentacion.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*<
+:
+value1Microsoft.Extensions.Configuration.IConfiguration"¶
+M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs(. ((2e*c
+GestorDocumentacion.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration::
+value1Microsoft.Extensions.Configuration.IConfigurationB
+GestorDocumentacion.Startup

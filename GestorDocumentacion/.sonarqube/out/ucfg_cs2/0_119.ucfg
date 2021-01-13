@@ -1,10 +1,43 @@
 
-SGestorDocumentacion.Models.Services.FileOperationMockService.DeleteDocument(string)û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (""0*›
-0û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs"	 "(	"∂
-û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs" "(	
-implicit return:
-routestringB@>
-<GestorDocumentacion.Models.Services.FileOperationMockService
+WGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(System.Guid)p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csN N(#"0*È
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csP Q(ß
+§
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csP  P((.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextí
+è
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csP  P(12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
+.
+%0(GestorDocumentacion.Models.EntityContextì
+ê
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csP  P(v2
+%2,GestorDocumentacion.Models.Entities.Document"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Î
+Ë
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csP P(v8
+document,GestorDocumentacion.Models.Entities.Document"__id*4
+2
+%2,GestorDocumentacion.Models.Entities.Document"Æ
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csQ Q(:
+8
+document,GestorDocumentacion.Models.Entities.Document*ˇ
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csR	 R(	"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csR R(	
+implicit return:
+
+documentIdSystem.GuidBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

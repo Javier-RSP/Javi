@@ -1,16 +1,18 @@
 
-5GestorDocumentacion.Models.EntityContext.Document.get‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* (-"0*Š
-0‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs. (.³
-°
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* (.2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*h*f*
-(GestorDocumentacion.Models.EntityContext"8
-Document,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Â
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* (.4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B,*
-(GestorDocumentacion.Models.EntityContext
+5GestorDocumentacion.Models.Entities.Document.Name.set^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs" (%"0*Ë
+0^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs& (&¾
+»
+^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs" (&@.
+,GestorDocumentacion.Models.Entities.Document"
+Namestring"__id*
+
+valuestring"¤
+^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs" (&B*@.
+,GestorDocumentacion.Models.Entities.Document"
+Namestring:
+valuestringB0.
+,GestorDocumentacion.Models.Entities.Document

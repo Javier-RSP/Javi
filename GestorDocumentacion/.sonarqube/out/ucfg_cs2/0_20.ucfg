@@ -1,23 +1,36 @@
 
-ƒGestorDocumentacion.Models.Services.TemplatesOperationsService.TemplatesOperationsService(GestorDocumentacion.Models.EntityContext) 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs ()"1*«
-1 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs	 (	*
-0*‹
-0 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs (Ý
-Ú
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs (x@
->GestorDocumentacion.Models.Services.TemplatesOperationsService"4
-_context(GestorDocumentacion.Models.EntityContext"__id*5
-3
-context(GestorDocumentacion.Models.EntityContext*
-2*á
-2 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs	 (	"¸
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs (	
-implicit return:3
-context(GestorDocumentacion.Models.EntityContextBB@
->GestorDocumentacion.Models.Services.TemplatesOperationsService
+†GestorDocumentacion.Controllers.DocumentController.DocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (!"3*å
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs	 (	u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*Ú
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (Dé
+æ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (D–4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*_
+]
+documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+2*æ
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs	 (	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (	
+implicit return*Ï
+3d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY (YÞ
+Û
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (!
+%1"__entrypoint*_
+]
+documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+1:]
+documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceB64
+2GestorDocumentacion.Controllers.DocumentController

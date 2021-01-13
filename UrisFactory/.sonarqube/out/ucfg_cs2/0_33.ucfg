@@ -1,0 +1,27 @@
+
+vUrisFactory.Extra.Exceptions.UriStructureConfiguredException.UriStructureConfiguredException(string, System.Exception)œ
+‘C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureConfiguredException.cs (."1*§
+1œ
+‘C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureConfiguredException.cs	 (	*
+0*Ø
+0œ
+‘C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureConfiguredException.cs (!®
+«
+œ
+‘C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureConfiguredException.cs ("
+
+%0void"6System.Exception.Exception(string?, System.Exception?)*
+System.Exception*
+
+messagestring*
+
+innerSystem.Exception*
+2*Ù
+2œ
+‘C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureConfiguredException.cs	 (	"´
+œ
+‘C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureConfiguredException.cs (	
+implicit return:
+messagestring:
+innerSystem.ExceptionB@>
+<UrisFactory.Extra.Exceptions.UriStructureConfiguredException

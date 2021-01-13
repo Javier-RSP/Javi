@@ -1,21 +1,36 @@
 
-PGestorDocumentacion.Models.Services.TemplatesOperationMockService.GetTemplates()£
-˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csI I(*"0*Ø
-0£
-˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csK K( ×
-Ô
-£
-˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csK K( (
-%0"System.Collections.Generic.List<T>"__id*|*zC
-AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
-_pageTemplate"System.Collections.Generic.List<T>"Ò
-£
-˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csK K(!*
+TGestorDocumentacion.Models.Services.PagesOperationServiceMockService.GetPage(string)v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs9 9("0*¸	
+0v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; <(¨
+¥
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; ;(!(
+%0"System.Collections.Generic.List<T>"__id*{*yF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
+	_pageList"System.Collections.Generic.List<T>ø
+õ
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; ;(R.
+%1(GestorDocumentacion.Models.Entities.Page"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
 (
-%0"System.Collections.Generic.List<T>*ç
-1£
-˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csL	 L(	"»
-£
-˜C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csL L(	
-implicit returnBEC
-AGestorDocumentacion.Models.Services.TemplatesOperationMockService
+%0"System.Collections.Generic.List<T>*
+""å
+â
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs; ;(R0
+page(GestorDocumentacion.Models.Entities.Page"__id*0
+.
+%1(GestorDocumentacion.Models.Entities.Page"¬
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs< <(2
+0
+page(GestorDocumentacion.Models.Entities.Page*‹
+1v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs=	 =(	"
+v
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs= =(	
+implicit return:
+routestringBHF
+DGestorDocumentacion.Models.Services.PagesOperationServiceMockService

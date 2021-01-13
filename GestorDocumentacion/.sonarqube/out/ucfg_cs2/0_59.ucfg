@@ -1,18 +1,46 @@
 
-5GestorDocumentacion.Models.EntityContext.Document.setâ
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (2"0*¡
-0â
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs3 (3∂
-≥
-â
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (3f*
-(GestorDocumentacion.Models.EntityContext"8
-Document,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
-5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ˆ
-â
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (3h*f*
-(GestorDocumentacion.Models.EntityContext"8
-Document,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
-value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B,*
-(GestorDocumentacion.Models.EntityContext
+NGestorDocumentacion.Controllers.TemplateController.DeleteTemplate(System.Guid)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csp p(+"2*µ	
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(K‘
+—
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(1F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*ö*ó4
+2GestorDocumentacion.Controllers.TemplateController"_
+_templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServices¬ø
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(L
+
+%1bool"\GestorDocumentacion.Models.Services.ITemplatesOperationsServices.DeleteTemplate(System.Guid)*H
+F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*
+""2DeleteTemplate(System.Guid)ìê
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(M-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+
+%1bool2
+Ok(object)"ó
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csr r(N/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*Ê
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.css	 s(	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.css s(	
+implicit return*ˆ
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csp< p(<Ö
+Ç
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csp p(+
+%3"__entrypoint*
+""*
+0:
+
+templateIDSystem.GuidB64
+2GestorDocumentacion.Controllers.TemplateController

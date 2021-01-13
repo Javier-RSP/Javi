@@ -1,17 +1,18 @@
 
-;GestorDocumentacion.Models.Entities.Document.SavedRoute.getŽ
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs# (&"0*­
-0Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs' ('ò
-ï
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs# ('
-%0string"__id*H*F.
-,GestorDocumentacion.Models.Entities.Document"
-
-SavedRoutestring"¡
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs# ('
-
-%0stringB0.
-,GestorDocumentacion.Models.Entities.Document
+:GestorDocumentacion.Models.Entities.Page.LastRequested.setZ
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs. (1"0*í
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs2 (2×
+Ô
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs. (2Q*
+(GestorDocumentacion.Models.Entities.Page"#
+LastRequestedSystem.Nullable<T>"__id*
+
+valueSystem.Nullable<T>"±
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs. (2S*Q*
+(GestorDocumentacion.Models.Entities.Page"#
+LastRequestedSystem.Nullable<T>:
+valueSystem.Nullable<T>B,*
+(GestorDocumentacion.Models.Entities.Page

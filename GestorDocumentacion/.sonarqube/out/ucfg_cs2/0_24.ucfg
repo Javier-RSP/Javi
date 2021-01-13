@@ -1,18 +1,39 @@
 
-8GestorDocumentacion.ViewModel.TemplateViewModel.Name.set‘
-†C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs" (%"0*í
-0‘
-†C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs& (&õ
-ò
-‘
-†C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs" (&C1
-/GestorDocumentacion.ViewModel.TemplateViewModel"
-Namestring"__id*
-
-valuestring"Û
-‘
-†C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs" (&E*C1
-/GestorDocumentacion.ViewModel.TemplateViewModel"
-Namestring:
-valuestringB31
-/GestorDocumentacion.ViewModel.TemplateViewModel
+eGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs ( "0*á
+0i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !(#˜
+•
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !(/
+%0)Microsoft.AspNetCore.Http.RequestDelegate"__id*q*o9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegateÍ
+Ê
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !($!
+%1System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*-+
+)Microsoft.AspNetCore.Http.RequestDelegate*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+1
+2*š
+1i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs% %(6¤
+¡
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs% %(7!
+%2System.Threading.Tasks.Task"…GestorDocumentacion.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+
+exSystem.Exception*
+2*ñ
+2i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs'	 '(	"€
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs' '(	
+implicit return:0
+context%Microsoft.AspNetCore.Http.HttpContextB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

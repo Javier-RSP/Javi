@@ -1,20 +1,20 @@
 
-;GestorDocumentacion.Models.Entities.Document.SavedRoute.setŽ
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs( (+"0*ê
-0Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs, (,õ
-ò
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs( (,F.
-,GestorDocumentacion.Models.Entities.Document"
+;GestorDocumentacion.Models.Entities.Document.DocumentId.set^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs& ()"0*æ
+0^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs* (*Î
+Ë
+^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs& (*K.
+,GestorDocumentacion.Models.Entities.Document"
 
-SavedRoutestring"__id*
-
-valuestring"Û
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs( (,H*F.
-,GestorDocumentacion.Models.Entities.Document"
+DocumentIdSystem.Guid"__id*
+
+valueSystem.Guid"¯
+^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs& (*M*K.
+,GestorDocumentacion.Models.Entities.Document"
 
-SavedRoutestring:
-valuestringB0.
+DocumentIdSystem.Guid:
+valueSystem.GuidB0.
 ,GestorDocumentacion.Models.Entities.Document

@@ -1,90 +1,15 @@
 
-\GestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocumentBytes(System.Guid) 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs> >(&"0*¥
-0 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@ B( Ø
-Õ
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@  @((.
-%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"4
-_context(GestorDocumentacion.Models.EntityContextÃ
-À
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@  @(12
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
-.
-%0(GestorDocumentacion.Models.EntityContextÄ
-Á
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@  @(v2
-%2,GestorDocumentacion.Models.Entities.Document"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""œ
-™
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@ @(v8
-document,GestorDocumentacion.Models.Entities.Document"__id*4
-2
-%2,GestorDocumentacion.Models.Entities.DocumentÄ
-Á
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csA A(
-databyte[]"__id*
-""¦
-£
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csB B( 
-
-%3bool""object.operator !=(object, object)*
-"
-object*:
-8
-document,GestorDocumentacion.Models.Entities.Document*
-""*
-1
-2*§
-1 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(NŠ
-‡
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(-?
-%49GestorDocumentacion.Models.Services.IFileOperationService"__id*š*—@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"S
-_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService­
-ª
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD; D(N
-%5string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
-8
-document,GestorDocumentacion.Models.Entities.Documentíê
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(O
-%6byte[]"NGestorDocumentacion.Models.Services.IFileOperationService.ReadDocument(string)*A
-?
-%49GestorDocumentacion.Models.Services.IFileOperationService*
-
-%5string2ReadDocument(string)Ì
-É
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(O
-databyte[]"__id*
-
-%6byte[]*
-2*Þ
-2 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csF F("µ
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csF F(
-
-databyte[]*á
-3 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csG	 G(	"¸
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csG G(	
-implicit return:
-
-documentIdSystem.GuidBB@
->GestorDocumentacion.Models.Services.DocumentsOperationsService
+jGestorDocumentacion.Models.Services.FileOperationMockService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)n
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs ("0*¤
+0n
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (M"®
+n
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (N<:
+8<html><head></head><body><p>hola mundo</p></body></html>*û
+1n
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs	 (	"…
+n
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (	
+implicit return:+
+file#Microsoft.AspNetCore.Http.IFormFileB@>
+<GestorDocumentacion.Models.Services.FileOperationMockService

@@ -1,23 +1,16 @@
 
-VGestorDocumentacion.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs# #("1*†
-1|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs&	 &(	*
-0*Ù
-0|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs% %()Ð
-Í
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs% %()7
-%01Microsoft.Extensions.Configuration.IConfiguration"-GestorDocumentacion.Startup.Configuration.set*
-GestorDocumentacion.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2*—
-2|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs&	 &(	"“
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs& &(	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB
-GestorDocumentacion.Startup
+9GestorDocumentacion.Models.Entities.Page.LastModified.getZ
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs' (*"0*¦
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs+ (+Í
+Ê
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs' (+
+%0System.DateTime"__id*O*M*
+(GestorDocumentacion.Models.Entities.Page"
+LastModifiedSystem.DateTime"u
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs' (+
+
+%0System.DateTimeB,*
+(GestorDocumentacion.Models.Entities.Page

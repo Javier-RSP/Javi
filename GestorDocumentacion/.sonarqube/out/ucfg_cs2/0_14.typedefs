@@ -1,10 +1,15 @@
-³
-,GestorDocumentacion.Models.Entities.TemplateobjectE
+¿
+(GestorDocumentacion.Models.Entities.Pageobject9
+Page()/GestorDocumentacion.Models.Entities.Page.Page()A
 
-Template()7GestorDocumentacion.Models.Entities.Template.Template()M
-TemplateID.get;GestorDocumentacion.Models.Entities.Template.TemplateID.getM
-TemplateID.set;GestorDocumentacion.Models.Entities.Template.TemplateID.setA
-Name.get5GestorDocumentacion.Models.Entities.Template.Name.getA
-Name.set5GestorDocumentacion.Models.Entities.Template.Name.setG
-Content.get8GestorDocumentacion.Models.Entities.Template.Content.getG
-Content.set8GestorDocumentacion.Models.Entities.Template.Content.set
+PageID.get3GestorDocumentacion.Models.Entities.Page.PageID.getA
+
+PageID.set3GestorDocumentacion.Models.Entities.Page.PageID.set?
+	Route.get2GestorDocumentacion.Models.Entities.Page.Route.get?
+	Route.set2GestorDocumentacion.Models.Entities.Page.Route.setC
+Content.get4GestorDocumentacion.Models.Entities.Page.Content.getC
+Content.set4GestorDocumentacion.Models.Entities.Page.Content.setM
+LastModified.get9GestorDocumentacion.Models.Entities.Page.LastModified.getM
+LastModified.set9GestorDocumentacion.Models.Entities.Page.LastModified.setO
+LastRequested.get:GestorDocumentacion.Models.Entities.Page.LastRequested.getO
+LastRequested.set:GestorDocumentacion.Models.Entities.Page.LastRequested.set

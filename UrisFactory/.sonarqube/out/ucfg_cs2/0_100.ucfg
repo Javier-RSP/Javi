@@ -1,0 +1,34 @@
+
+3UrisFactory.Models.Services.ReaderConfigJson.Read()å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs* (."0*Ë
+0å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs (Ù
+Ò
+å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs (E
+%0string""System.IO.File.ReadAllText(string)*"
+System.IO.File*
+Config/UrisConfig.jsonπ
+∂
+å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs (E
+textostring"__id*
+
+%0stringœ
+Ã
+å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs (;
+%15UrisFactory.Models.ConfigEntities.UriStructureGeneral"9UrisFactory.Models.Services.ReaderConfigJson.Read(string)*0".
+,UrisFactory.Models.Services.ReaderConfigJson*
+
+textostring"Œ
+å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs (=
+;
+%15UrisFactory.Models.ConfigEntities.UriStructureGeneral*π
+1å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs	 (	"§
+å
+ÅC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ReaderConfigJSON.cs (	
+implicit returnB0".
+,UrisFactory.Models.Services.ReaderConfigJson

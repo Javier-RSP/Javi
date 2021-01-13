@@ -1,39 +1,46 @@
 
-eGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs ( "0*ô
-0™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !(#É
-Æ
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !(/
-%0)Microsoft.AspNetCore.Http.RequestDelegate"__id*q*o9
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"2
-_next)Microsoft.AspNetCore.Http.RequestDelegateþ
-û
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs! !($!
-%1System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*-+
-)Microsoft.AspNetCore.Http.RequestDelegate*2
-0
-context%Microsoft.AspNetCore.Http.HttpContext*
-1
-2*ü
-1™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs% %(6Õ
-Ò
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs% %(7!
-%2System.Threading.Tasks.Task"…GestorDocumentacion.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)*;9
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware*2
-0
-context%Microsoft.AspNetCore.Http.HttpContext*
-
-exSystem.Exception*
-2*Ó
-2™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs'	 '(	"±
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs' '(	
-implicit return:0
-context%Microsoft.AspNetCore.Http.HttpContextB;9
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware
+¶GestorDocumentacion.Controllers.PageController.PageController(GestorDocumentacion.Models.Services.IPagesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs ("3*á
+1`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs!	 !(	u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*Ž
+0`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs  (:Ó
+Ð
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs (<‹0
+.GestorDocumentacion.Controllers.PageController"W
+_pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices"__id*X
+V
+pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServicesË
+È
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs   (:‡0
+.GestorDocumentacion.Controllers.PageController"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService"__id*T
+R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
+2*Þ
+2`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs!	 !(	"w
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs! !(	
+implicit return*–
+3`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs{ ({©
+¦
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs (
+%1"__entrypoint*X
+V
+pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices*T
+R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
+1:V
+pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices:R
+fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationServiceB20
+.GestorDocumentacion.Controllers.PageController

@@ -1,27 +1,18 @@
 
-PGestorDocumentacion.Models.Services.FileOperationsService.DeleteDocument(string)õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs& &(""0*Ú
-0õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs( )(!œ
-Ã
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs( (($
-	routeFilestring"__id*
-
-routestring˜
-Ù
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs) )("
-
-%0void"System.IO.File.Delete(string)*"
-System.IO.File*
-
-	routeFilestring*
-1*◊
-1õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs*	 *(	"≥
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs* *(	
-implicit return:
-routestringB=;
-9GestorDocumentacion.Models.Services.FileOperationsService
+<GestorDocumentacion.ViewModel.PageViewModel.LastModified.set]
+SC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs, (/"0*Ò
+0]
+SC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs0 (0÷
+”
+]
+SC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs, (0P-
++GestorDocumentacion.ViewModel.PageViewModel"
+LastModifiedSystem.DateTime"__id*
+
+valueSystem.DateTime"≥
+]
+SC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs, (0R*P-
++GestorDocumentacion.ViewModel.PageViewModel"
+LastModifiedSystem.DateTime:
+valueSystem.DateTimeB/-
++GestorDocumentacion.ViewModel.PageViewModel

@@ -1,0 +1,11 @@
+°
+
+%UrisFactory.Models.Services.UriFormerobjectª
+@UriFormer(UrisFactory.Models.ConfigEntities.UriStructureGeneral)fUrisFactory.Models.Services.UriFormer.UriFormer(UrisFactory.Models.ConfigEntities.UriStructureGeneral)À
+KGetURI(string, System.Collections.Generic.Dictionary<string, string>, bool)qUrisFactory.Models.Services.UriFormer.GetURI(string, System.Collections.Generic.Dictionary<string, string>, bool)¼
+ˆGetUriByStructure(UrisFactory.Models.ConfigEntities.UriStructure, string, string, System.Collections.Generic.Dictionary<string, string>)®UrisFactory.Models.Services.UriFormer.GetUriByStructure(UrisFactory.Models.ConfigEntities.UriStructure, string, string, System.Collections.Generic.Dictionary<string, string>)å
+]ParserCharacter(System.Collections.Generic.List<UrisFactory.Models.ConfigEntities.Component>)ƒUrisFactory.Models.Services.UriFormer.ParserCharacter(System.Collections.Generic.List<UrisFactory.Models.ConfigEntities.Component>)`
+ParserResourceClass(string)AUrisFactory.Models.Services.UriFormer.ParserResourceClass(string)n
+"ParserResourceClassRdfType(string)HUrisFactory.Models.Services.UriFormer.ParserResourceClassRdfType(string)J
+UriStructure.get6UrisFactory.Models.Services.UriFormer.UriStructure.getJ
+UriStructure.set6UrisFactory.Models.Services.UriFormer.UriStructure.set

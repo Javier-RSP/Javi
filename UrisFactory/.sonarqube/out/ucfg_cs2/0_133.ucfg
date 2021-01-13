@@ -1,0 +1,63 @@
+
+«UrisFactory.Models.Services.ConfigJsonHandler.DeleteUriStructureInfo(UrisFactory.Models.ConfigEntities.UriStructure, System.Collections.Generic.List<UrisFactory.Models.ConfigEntities.ResourcesClass>)è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csò ò(+"0*ç	
+0è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csö õ(9“
+œ
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csö ö(;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral»
+≈
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csö ö($)
+%1#System.Collections.Generic.IList<T>"GUrisFactory.Models.ConfigEntities.UriStructureGeneral.UriStructures.get*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral–Õ
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csö ö(9
+
+%2bool"3System.Collections.Generic.ICollection<T>.Remove(T)*+
+)
+%1#System.Collections.Generic.IList<T>*@
+>
+uriStructure.UrisFactory.Models.ConfigEntities.UriStructure2	Remove(T)*
+1*ù
+1è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs†	 †(	*
+2
+3*ä	
+2è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csù ù(7“
+œ
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csù ù(;
+%35UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneralÀ
+»
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csù ù(+)
+%4#System.Collections.Generic.IList<T>"JUrisFactory.Models.ConfigEntities.UriStructureGeneral.ResourcesClasses.get*=
+;
+%35UrisFactory.Models.ConfigEntities.UriStructureGeneral «
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csù ù(8
+
+%5bool"3System.Collections.Generic.ICollection<T>.Remove(T)*+
+)
+%4#System.Collections.Generic.IList<T>*:
+8
+item0UrisFactory.Models.ConfigEntities.ResourcesClass2	Remove(T)*
+1*ø
+3è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs†	 †(	"ß
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs† †(	
+implicit return:>
+uriStructure.UrisFactory.Models.ConfigEntities.UriStructure:4
+resourcesClass"System.Collections.Generic.List<T>B1/
+-UrisFactory.Models.Services.ConfigJsonHandler

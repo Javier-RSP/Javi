@@ -1,0 +1,39 @@
+
+]UrisFactory.Middlewares.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs ( "0*Œ
+0è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs" "(#∑
+¥
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs" "(/
+%0)Microsoft.AspNetCore.Http.RequestDelegate"__id*i*g1
+/UrisFactory.Middlewares.ErrorHandlingMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegateÙ
+Ò
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs" "($!
+%1System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*-+
+)Microsoft.AspNetCore.Http.RequestDelegate*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+1
+2*◊
+1è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs& &(6∫
+∑
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs& &(7!
+%2System.Threading.Tasks.Task"}UrisFactory.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)*31
+/UrisFactory.Middlewares.ErrorHandlingMiddleware*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+
+exSystem.Exception*
+2*ø
+2è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs(	 ((	"ß
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs( ((	
+implicit return:0
+context%Microsoft.AspNetCore.Http.HttpContextB31
+/UrisFactory.Middlewares.ErrorHandlingMiddleware

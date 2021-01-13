@@ -1,83 +1,90 @@
 
-jGestorDocumentacion.Migrations.AddDocument.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs  ($"0*„
-0õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs  5( Ÿ÷
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs  !(!_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+\GestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocumentBytes(System.Guid)p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs> >(&"0*Œ
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@ B( ß
+§
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@  @((.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextí
+è
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@  @(12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
+.
+%0(GestorDocumentacion.Models.EntityContextì
+ê
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@  @(v2
+%2,GestorDocumentacion.Models.Entities.Document"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Î
+Ë
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs@ @(v8
+document,GestorDocumentacion.Models.Entities.Document"__id*4
+2
+%2,GestorDocumentacion.Models.Entities.Documentì
+ê
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csA A(
+databyte[]"__id*
+""ı
+Ú
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csB B( 
 
-Document*
-""2DropTable(string, string)ÑÅ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs# %("_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"`Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropPrimaryKey(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-PK_Template*
+%3bool""object.operator !=(object, object)*
+"
+object*:
+8
+document,GestorDocumentacion.Models.Entities.Document*
+""*
+1
+2*≤	
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(NŸ
+÷
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(-?
+%49GestorDocumentacion.Models.Services.IFileOperationService"__id*ö*ó@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService¸
+˘
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD; D(N
+%5string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
+8
+document,GestorDocumentacion.Models.Entities.Documentºπ
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(O
+%6byte[]"NGestorDocumentacion.Models.Services.IFileOperationService.ReadDocument(string)*A
+?
+%49GestorDocumentacion.Models.Services.IFileOperationService*
+
+%5string2ReadDocument(string)õ
+ò
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csD D(O
+databyte[]"__id*
+
+%6byte[]*
+2*¸
+2p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csF F("Ñ
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csF F(
+
+databyte[]*ˇ
+3p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csG	 G(	"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csG G(	
+implicit return:
 
-Template*
-""2&DropPrimaryKey(string, string, string)˚¯
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs' )("_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-TemplateID*
-
-Template*
-""2"DropColumn(string, string, string)¡æ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs0 0(N
-%3System.Guid"System.GuidÜ
-É
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs0" 0(&
-
-%4void"System.Guid.Guid(string)*
-
-%3System.Guid*(&
-$00000000-0000-0000-0000-000000000000ÎË
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs+ 0(O_
-%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¶Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-PageID*
-
-Template*
-uuid*
-""*
-""*
-""*
-""*
-""*
-
-%3System.Guid*
-""*
-""*
-""*
-""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)ûõ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs2 5(!_
-%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"gMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddPrimaryKey(string, string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-PK_Template*
-
-Template*
-
-PageID*
-""2-AddPrimaryKey(string, string, string, string)*
-1*◊
-1õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs6	 6(	"≥
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs6 6(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB.,
-*GestorDocumentacion.Migrations.AddDocument
+documentIdSystem.GuidBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

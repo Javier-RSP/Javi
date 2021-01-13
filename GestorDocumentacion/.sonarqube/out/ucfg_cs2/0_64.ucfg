@@ -1,36 +1,69 @@
 
-ÜGestorDocumentacion.Controllers.DocumentController.DocumentController(GestorDocumentacion.Models.Services.IDocumentsOperationsService)î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (!"3*ñ
-1î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs	 (	u
-s
+]GestorDocumentacion.Models.Services.TemplatesOperationMockService.DeleteTemplate(System.Guid)s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs* *(""0*ë
 
-%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-0*º
-0î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (Dö
-ó
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (Dñ4
-2GestorDocumentacion.Controllers.DocumentController"^
-_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*_
-]
-documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
-2*…
-2î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs	 (	"¨
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (	
-implicit return*±
-3î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csY (Yè
-å
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs (!
-%1"__entrypoint*_
-]
-documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
-1:]
-documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceB64
-2GestorDocumentacion.Controllers.DocumentController
+0s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs, -( ¶
+£
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs,  ,(-(
+%0"System.Collections.Generic.List<T>"__id*|*zC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
+_pageTemplate"System.Collections.Generic.List<T>˘
+ˆ
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs,  ,(h2
+%1,GestorDocumentacion.Models.Entities.Template"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%0"System.Collections.Generic.List<T>*
+""Ó
+Î
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs, ,(h8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%1,GestorDocumentacion.Models.Entities.Template¯
+ı
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs- -( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+""*
+1
+2*√
+1s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs/ /(-¶
+£
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs/ /((
+%3"System.Collections.Generic.List<T>"__id*|*zC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
+_pageTemplate"System.Collections.Generic.List<T>ö
+ó
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs/ /(.
+
+%4bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%3"System.Collections.Generic.List<T>*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+2*˜
+2s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs1 1("}
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs1 1(
+""*Ö
+3s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs2	 2(	"ä
+s
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs2 2(	
+implicit return:
+
+templateIDSystem.GuidBEC
+AGestorDocumentacion.Models.Services.TemplatesOperationMockService

@@ -1,0 +1,142 @@
+
+ÅUrisFactory.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csr r("0*˜
+0r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cst t(#ı
+Ú
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cst t(#
+
+%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1
+2*∏
+1r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csv v(/π
+∂
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csv v(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+2*‘.
+2s
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csx ñ(†
+ù
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csx x(#6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"yMicrosoft.AspNetCore.Builder.AuthAppBuilderExtensions.UseAuthentication(Microsoft.AspNetCore.Builder.IApplicationBuilder)*9"7
+5Microsoft.AspNetCore.Builder.AuthAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder…
+∆
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csy y(>6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"íMicrosoft.AspNetCore.Builder.UseMiddlewareExtensions.UseMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Type, params object[])*8"6
+4Microsoft.AspNetCore.Builder.UseMiddlewareExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+""…
+∆
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csz z(?6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"íMicrosoft.AspNetCore.Builder.UseMiddlewareExtensions.UseMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Type, params object[])*8"6
+4Microsoft.AspNetCore.Builder.UseMiddlewareExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+""™
+ß
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cs{ {(%6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder¿
+Ω
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cs} }(6
+%60Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÍÁ
+s
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cs$ Ç(:
+%74Microsoft.AspNetCore.Builder.ForwardedHeadersOptions"4Microsoft.AspNetCore.Builder.ForwardedHeadersOptionsë
+é
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cs( (?
+
+%8void"NMicrosoft.AspNetCore.Builder.ForwardedHeadersOptions.ForwardedHeadersOptions()*<
+:
+%74Microsoft.AspNetCore.Builder.ForwardedHeadersOptionsç
+ä
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csÅ# Å(A
+%9"__id*
+""é
+ã
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csÅD Å(d
+%10"__id*
+""∆
+√
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csÅ Å(d:
+%113Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders"IMicrosoft.AspNetCore.Builder.ForwardedHeadersOptions.ForwardedHeaders.set*<
+:
+%74Microsoft.AspNetCore.Builder.ForwardedHeadersOptions*
+""ù
+ö
+s
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.cs Ç(7
+%120Microsoft.AspNetCore.Builder.IApplicationBuilder"≥Microsoft.AspNetCore.Builder.ForwardedHeadersExtensions.UseForwardedHeaders(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Builder.ForwardedHeadersOptions)*;"9
+7Microsoft.AspNetCore.Builder.ForwardedHeadersExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*<
+:
+%74Microsoft.AspNetCore.Builder.ForwardedHeadersOptionsµ
+≤
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csÑ Ñ("7
+%130Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder„
+‡
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csÜ ç(7
+%140Microsoft.AspNetCore.Builder.IApplicationBuilder"∞Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
+5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""Ì
+Í
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csé ë(7
+%150Microsoft.AspNetCore.Builder.IApplicationBuilder"∏Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
+7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""ê
+ç
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csì ñ(7
+%160Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+3*á
+3t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csó	 ó(	"ã
+t
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Startup.csó ó(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+UrisFactory.Startup

@@ -1,5 +1,5 @@
-)
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs
+¿)
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs
 	namespace 	
 GestorDocumentacion
  
@@ -291,8 +291,8 @@ HttpDeleteee	 
 ;iiI J
 }jj 	
 }kk 
-}ll Ë4
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs
+}ll ∏4
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs
 	namespace 	
 GestorDocumentacion
  
@@ -660,8 +660,8 @@ DeletePage||. 8
 ;||A B
 }}} 	
 }~~ 
-} ∞3
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs
+} Ä3
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs
 	namespace 	
 GestorDocumentacion
  
@@ -1015,8 +1015,8 @@ templateIDrrA K
 ;rrM N
 }ss 	
 }tt 
-}uu ÄF
-éC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs
+}uu –E
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs
 	namespace 	
 GestorDocumentacion
  
@@ -1526,8 +1526,8 @@ GetLogPathii  
 } 	
 }
 ÄÄ 
-}ÅÅ À%
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
+}ÅÅ õ%
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
 	namespace 	
 GestorDocumentacion
  
@@ -1806,8 +1806,8 @@ TemplateID""; E
 ;88! "
 }99 	
 }:: 
-};; ª
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs
+};; ã
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs
 	namespace 	
 GestorDocumentacion
  
@@ -2040,8 +2040,8 @@ DropColumn'' '
 ;55! "
 }66 	
 }77 
-}88 Ö+
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.cs
+}88 ’*
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.cs
 	namespace 	
 GestorDocumentacion
  
@@ -2356,8 +2356,8 @@ oldClrType?? 
 ;LL 
 }MM 	
 }NN 
-}OO ‚
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs
+}OO ≤
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs
 	namespace
 
  	
@@ -2422,9 +2422,9 @@ SavedRoute  
 ;+ ,
 }- .
 } 
-} ‹
+} ≠
 
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs
 	namespace
 
  	
@@ -2509,8 +2509,8 @@ SavedRoute  
 ;1 2
 }3 4
 } 
-} ﬂ
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs
+} Ø
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs
 	namespace
 
  	
@@ -2574,8 +2574,8 @@ TemplateID 
 ;( )
 }* +
 } 
-} †
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs
+} Ò
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs
 	namespace 	
 GestorDocumentacion
  
@@ -2733,8 +2733,8 @@ TemplateID 
 ;,, 
 }-- 	
 }.. 
-}// ΩQ
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs
+}// çQ
+jC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -3454,8 +3454,8 @@ documentId
 °° 	
 }
 ¢¢ 
-}££ ˛K
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs
+}££ ŒK
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4063,8 +4063,8 @@ documentId
 ññ 	
 }
 óó 
-}òò Ó
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs
+}òò æ
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4140,8 +4140,8 @@ documentId
 ;330 1
 }44 	
 }55 
-}66 ›
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs
+}66 ≠
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4306,8 +4306,8 @@ AppendLine %
 ;>> 
 }?? 	
 }@@ 
-}AA ‰
-ñC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\IDocumentsOperationsService.cs
+}AA ¥
+gC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\IDocumentsOperationsService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4399,8 +4399,8 @@ documentId55? I
 )==V W
 ;==W X
 }>> 
-}?? √
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\IFileOperationService.cs
+}?? ì
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\IFileOperationService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4454,8 +4454,8 @@ documentId55? I
 )/ 0
 ;0 1
 }   
-}!! •	
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\IPagesOperationsServices.cs
+}!! ı
+dC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\IPagesOperationsServices.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4515,8 +4515,8 @@ DeletePage// 
 )//* +
 ;//+ ,
 }00 
-}11 ‹	
-óC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\ITemplatesOperationsServices.cs
+}11 ¨	
+hC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\ITemplatesOperationsServices.cs
 	namespace 	
 GestorDocumentacion
  
@@ -4577,8 +4577,8 @@ templateID//( 2
 )//2 3
 ;//3 4
 }00 
-}11 “;
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs
+}11 ¢;
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -5025,8 +5025,8 @@ pageModifyww "
 ÇÇ 	
 }
 ÉÉ 
-}ÑÑ û8
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs
+}ÑÑ Ó7
+lC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -5441,8 +5441,8 @@ pageModifyll "
 ;tt 
 }uu 	
 }vv 
-}ww ˙5
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs
+}ww  5
+iC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -5834,8 +5834,8 @@ TemplateID__: D
 ;pp 
 }qq 	
 }rr 
-}ss ï3
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs
+}ss Â2
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs
 	namespace 	
 GestorDocumentacion
  
@@ -6204,9 +6204,9 @@ TemplateIDUU: D
 ;gg 
 }hh 	
 }ii 
-}jj ”
+}jj §
 
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs
 	namespace 	
 GestorDocumentacion
  
@@ -6282,8 +6282,8 @@ UseStartup )
 ) 
 ; 
 } 
-} ∫_
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs
+} ã_
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs
 	namespace 	
 GestorDocumentacion
  
@@ -7082,8 +7082,8 @@ swaggerDoc
 ûû 	
 }
 üü 
-}†† Æ
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs
+}†† ˛
+SC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs
 	namespace 	
 GestorDocumentacion
  
@@ -7141,8 +7141,8 @@ swaggerDoc
 ;/ 0
 }1 2
 } 
-} ó
-ÜC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+} Á
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
 	namespace 	
 GestorDocumentacion
  

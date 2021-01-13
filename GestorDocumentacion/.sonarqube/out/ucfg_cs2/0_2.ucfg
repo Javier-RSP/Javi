@@ -1,9 +1,13 @@
 
-7GestorDocumentacion.Models.Entities.Document.Document()Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs ("0*½
-0Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs ("¦
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs (
+<GestorDocumentacion.Migrations.InitialCreate.InitialCreate()m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs (&"0*ƒ
+0m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs: :(‡
+„
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"„
+m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs :(
 implicit returnB0.
-,GestorDocumentacion.Models.Entities.Document
+,GestorDocumentacion.Migrations.InitialCreate

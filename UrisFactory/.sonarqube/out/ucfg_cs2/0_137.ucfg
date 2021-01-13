@@ -1,0 +1,37 @@
+
+EUrisFactory.Models.Services.ConfigJsonHandler.GetUriStructure(string)è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs¬ ¬(+"0*û
+0è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csƒ ƒ(c“
+œ
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csƒ ƒ(;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral»
+≈
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csƒ ƒ(+)
+%1#System.Collections.Generic.IList<T>"GUrisFactory.Models.ConfigEntities.UriStructureGeneral.UriStructures.get*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneralô
+ñ
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csƒ ƒ(d4
+%2.UrisFactory.Models.ConfigEntities.UriStructure"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*+
+)
+%1#System.Collections.Generic.IList<T>*
+""" 
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csƒ ƒ(e6
+4
+%2.UrisFactory.Models.ConfigEntities.UriStructure*ø
+1è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs≈	 ≈(	"ß
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs≈ ≈(	
+implicit return:
+namestringB1/
+-UrisFactory.Models.Services.ConfigJsonHandler

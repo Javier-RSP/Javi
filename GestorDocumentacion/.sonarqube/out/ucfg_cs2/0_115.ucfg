@@ -1,62 +1,407 @@
 
-_GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocumentInfo(System.Guid)¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csú* ú(9"0*ı
-0¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csû' †(úô
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csû1 û(Q9
-%03System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>∑
-¥
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csû5 û(O
+rGestorDocumentacion.Models.Services.PagesOperationService.LoadPage(GestorDocumentacion.Models.Entities.Page, bool)k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csP P("0*õ
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR V(¨©
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR# R(6
+%0System.Text.StringBuilder"System.Text.StringBuilder 
+«
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR' R(4
 
-%1void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*;
-9
-%03System.Collections.Generic.Dictionary<TKey, TValue>Ø
-¨
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csû' û(Q>
-docInfo3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
-9
-%03System.Collections.Generic.Dictionary<TKey, TValue>ç
-ä
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csü ü(/2
-%2,GestorDocumentacion.Models.Entities.Document"[GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocument(System.Guid)*FD
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService*
-""ß
-§
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csü ü(4
-%3string"5GestorDocumentacion.Models.Entities.Document.Name.get*4
-2
-%2,GestorDocumentacion.Models.Entities.DocumentÏ
-È
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csü6 ü(R
-%4byte[]"`GestorDocumentacion.Models.Services.DocumentsOperationsMockService.GetDocumentBytes(System.Guid)*FD
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService*
-""§
-°
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.csü ü(S
+%1void")System.Text.StringBuilder.StringBuilder()*!
+
+%0System.Text.StringBuilderæ
+ª
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR R(6#
+layoutSystem.Text.StringBuilder"__id*!
+
+%0System.Text.StringBuilderÔ
+Ï
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csS S(#
+%2System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
+#
+layoutSystem.Text.StringBuilder*
+@{Ä
+˝
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csT T(6
+%3System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
+#
+layoutSystem.Text.StringBuilder*
+Layout = "_Layout";Ó
+Î
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csU U("
+%4System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
+#
+layoutSystem.Text.StringBuilder*
+}*
+1
+2*„
+1k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX X( Ë
+Â
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX X( 
 
-%5void"__mapSet*@
->
-docInfo3System.Collections.Generic.Dictionary<TKey, TValue>*
+%5bool""object.operator !=(object, object)*
+"
+object*2
+0
+page(GestorDocumentacion.Models.Entities.Page*
+""*
+3
+4*ù
+3k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX$ X(FË
+Â
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX: X(F
+%6string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
+0
+page(GestorDocumentacion.Models.Entities.Page∑
+¥
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX% X(G
+
+%7bool"string.IsNullOrEmpty(string?)*
+"
+string*
 
-%3string*
-
-%4byte[]"Î
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs† †(@
->
-docInfo3System.Collections.Generic.Dictionary<TKey, TValue>*Ì
-1¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs°	 °(	"æ
-¶
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs° °(	
-implicit return:
+%6string*
+5
+4*õ
+5k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXK X(kÊ
+„
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXa X(k
+%8string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
+0
+page(GestorDocumentacion.Models.Entities.Page∑
+¥
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXL X(l
 
-documentIdSystem.GuidBFD
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService
+%9bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%8string*
+6
+4*ê
+6l
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXp X(ãË
+Â
+l
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXx X(Ç
+%10string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
+0
+page(GestorDocumentacion.Models.Entities.PageΩ
+∫
+l
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXp X(É/
+%11(GestorDocumentacion.Models.Entities.Page"IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)*=;
+9GestorDocumentacion.Models.Services.PagesOperationService*
+
+%10stringÈ
+Ê
+l
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXp X(ã
+%12bool""object.operator ==(object, object)*
+"
+object*1
+/
+%11(GestorDocumentacion.Models.Entities.Page*
+""*
+7
+4*Ì
+7k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs^ c(∂
+≥
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs^( ^(4
+%13System.DateTime"System.DateTime.Now.get*"
+System.DateTimeë
+é
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs^ ^(4
+%14System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*2
+0
+page(GestorDocumentacion.Models.Entities.Page*
+
+%13System.DateTimeû
+õ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csa a(/
+%15(GestorDocumentacion.Models.EntityContext"__id*u*s;
+9GestorDocumentacion.Models.Services.PagesOperationService"4
+_context(GestorDocumentacion.Models.EntityContextã
+à
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csa a(!3
+%16,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1GestorDocumentacion.Models.EntityContext.Page.get*1
+/
+%15(GestorDocumentacion.Models.EntityContextÓÎ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csa a(+H
+%17AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*5
+3
+%16,Microsoft.EntityFrameworkCore.DbSet<TEntity>*2
+0
+page(GestorDocumentacion.Models.Entities.Page2Add(TEntity)û
+õ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csb b(/
+%18(GestorDocumentacion.Models.EntityContext"__id*u*s;
+9GestorDocumentacion.Models.Services.PagesOperationService"4
+_context(GestorDocumentacion.Models.EntityContextıÚ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csb b(*
+
+%19int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
+/
+%18(GestorDocumentacion.Models.EntityContext2SaveChanges()"u
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csc c( 
+""*Ω
+
+2k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh i(5Ì
+Í
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh) h(4
+%20System.Guid"3GestorDocumentacion.Models.Entities.Page.PageID.get*2
+0
+page(GestorDocumentacion.Models.Entities.Page∆
+√
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh! h(5/
+%21(GestorDocumentacion.Models.Entities.Page"NGestorDocumentacion.Models.Services.PagesOperationService.GetPage(System.Guid)*=;
+9GestorDocumentacion.Models.Services.PagesOperationService*
+
+%20System.Guid·
+ﬁ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh h(56
+
+pageModify(GestorDocumentacion.Models.Entities.Page"__id*1
+/
+%21(GestorDocumentacion.Models.Entities.PageÈ
+Ê
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi) i(5
+%22string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
+0
+page(GestorDocumentacion.Models.Entities.Pageπ
+∂
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi i(6
+%23bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%22string*
+8
+9*©
+8k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi: i(\È
+Ê
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi: i(F
+%24string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
+0
+page(GestorDocumentacion.Models.Entities.PageÔ
+Ï
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csiJ i(\
+%25string"4GestorDocumentacion.Models.Entities.Page.Content.get*8
+6
+
+pageModify(GestorDocumentacion.Models.Entities.Pageœ
+Ã
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi: i(\
+%26bool""string.operator !=(string, string)*
+"
+string*
+
+%24string*
+
+%25string*
+10
+9*∏
+10k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cso p(:È
+Ê
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cso) o(5
+%27string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
+0
+page(GestorDocumentacion.Models.Entities.PageÄ
+˝
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cso o(5
+%28string"4GestorDocumentacion.Models.Entities.Page.Content.set*8
+6
+
+pageModify(GestorDocumentacion.Models.Entities.Page*
+
+%27string∂
+≥
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csp. p(:
+%29System.DateTime"System.DateTime.Now.get*"
+System.DateTimeó
+î
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csp p(:
+%30System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*8
+6
+
+pageModify(GestorDocumentacion.Models.Entities.Page*
+
+%29System.DateTime*
+9*†
+9k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr r(4Á
+‰
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr* r(4
+%31string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
+0
+page(GestorDocumentacion.Models.Entities.Pageπ
+∂
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr r(5
+%32bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%31string*
+11
+12*ß
+11k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr9 r(WÁ
+‰
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr9 r(C
+%33string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
+0
+page(GestorDocumentacion.Models.Entities.PageÌ
+Í
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csrG r(W
+%34string"2GestorDocumentacion.Models.Entities.Page.Route.get*8
+6
+
+pageModify(GestorDocumentacion.Models.Entities.Pageœ
+Ã
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr9 r(W
+%35bool""string.operator !=(string, string)*
+"
+string*
+
+%33string*
+
+%34string*
+13
+12*è
+13k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst t(3Á
+‰
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst  t(*
+%36string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
+0
+page(GestorDocumentacion.Models.Entities.Pageº
+π
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst t(+/
+%37(GestorDocumentacion.Models.Entities.Page"IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)*=;
+9GestorDocumentacion.Models.Services.PagesOperationService*
+
+%36stringË
+Â
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst t(3
+%38bool""object.operator ==(object, object)*
+"
+object*1
+/
+%37(GestorDocumentacion.Models.Entities.Page*
+""*
+14
+15*µ
+14k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csv w(>Á
+‰
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csv+ v(5
+%39string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
+0
+page(GestorDocumentacion.Models.Entities.Page˛
+˚
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csv v(5
+%40string"2GestorDocumentacion.Models.Entities.Page.Route.set*8
+6
+
+pageModify(GestorDocumentacion.Models.Entities.Page*
+
+%39string∂
+≥
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csw2 w(>
+%41System.DateTime"System.DateTime.Now.get*"
+System.DateTimeó
+î
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csw w(>
+%42System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*8
+6
+
+pageModify(GestorDocumentacion.Models.Entities.Page*
+
+%41System.DateTime*
+12*Ë
+15k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs{ {($"u
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs{ {(%
+""*Å
+12k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs~ (û
+õ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs~ ~(/
+%43(GestorDocumentacion.Models.EntityContext"__id*u*s;
+9GestorDocumentacion.Models.Services.PagesOperationService"4
+_context(GestorDocumentacion.Models.EntityContextıÚ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs~ ~(&
+
+%44int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
+/
+%43(GestorDocumentacion.Models.EntityContext2SaveChanges()"u
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs (
+""*Î
+4m
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÅ Å("w
+m
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÅ Å(
+""*˙
+16m
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÇ	 Ç(	"Ñ
+m
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÇ Ç(	
+implicit return:0
+page(GestorDocumentacion.Models.Entities.Page:
+isNewboolB=;
+9GestorDocumentacion.Models.Services.PagesOperationService

@@ -1,64 +1,335 @@
 
-dGestorDocumentacion.Models.EntityContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs    (/"0*Ö
-0‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" +($ðí
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" "('P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()–“
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" #('E
-%1?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"•Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
-P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)‡„
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" $(E
-%2?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
-E
-%1?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
-""2IsUnique(bool)ðí
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& &(+P
-%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()–“
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& '(&E
-%4?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"•Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
-P
-%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)‡„
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& ((E
-%5?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
-E
-%4?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
-""2IsUnique(bool)ðí
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* *(+P
-%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
-:
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()–“
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* +(%E
-%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"•Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
-P
-%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)‡„
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* ,(E
-%8?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
-E
-%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
-""2IsUnique(bool)*
-1*³
-1‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs-	 -(	"¡
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs- -(	
-implicit return::
-modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB,*
-(GestorDocumentacion.Models.EntityContext
+GestorDocumentacion.Models.Services.TemplatesOperationsService.LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csG G( "0*}
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csI I(*
+1
+2*õ
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK K($õ
+ò
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK K($
+
+%0bool""object.operator !=(object, object)*
+"
+object*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+""*
+3
+4*¸
+3p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK( K(Nù
+ö
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK> K(N
+%1string"8GestorDocumentacion.Models.Entities.Template.Content.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template¼
+¹
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK) K(O
+
+%2bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%1string*
+5
+4*µ
+5p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csKS K(vö
+ó
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csKi K(v
+%3string"5GestorDocumentacion.Models.Entities.Template.Name.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template¼
+¹
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csKT K(w
+
+%4bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%3string*
+6
+4*Á
+6q
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK{ K(ø
+õ
+r
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK‡ K(”
+%5string"5GestorDocumentacion.Models.Entities.Template.Name.get*:
+8
+template,GestorDocumentacion.Models.Entities.TemplateÒ
+Ï
+q
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK{ K(•2
+%6,GestorDocumentacion.Models.Entities.Template"RGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(string)*B@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService*
+
+%5stringð
+í
+q
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csK{ K(
+
+%7bool""object.operator ==(object, object)*
+"
+object*4
+2
+%6,GestorDocumentacion.Models.Entities.Template*
+""*
+7
+4*¥
+7p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csM P(°
+­
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csM* M(8
+%8System.Guid"System.Guid.NewGuid()*"
+System.Guid–
+“
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csM M(8
+%9System.Guid";GestorDocumentacion.Models.Entities.Template.TemplateID.set*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+
+%8System.Guid¨
+¥
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csN N(/
+%10(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContext”
+‘
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csN N(%3
+%11,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*1
+/
+%10(GestorDocumentacion.Models.EntityContextûø
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csN N(3H
+%12AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*5
+3
+%11,Microsoft.EntityFrameworkCore.DbSet<TEntity>*:
+8
+template,GestorDocumentacion.Models.Entities.Template2Add(TEntity)¨
+¥
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csO O(/
+%13(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextú÷
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csO O(*
+
+%14int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
+/
+%13(GestorDocumentacion.Models.EntityContext2SaveChanges()"z
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csP P( 
+""*•
+2p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csU V(:‚
+ÿ
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csU1 U(D
+%15System.Guid";GestorDocumentacion.Models.Entities.Template.TemplateID.get*:
+8
+template,GestorDocumentacion.Models.Entities.TemplateÝ
+Ú
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csU% U(E3
+%16,GestorDocumentacion.Models.Entities.Template"WGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(System.Guid)*B@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService*
+
+%15System.Guidò
+ï
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csU U(E>
+templateModify,GestorDocumentacion.Models.Entities.Template"__id*5
+3
+%16,GestorDocumentacion.Models.Entities.Templateú
+÷
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csV* V(:
+%17string"8GestorDocumentacion.Models.Entities.Template.Content.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template¾
+»
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csV V(;
+%18bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%17string*
+8
+9*Õ
+8p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csV? V(iú
+÷
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csV? V(O
+%19string"8GestorDocumentacion.Models.Entities.Template.Content.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template€
+ý
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csVS V(i
+%20string"8GestorDocumentacion.Models.Entities.Template.Content.get*@
+>
+templateModify,GestorDocumentacion.Models.Entities.TemplateÔ
+Ñ
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csV? V(i
+%21bool""string.operator !=(string, string)*
+"
+string*
+
+%19string*
+
+%20string*
+10
+9*Œ
+10p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csX X(=ú
+÷
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csX- X(=
+%22string"8GestorDocumentacion.Models.Entities.Template.Content.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template‘
+Ž
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csX X(=
+%23string"8GestorDocumentacion.Models.Entities.Template.Content.set*@
+>
+templateModify,GestorDocumentacion.Models.Entities.Template*
+
+%22string*
+9*º
+9p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZ Z(7÷
+ô
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZ* Z(7
+%24string"5GestorDocumentacion.Models.Entities.Template.Name.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template¾
+»
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZ Z(8
+%25bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%24string*
+11
+12*Ñ
+11p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZ< Z(`÷
+ô
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZ< Z(I
+%26string"5GestorDocumentacion.Models.Entities.Template.Name.get*:
+8
+template,GestorDocumentacion.Models.Entities.Templateý
+ú
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZM Z(`
+%27string"5GestorDocumentacion.Models.Entities.Template.Name.get*@
+>
+templateModify,GestorDocumentacion.Models.Entities.TemplateÔ
+Ñ
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csZ< Z(`
+%28bool""string.operator !=(string, string)*
+"
+string*
+
+%26string*
+
+%27string*
+13
+12*Ä
+13p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs\ \(:÷
+ô
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs\$ \(1
+%29string"5GestorDocumentacion.Models.Entities.Template.Name.get*:
+8
+template,GestorDocumentacion.Models.Entities.TemplateÓ
+Ð
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs\ \(23
+%30,GestorDocumentacion.Models.Entities.Template"RGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(string)*B@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService*
+
+%29stringñ
+î
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs\ \(:
+%31bool""object.operator ==(object, object)*
+"
+object*5
+3
+%30,GestorDocumentacion.Models.Entities.Template*
+""*
+14
+15*‡
+14p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs^ ^(;÷
+ô
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs^. ^(;
+%32string"5GestorDocumentacion.Models.Entities.Template.Name.get*:
+8
+template,GestorDocumentacion.Models.Entities.TemplateŽ
+‹
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs^ ^(;
+%33string"5GestorDocumentacion.Models.Entities.Template.Name.set*@
+>
+templateModify,GestorDocumentacion.Models.Entities.Template*
+
+%32string*
+12*ò
+15p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csb b($"z
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csb b(%
+""*£
+12p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cse e(&¨
+¥
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cse e(/
+%34(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextú÷
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cse e(&
+
+%35int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
+/
+%34(GestorDocumentacion.Models.EntityContext2SaveChanges()*
+4*ñ
+4p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csg g("z
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csg g(
+""*€
+16p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csh	 h(	"‡
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.csh h(	
+implicit return:8
+template,GestorDocumentacion.Models.Entities.Template:
+isNewboolBB@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService

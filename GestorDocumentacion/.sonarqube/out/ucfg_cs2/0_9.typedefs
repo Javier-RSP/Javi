@@ -1,6 +1,4 @@
-¹
-*GestorDocumentacion.Migrations.AddDocument2Microsoft.EntityFrameworkCore.Migrations.Migrationobject©
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)hGestorDocumentacion.Migrations.AddDocument.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)­
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jGestorDocumentacion.Migrations.AddDocument.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)§
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)gGestorDocumentacion.Migrations.AddDocument.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)I
-AddDocument()8GestorDocumentacion.Migrations.AddDocument.AddDocument()
+¤
+9GestorDocumentacion.Migrations.EntityContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobjectª
+6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)pGestorDocumentacion.Migrations.EntityContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)v
+EntityContextModelSnapshot()VGestorDocumentacion.Migrations.EntityContextModelSnapshot.EntityContextModelSnapshot()

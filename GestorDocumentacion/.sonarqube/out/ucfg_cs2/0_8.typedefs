@@ -1,6 +1,6 @@
-Ç
-,GestorDocumentacion.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject«
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jGestorDocumentacion.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¯
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)lGestorDocumentacion.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)©
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)iGestorDocumentacion.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)O
-InitialCreate()<GestorDocumentacion.Migrations.InitialCreate.InitialCreate()
+Ü
+/GestorDocumentacion.Migrations.changePageEntity2Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mGestorDocumentacion.Migrations.changePageEntity.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oGestorDocumentacion.Migrations.changePageEntity.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lGestorDocumentacion.Migrations.changePageEntity.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)X
+changePageEntity()BGestorDocumentacion.Migrations.changePageEntity.changePageEntity()

@@ -1,0 +1,7 @@
+organization=javier-rsp
+projectKey=prueba_dosProyectos
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.16161
+dashboardUrl=https://sonarcloud.io/dashboard?id=prueba_dosProyectos
+ceTaskId=AXb7H9AmYNJvkrUVg6T0
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXb7H9AmYNJvkrUVg6T0

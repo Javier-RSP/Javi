@@ -1,36 +1,91 @@
 
-RGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(string) 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs, ,(#"0*ê
-0 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs. .(ZØ
-Õ
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs. .(.
-%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.TemplatesOperationsService"4
-_context(GestorDocumentacion.Models.EntityContextÃ
-À
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs. .($2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*0
+>GestorDocumentacion.Controllers.PageController.GetPage(string)`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs' '($"4*²	
+0`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) *(À
+½
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) )(.B
+%0<GestorDocumentacion.Models.Services.IPagesOperationsServices"__id*Ž*‹0
+.GestorDocumentacion.Controllers.PageController"W
+_pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServicesÍÊ
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) )(=.
+%1(GestorDocumentacion.Models.Entities.Page"LGestorDocumentacion.Models.Services.IPagesOperationsServices.GetPage(string)*D
+B
+%0<GestorDocumentacion.Models.Services.IPagesOperationsServices*
+
+routestring2GetPage(string)Ï
+Ì
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs) )(=0
+page(GestorDocumentacion.Models.Entities.Page"__id*0
 .
-%0(GestorDocumentacion.Models.EntityContextÄ
-Á
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs. .([2
-%2,GestorDocumentacion.Models.Entities.Template"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""Ù
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs. .(\4
-2
-%2,GestorDocumentacion.Models.Entities.Template*á
-1 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs/	 /(	"¸
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs/ /(	
-implicit return:
-namestringBB@
->GestorDocumentacion.Models.Services.TemplatesOperationsService
+%1(GestorDocumentacion.Models.Entities.PageÝ
+Ú
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs* *(
+
+%2bool""object.operator !=(object, object)*
+"
+object*2
+0
+page(GestorDocumentacion.Models.Entities.Page*
+""*
+1
+2*³
+1`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs, ,(µ²
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs, ,(-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*2
+0
+page(GestorDocumentacion.Models.Entities.Page2
+Ok(object)"“
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs, ,( /
+-
+%3'Microsoft.AspNetCore.Mvc.OkObjectResult*‡
+2`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs. .(‰†
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs. .(-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+""2
+Ok(object)"“
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs. .(/
+-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult*Þ
+3`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs/	 /(	"w
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs/ /(	
+implicit return*×
+4`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs'2 '(2Œ
+‰
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs' '($
+%5"__entrypoint*
+
+routestringÌ
+É
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs&	 &(
+%6"
+__annotate*@>
+<Microsoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute()*
+
+routestringŒ
+‰
+`
+VC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs'% '(1
+routestring"__annotation*
+
+%6*
+0:
+routestringB20
+.GestorDocumentacion.Controllers.PageController

@@ -1,0 +1,29 @@
+
+JUrisFactory.Models.Services.SchemaConfigFileOperations.GetFileSchemaData()ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs* *('"0*≈
+0ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs, ,(/Ñ
+Å
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs,% ,(/
+%0string"__id*R*P8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+
+configPathstringÛ
+
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs, ,(0
+%1byte[]"#System.IO.File.ReadAllBytes(string)*"
+System.IO.File*
+
+%0string"©
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs, ,(1
+
+%1byte[]*Õ
+1ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs2	 2(	"Æ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs2 2(	
+implicit returnB:8
+6UrisFactory.Models.Services.SchemaConfigFileOperations

@@ -1,0 +1,605 @@
+
+BUrisFactory.ModelExamples.UriStructureGeneralExample.GetExamples()î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs# (."0*¡›
+0î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs ~(<èå
+ï
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs Å(;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral"5UrisFactory.Models.ConfigEntities.UriStructureGeneral≤
+Ø
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs (*
+
+%1void"KUrisFactory.Models.ConfigEntities.UriStructureGeneral.UriStructureGeneral()*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneralæ
+ª
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs (*
+%2string">UrisFactory.Models.ConfigEntities.UriStructureGeneral.Base.set*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral*
+http://data.um.esËÂ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs ((
+%3"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>˝
+˙
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs! (1
+
+%4void")System.Collections.Generic.List<T>.List()**
+(
+%3"System.Collections.Generic.List<T>¸˘
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs (2
+%5,UrisFactory.Models.ConfigEntities.Characters",UrisFactory.Models.ConfigEntities.Charactersó
+î
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs ("
+
+%6void"9UrisFactory.Models.ConfigEntities.Characters.Characters()*4
+2
+%5,UrisFactory.Models.ConfigEntities.Characters®
+•
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs (.
+%7string":UrisFactory.Models.ConfigEntities.Characters.Character.set*4
+2
+%5,UrisFactory.Models.ConfigEntities.Characters*
+
+resource®
+•
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs (.
+%8string"?UrisFactory.Models.ConfigEntities.Characters.LabelCharacter.set*4
+2
+%5,UrisFactory.Models.ConfigEntities.Characters*
+resˆ
+Û
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs ()
+%9#System.Collections.Generic.IList<T>"DUrisFactory.Models.ConfigEntities.UriStructureGeneral.Characters.set*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral**
+(
+%3"System.Collections.Generic.List<T>ÈÊ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs  o()
+%10"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ˇ
+¸
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs$ (6
+%11void")System.Collections.Generic.List<T>.List()*+
+)
+%10"System.Collections.Generic.List<T>Å˛
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs! G(5
+%12.UrisFactory.Models.ConfigEntities.UriStructure".UrisFactory.Models.ConfigEntities.UriStructureü
+ú
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs! !($
+%13void"=UrisFactory.Models.ConfigEntities.UriStructure.UriStructure()*7
+5
+%12.UrisFactory.Models.ConfigEntities.UriStructureµ
+≤
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs# #(5
+%14string"7UrisFactory.Models.ConfigEntities.UriStructure.Name.set*7
+5
+%12.UrisFactory.Models.ConfigEntities.UriStructure*
+uriResourceStructureÈÊ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs$% F()
+%15"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ˇ
+¸
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs$) $(8
+%16void")System.Collections.Generic.List<T>.List()*+
+)
+%15"System.Collections.Generic.List<T>˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs& -(2
+%17+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs&  &()
+%18void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%17+UrisFactory.Models.ConfigEntities.Componentß
+§
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs(  ((5
+%19string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%17+UrisFactory.Models.ConfigEntities.Component*
+base¨
+©
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs)  )(:
+%20string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%17+UrisFactory.Models.ConfigEntities.Component*
+base•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs*  *(5
+
+%21int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%17+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs+  +(0
+%22bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%17+UrisFactory.Models.ConfigEntities.Component*
+""¶
+£
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs,  ,(4
+%23string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%17+UrisFactory.Models.ConfigEntities.Component*
+/˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs. 5(2
+%24+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs.  .()
+%25void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%24+UrisFactory.Models.ConfigEntities.Component¨
+©
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs0  0(:
+%26string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%24+UrisFactory.Models.ConfigEntities.Component*
+	character±
+Æ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs1  1(?
+%27string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%24+UrisFactory.Models.ConfigEntities.Component*
+	@RESOURCE•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs2  2(5
+
+%28int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%24+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs3  3(0
+%29bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%24+UrisFactory.Models.ConfigEntities.Component*
+""¶
+£
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs4  4(4
+%30string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%24+UrisFactory.Models.ConfigEntities.Component*
+/˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs6 =(2
+%31+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs6  6()
+%32void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%31+UrisFactory.Models.ConfigEntities.Component∞
+≠
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs8  8(>
+%33string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%31+UrisFactory.Models.ConfigEntities.Component*
+resourceClass∂
+≥
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs9  9(D
+%34string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%31+UrisFactory.Models.ConfigEntities.Component*
+@RESOURCECLASS•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs:  :(5
+
+%35int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%31+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs;  ;(0
+%36bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%31+UrisFactory.Models.ConfigEntities.Component*
+""¶
+£
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs<  <(4
+%37string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%31+UrisFactory.Models.ConfigEntities.Component*
+/˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs> E(2
+%38+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs>  >()
+%39void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%38+UrisFactory.Models.ConfigEntities.Component≠
+™
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs@  @(;
+%40string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%38+UrisFactory.Models.ConfigEntities.Component*
+
+identifier´
+®
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csA  A(9
+%41string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%38+UrisFactory.Models.ConfigEntities.Component*
+@ID•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csB  B(5
+
+%42int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%38+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csC  C(0
+%43bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%38+UrisFactory.Models.ConfigEntities.Component*
+""£
+†
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csD  D(3
+%44string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%38+UrisFactory.Models.ConfigEntities.Component* Î
+Ë
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs$ F(*
+%45#System.Collections.Generic.IList<T>"=UrisFactory.Models.ConfigEntities.UriStructure.Components.set*7
+5
+%12.UrisFactory.Models.ConfigEntities.UriStructure*+
+)
+%15"System.Collections.Generic.List<T>Å˛
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csH n(5
+%46.UrisFactory.Models.ConfigEntities.UriStructure".UrisFactory.Models.ConfigEntities.UriStructureü
+ú
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csH H($
+%47void"=UrisFactory.Models.ConfigEntities.UriStructure.UriStructure()*7
+5
+%46.UrisFactory.Models.ConfigEntities.UriStructureµ
+≤
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csJ J(5
+%48string"7UrisFactory.Models.ConfigEntities.UriStructure.Name.set*7
+5
+%46.UrisFactory.Models.ConfigEntities.UriStructure*
+uriActivityStructureÈÊ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csK% m()
+%49"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ˇ
+¸
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csK) K(8
+%50void")System.Collections.Generic.List<T>.List()*+
+)
+%49"System.Collections.Generic.List<T>˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csM T(2
+%51+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csM  M()
+%52void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%51+UrisFactory.Models.ConfigEntities.Componentß
+§
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csO  O(5
+%53string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%51+UrisFactory.Models.ConfigEntities.Component*
+base¨
+©
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csP  P(:
+%54string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%51+UrisFactory.Models.ConfigEntities.Component*
+base•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csQ  Q(5
+
+%55int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%51+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csR  R(0
+%56bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%51+UrisFactory.Models.ConfigEntities.Component*
+""¶
+£
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csS  S(4
+%57string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%51+UrisFactory.Models.ConfigEntities.Component*
+/˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csU \(2
+%58+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csU  U()
+%59void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%58+UrisFactory.Models.ConfigEntities.Component¨
+©
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csW  W(:
+%60string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%58+UrisFactory.Models.ConfigEntities.Component*
+	character±
+Æ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csX  X(?
+%61string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%58+UrisFactory.Models.ConfigEntities.Component*
+	@RESOURCE•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csY  Y(5
+
+%62int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%58+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csZ  Z(0
+%63bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%58+UrisFactory.Models.ConfigEntities.Component*
+""¶
+£
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs[  [(4
+%64string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%58+UrisFactory.Models.ConfigEntities.Component*
+/˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs] d(2
+%65+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs]  ]()
+%66void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%65+UrisFactory.Models.ConfigEntities.Component∞
+≠
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs_  _(>
+%67string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%65+UrisFactory.Models.ConfigEntities.Component*
+resourceClass∂
+≥
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs`  `(D
+%68string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%65+UrisFactory.Models.ConfigEntities.Component*
+@RESOURCECLASS•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csa  a(5
+
+%69int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%65+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csb  b(0
+%70bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%65+UrisFactory.Models.ConfigEntities.Component*
+""¶
+£
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csc  c(4
+%71string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%65+UrisFactory.Models.ConfigEntities.Component*
+/˚¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cse l(2
+%72+UrisFactory.Models.ConfigEntities.Component"+UrisFactory.Models.ConfigEntities.Componentñ
+ì
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cse  e()
+%73void"7UrisFactory.Models.ConfigEntities.Component.Component()*4
+2
+%72+UrisFactory.Models.ConfigEntities.Component≠
+™
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csg  g(;
+%74string"<UrisFactory.Models.ConfigEntities.Component.UriComponent.set*4
+2
+%72+UrisFactory.Models.ConfigEntities.Component*
+
+identifier´
+®
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csh  h(9
+%75string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.set*4
+2
+%72+UrisFactory.Models.ConfigEntities.Component*
+@ID•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csi  i(5
+
+%76int"AUrisFactory.Models.ConfigEntities.Component.UriComponentOrder.set*4
+2
+%72+UrisFactory.Models.ConfigEntities.Component*2†
+ù
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csj  j(0
+%77bool"9UrisFactory.Models.ConfigEntities.Component.Mandatory.set*4
+2
+%72+UrisFactory.Models.ConfigEntities.Component*
+""£
+†
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csk  k(3
+%78string">UrisFactory.Models.ConfigEntities.Component.FinalCharacter.set*4
+2
+%72+UrisFactory.Models.ConfigEntities.Component* Î
+Ë
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csK m(*
+%79#System.Collections.Generic.IList<T>"=UrisFactory.Models.ConfigEntities.UriStructure.Components.set*7
+5
+%46.UrisFactory.Models.ConfigEntities.UriStructure*+
+)
+%49"System.Collections.Generic.List<T>˚
+¯
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs o(*
+%80#System.Collections.Generic.IList<T>"GUrisFactory.Models.ConfigEntities.UriStructureGeneral.UriStructures.set*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral*+
+)
+%10"System.Collections.Generic.List<T>ÍÁ
+ï
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csp# Ä()
+%81"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ˇ
+¸
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csp' p(;
+%82void")System.Collections.Generic.List<T>.List()*+
+)
+%81"System.Collections.Generic.List<T>ÖÇ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csr x(7
+%830UrisFactory.Models.ConfigEntities.ResourcesClass"0UrisFactory.Models.ConfigEntities.ResourcesClass•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csr r(&
+%84void"AUrisFactory.Models.ConfigEntities.ResourcesClass.ResourcesClass()*9
+7
+%830UrisFactory.Models.ConfigEntities.ResourcesClass∏
+µ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cst t(4
+%85string"BUrisFactory.Models.ConfigEntities.ResourcesClass.ResourceClass.set*9
+7
+%830UrisFactory.Models.ConfigEntities.ResourcesClass*
+
+Researcher¥
+±
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csu u(0
+%86string"<UrisFactory.Models.ConfigEntities.ResourcesClass.RdfType.set*9
+7
+%830UrisFactory.Models.ConfigEntities.ResourcesClass*
+investigadorΩ
+∫
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csv v(9
+%87string"GUrisFactory.Models.ConfigEntities.ResourcesClass.LabelResourceClass.set*9
+7
+%830UrisFactory.Models.ConfigEntities.ResourcesClass*
+
+researcher¿
+Ω
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csw w(<
+%88string"@UrisFactory.Models.ConfigEntities.ResourcesClass.ResourceURI.set*9
+7
+%830UrisFactory.Models.ConfigEntities.ResourcesClass*
+uriResourceStructureÖÇ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csy (7
+%890UrisFactory.Models.ConfigEntities.ResourcesClass"0UrisFactory.Models.ConfigEntities.ResourcesClass•
+¢
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csy y(&
+%90void"AUrisFactory.Models.ConfigEntities.ResourcesClass.ResourcesClass()*9
+7
+%890UrisFactory.Models.ConfigEntities.ResourcesClass∂
+≥
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs{ {(2
+%91string"BUrisFactory.Models.ConfigEntities.ResourcesClass.ResourceClass.set*9
+7
+%890UrisFactory.Models.ConfigEntities.ResourcesClass*
+
+Activity±
+Æ
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs| |(-
+%92string"<UrisFactory.Models.ConfigEntities.ResourcesClass.RdfType.set*9
+7
+%890UrisFactory.Models.ConfigEntities.ResourcesClass*
+	actividadª
+∏
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs} }(7
+%93string"GUrisFactory.Models.ConfigEntities.ResourcesClass.LabelResourceClass.set*9
+7
+%890UrisFactory.Models.ConfigEntities.ResourcesClass*
+
+activity¿
+Ω
+î
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs~ ~(<
+%94string"@UrisFactory.Models.ConfigEntities.ResourcesClass.ResourceURI.set*9
+7
+%890UrisFactory.Models.ConfigEntities.ResourcesClass*
+uriActivityStructureˇ
+¸
+ï
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csp Ä(*
+%95#System.Collections.Generic.IList<T>"JUrisFactory.Models.ConfigEntities.UriStructureGeneral.ResourcesClasses.set*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral*+
+)
+%81"System.Collections.Generic.List<T>"◊
+ï
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.cs Å(=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral*Õ
+1ñ
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csÇ	 Ç(	"Æ
+ñ
+âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\ModelExamples\UriStructureGeneralExample.csÇ Ç(	
+implicit returnB86
+4UrisFactory.ModelExamples.UriStructureGeneralExample

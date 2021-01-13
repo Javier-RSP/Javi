@@ -1,148 +1,29 @@
 
-IGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csX X(&"0*´
-0™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csZ \(!ä
-á
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csZ Z((
-%0System.DateTime"System.DateTime.Now.get*"
-System.DateTime×
-Ô
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csZ Z((
-timeSystem.DateTime"__id*
-
-%0System.DateTimeà
-Ý
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs[ [(%	
-%1int"System.DateTime.Month.get*
-
-timeSystem.DateTimeÊ
+NGestorDocumentacion.Models.Services.FileOperationsService.ReadDocument(string)k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs; ;(""0*×
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= >(Ê
 Ç
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs[ [(0
-%2string"int.ToString()*
-	
-%1intÆ
-Ã
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs[ [(0
-monthstring"__id*
-
-%2stringÐ
-Í
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs\ \(	
-%3int"string.Length.get*
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= =(/
+%0byte[]"#System.IO.File.ReadAllBytes(string)*"
+System.IO.File*
 
-monthstring*
-1
-2*Â
-1™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs^ ^(!Ò
-Ï
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs^ ^(#
-%4string"__concat*
-""*
-
-monthstringÆ
-Ã
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs^ ^(#
-monthstring"__id*
+routestring–
+“
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= =(/
+databyte[]"__id*
 
-%4string*
-2*í
-2™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` a(Þ
-Û
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` `(!	
-%5int"System.DateTime.Day.get*
-
-timeSystem.DateTimeÊ
-Ç
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` `(,
-%6string"int.ToString()*
-	
-%5intÄ
-Á
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` `(,
-daystring"__id*
-
-%6stringÎ
-Ë
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csa a(	
-%7int"string.Length.get*
-
-daystring*
-3
-4*¾
-3™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csc c(Ð
-Í
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csc c(
-%8string"__concat*
-""*
-
-daystringÄ
-Á
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csc c(
-daystring"__id*
-
-%8string*
-4*
-4™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse f(ß
-Ü
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse" e(+	
-%9int"System.DateTime.Year.get*
-
-timeSystem.DateTimeË
-È
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse" e(6
-%10string"int.ToString()*
-	
-%9intÜ
-Ù
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse e(D
-%11string"__concat*
-
-%10string*
-
-monthstringÚ
-×
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse e(D
-%12string"__concat*
-
-%11string*
-
-daystringË
-È
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse e(D
-	timeStampstring"__id*
-
-%12string"³
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csf f(
-
-	timeStampstring*Ó
-5™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csg	 g(	"±
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csg g(	
-implicit returnB;9
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware
+%0byte[]"
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs> >(
+
+databyte[]*õ
+1k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs?	 ?(	"‚
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs? ?(	
+implicit return:
+routestringB=;
+9GestorDocumentacion.Models.Services.FileOperationsService

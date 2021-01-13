@@ -1,7 +1,9 @@
-ë
-<GestorDocumentacion.Models.Services.FileOperationMockServiceobject›
--ReadFile(Microsoft.AspNetCore.Http.IFormFile)jGestorDocumentacion.Models.Services.FileOperationMockService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)m
-DeleteDocument(string)SGestorDocumentacion.Models.Services.FileOperationMockService.DeleteDocument(string)³
-9SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)vGestorDocumentacion.Models.Services.FileOperationMockService.SaveDocument(string, Microsoft.AspNetCore.Http.IFormFile)i
-ReadDocument(string)QGestorDocumentacion.Models.Services.FileOperationMockService.ReadDocument(string)u
-FileOperationMockService()WGestorDocumentacion.Models.Services.FileOperationMockService.FileOperationMockService()
+»
+9GestorDocumentacion.Models.Services.PagesOperationServiceobject¼
+?PagesOperationService(GestorDocumentacion.Models.EntityContext)yGestorDocumentacion.Models.Services.PagesOperationService.PagesOperationService(GestorDocumentacion.Models.EntityContext)l
+DeletePage(System.Guid)QGestorDocumentacion.Models.Services.PagesOperationService.DeletePage(System.Guid)\
+GetPage(string)IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)f
+GetPage(System.Guid)NGestorDocumentacion.Models.Services.PagesOperationService.GetPage(System.Guid)R
+
+GetPages()DGestorDocumentacion.Models.Services.PagesOperationService.GetPages()®
+8LoadPage(GestorDocumentacion.Models.Entities.Page, bool)rGestorDocumentacion.Models.Services.PagesOperationService.LoadPage(GestorDocumentacion.Models.Entities.Page, bool)

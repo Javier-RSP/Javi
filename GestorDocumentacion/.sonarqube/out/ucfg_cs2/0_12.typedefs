@@ -1,6 +1,7 @@
-Ü
-/GestorDocumentacion.Migrations.changePageEntity2Microsoft.EntityFrameworkCore.Migrations.Migrationobject®
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mGestorDocumentacion.Migrations.changePageEntity.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)²
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oGestorDocumentacion.Migrations.changePageEntity.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¬
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)lGestorDocumentacion.Migrations.changePageEntity.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)X
-changePageEntity()BGestorDocumentacion.Migrations.changePageEntity.changePageEntity()
+
+GestorDocumentacion.Startupobject”
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)VGestorDocumentacion.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)¼
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)jGestorDocumentacion.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)û
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‰GestorDocumentacion.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)B
+Configuration.get-GestorDocumentacion.Startup.Configuration.getB
+Configuration.set-GestorDocumentacion.Startup.Configuration.set

@@ -1,10 +1,10 @@
-Ó
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddlewareobjectÀ
-BErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)zGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)–
--Invoke(Microsoft.AspNetCore.Http.HttpContext)eGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)×
-MHandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)…GestorDocumentacion.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)d
-CreateLoggin(string)LGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateLoggin(string)^
-CreateTimeStamp()IGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()T
-GetLogPath()DGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.GetLogPath()^
-Configuration.getIGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.Configuration.get^
-Configuration.setIGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.Configuration.set
+¿
+,GestorDocumentacion.Models.Entities.DocumentobjectE
+
+Document()7GestorDocumentacion.Models.Entities.Document.Document()M
+DocumentId.get;GestorDocumentacion.Models.Entities.Document.DocumentId.getM
+DocumentId.set;GestorDocumentacion.Models.Entities.Document.DocumentId.setA
+Name.get5GestorDocumentacion.Models.Entities.Document.Name.getA
+Name.set5GestorDocumentacion.Models.Entities.Document.Name.setM
+SavedRoute.get;GestorDocumentacion.Models.Entities.Document.SavedRoute.getM
+SavedRoute.set;GestorDocumentacion.Models.Entities.Document.SavedRoute.set

@@ -1,115 +1,148 @@
 
-ZGestorDocumentacion.Models.Services.DocumentsOperationsService.DeleteDocument(System.Guid)†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs# #(""0*÷
-0†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs% &(ÿ
-’
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs% %($.
-%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"4
-_context(GestorDocumentacion.Models.EntityContext√
-¿
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs% %(-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
-.
-%0(GestorDocumentacion.Models.EntityContextƒ
-¡
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs% %(p2
-%2,GestorDocumentacion.Models.Entities.Document"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-""ò
-ï
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs% %(p4
-page,GestorDocumentacion.Models.Entities.Document"__id*4
-2
-%2,GestorDocumentacion.Models.Entities.Document¢
-ü
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs& &(
-
-%3bool""object.operator !=(object, object)*
-"
-object*6
-4
-page,GestorDocumentacion.Models.Entities.Document*
-""*
-1
-2*´
-1†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs( *(&ÿ
-’
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs( ((.
-%4(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"4
-_context(GestorDocumentacion.Models.EntityContext≥∞
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs( (($G
-%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"?Microsoft.EntityFrameworkCore.DbContext.Entry<TEntity>(TEntity)*0
-.
-%4(GestorDocumentacion.Models.EntityContext*6
-4
-page,GestorDocumentacion.Models.Entities.Document2Entry<TEntity>(TEntity)∫
-∑
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs(- ((@
-%6"__id*
-""˘ˆ
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs( ((@/
-%7)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*I
-G
-%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
-
-%62	State.setä
-á
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs) )(&?
-%89GestorDocumentacion.Models.Services.IFileOperationService"__id*ö*ó@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"S
-_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService©
-¶
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs)6 )(E
-%9string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*6
-4
-page,GestorDocumentacion.Models.Entities.DocumentÌ
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs) )(F
-%10void"PGestorDocumentacion.Models.Services.IFileOperationService.DeleteDocument(string)*A
-?
-%89GestorDocumentacion.Models.Services.IFileOperationService*
+IGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csX X(&"0*›
+0i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csZ \(!≥
+∞
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csZ Z((
+%0System.DateTime"System.DateTime.Now.get*"
+System.DateTime¶
+£
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csZ Z((
+timeSystem.DateTime"__id*
+
+%0System.DateTimeØ
+¨
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs[ [(%	
+%1int"System.DateTime.Month.get*
+
+timeSystem.DateTimeô
+ñ
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs[ [(0
+%2string"int.ToString()*
+	
+%1intï
+í
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs[ [(0
+monthstring"__id*
 
-%9string2DeleteDocument(string)Ÿ
-÷
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs* *(/
-%11(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"4
-_context(GestorDocumentacion.Models.EntityContext´®
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs* *(&
+%2stringü
+ú
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs\ \(	
+%3int"string.Length.get*
+
+monthstring*
+1
+2*Ø
+1i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs^ ^(!°
+û
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs^ ^(#
+%4string"__concat*
+""*
+
+monthstringï
+í
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs^ ^(#
+monthstring"__id*
+
+%4string*
+2*¯
+2i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` a(≠
+™
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` `(!	
+%5int"System.DateTime.Day.get*
+
+timeSystem.DateTimeô
+ñ
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` `(,
+%6string"int.ToString()*
+	
+%5intì
+ê
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs` `(,
+daystring"__id*
+
+%6stringù
+ö
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csa a(	
+%7int"string.Length.get*
 
-%12int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
-/
-%11(GestorDocumentacion.Models.EntityContext2SaveChanges()*
-2*‘
-2†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs, ,("´
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs, ,(
-""*·
-3†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs-	 -(	"∏
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs- -(	
-implicit return:
+daystring*
+3
+4*´
+3i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csc c(ü
+ú
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csc c(
+%8string"__concat*
+""*
 
-documentIdSystem.GuidBB@
->GestorDocumentacion.Models.Services.DocumentsOperationsService
+daystringì
+ê
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csc c(
+daystring"__id*
+
+%8string*
+4*∏
+4i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse f(Æ
+´
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse" e(+	
+%9int"System.DateTime.Year.get*
+
+timeSystem.DateTimeö
+ó
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse" e(6
+%10string"int.ToString()*
+	
+%9int´
+®
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse e(D
+%11string"__concat*
+
+%10string*
+
+monthstring©
+¶
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse e(D
+%12string"__concat*
+
+%11string*
+
+daystringö
+ó
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cse e(D
+	timeStampstring"__id*
+
+%12string"Ç
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csf f(
+
+	timeStampstring*Ò
+5i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csg	 g(	"Ä
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csg g(	
+implicit returnB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

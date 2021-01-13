@@ -1,7 +1,6 @@
-Å
-GestorDocumentacion.Startupobjectî
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)VGestorDocumentacion.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)º
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)jGestorDocumentacion.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)˚
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)âGestorDocumentacion.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)B
-Configuration.get-GestorDocumentacion.Startup.Configuration.getB
-Configuration.set-GestorDocumentacion.Startup.Configuration.set
+π
+*GestorDocumentacion.Migrations.AddDocument2Microsoft.EntityFrameworkCore.Migrations.Migrationobject©
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)hGestorDocumentacion.Migrations.AddDocument.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)≠
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jGestorDocumentacion.Migrations.AddDocument.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ß
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)gGestorDocumentacion.Migrations.AddDocument.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)I
+AddDocument()8GestorDocumentacion.Migrations.AddDocument.AddDocument()

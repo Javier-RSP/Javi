@@ -1,36 +1,34 @@
 
-RGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(string)†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs4 4(#"0*Í
-0†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(\ÿ
-’
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(.
-%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.DocumentsOperationsService"4
-_context(GestorDocumentacion.Models.EntityContext√
-¿
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6($2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
+DGestorDocumentacion.Models.Services.PagesOperationService.GetPages()k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csF F(""0*Ä	
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csH H()ù
+ö
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csH H(.
+%0(GestorDocumentacion.Models.EntityContext"__id*u*s;
+9GestorDocumentacion.Models.Services.PagesOperationService"4
+_context(GestorDocumentacion.Models.EntityContextâ
+Ü
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csH H( 2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1GestorDocumentacion.Models.EntityContext.Page.get*0
 .
-%0(GestorDocumentacion.Models.EntityContextƒ
-¡
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(]2
-%2,GestorDocumentacion.Models.Entities.Document"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
+%0(GestorDocumentacion.Models.EntityContext≈
+¬
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csH H()(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
 2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""Ÿ
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(^4
-2
-%2,GestorDocumentacion.Models.Entities.Document*·
-1†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs7	 7(	"∏
-†
-ïC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs7 7(	
-implicit return:
-namestringBB@
->GestorDocumentacion.Models.Services.DocumentsOperationsService
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ô
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csH H(**
+(
+%2"System.Collections.Generic.List<T>*ı
+1k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csI	 I(	"Ç
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csI I(	
+implicit returnB=;
+9GestorDocumentacion.Models.Services.PagesOperationService

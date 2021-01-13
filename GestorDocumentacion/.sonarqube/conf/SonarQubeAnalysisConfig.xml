@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AnalysisConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <SonarConfigDir>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf</SonarConfigDir>
-  <SonarOutputDir>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\out</SonarOutputDir>
-  <SonarBinDir>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\bin</SonarBinDir>
-  <SonarScannerWorkingDirectory>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion</SonarScannerWorkingDirectory>
-  <HasBeginStepCommandLineCredentials>false</HasBeginStepCommandLineCredentials>
+  <SonarConfigDir>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf</SonarConfigDir>
+  <SonarOutputDir>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\out</SonarOutputDir>
+  <SonarBinDir>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\bin</SonarBinDir>
+  <SonarScannerWorkingDirectory>C:\GIT-Javi\Javi\GestorDocumentacion</SonarScannerWorkingDirectory>
+  <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
   <SonarQubeVersion>8.0.0.16161</SonarQubeVersion>
-  <SonarProjectKey>Javier-RSP_Prueba</SonarProjectKey>
+  <SonarProjectKey>prueba_dosProyectos</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />
@@ -137,8 +137,8 @@
   <AnalyzersSettings>
     <AnalyzerSettings>
       <Language>cs</Language>
-      <RuleSetFilePath>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-cs.ruleset</RuleSetFilePath>
-      <TestProjectRuleSetFilePath>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-cs-test.ruleset</TestProjectRuleSetFilePath>
+      <RuleSetFilePath>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-cs.ruleset</RuleSetFilePath>
+      <TestProjectRuleSetFilePath>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-cs-test.ruleset</TestProjectRuleSetFilePath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.16.0.25740" StaticResourceName="SonarAnalyzer-8.16.0.25740.zip">
           <AssemblyPaths>
@@ -164,13 +164,13 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf\cs\SonarLint.xml</Path>
+        <Path>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf\cs\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
     <AnalyzerSettings>
       <Language>vbnet</Language>
-      <RuleSetFilePath>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-vbnet.ruleset</RuleSetFilePath>
-      <TestProjectRuleSetFilePath>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-vbnet-test.ruleset</TestProjectRuleSetFilePath>
+      <RuleSetFilePath>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-vbnet.ruleset</RuleSetFilePath>
+      <TestProjectRuleSetFilePath>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf\SonarQubeRoslyn-vbnet-test.ruleset</TestProjectRuleSetFilePath>
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.16.0.25740" StaticResourceName="SonarAnalyzer-8.16.0.25740.zip">
           <AssemblyPaths>
@@ -189,7 +189,7 @@
         </AnalyzerPlugin>
       </AnalyzerPlugins>
       <AdditionalFilePaths>
-        <Path>C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\.sonarqube\conf\vbnet\SonarLint.xml</Path>
+        <Path>C:\GIT-Javi\Javi\GestorDocumentacion\.sonarqube\conf\vbnet\SonarLint.xml</Path>
       </AdditionalFilePaths>
     </AnalyzerSettings>
   </AnalyzersSettings>

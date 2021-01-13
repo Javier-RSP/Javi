@@ -1,18 +1,37 @@
 
-<GestorDocumentacion.ViewModel.PageViewModel.LastModified.setç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs, (/"0*Ñ
-0ç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs0 (0á
-Ñ
-ç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs, (0P-
-+GestorDocumentacion.ViewModel.PageViewModel"
-LastModifiedSystem.DateTime"__id*
-
-valueSystem.DateTime"‰
-ç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs, (0R*P-
-+GestorDocumentacion.ViewModel.PageViewModel"
-LastModifiedSystem.DateTime:
-valueSystem.DateTimeB/-
-+GestorDocumentacion.ViewModel.PageViewModel
+WGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(System.Guid)p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs5 5(#"0*ı	
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(eß
+§
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextí
+è
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*0
+.
+%0(GestorDocumentacion.Models.EntityContextì
+ê
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(f2
+%2,GestorDocumentacion.Models.Entities.Template"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""®
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(g4
+2
+%2,GestorDocumentacion.Models.Entities.Template*ˇ
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs8	 8(	"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs8 8(	
+implicit return:
+
+templateIDSystem.GuidBB@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService

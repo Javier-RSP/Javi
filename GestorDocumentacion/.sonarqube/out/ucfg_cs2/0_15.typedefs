@@ -1,15 +1,10 @@
-¿
-(GestorDocumentacion.Models.Entities.Pageobject9
-Page()/GestorDocumentacion.Models.Entities.Page.Page()A
-
-PageID.get3GestorDocumentacion.Models.Entities.Page.PageID.getA
-
-PageID.set3GestorDocumentacion.Models.Entities.Page.PageID.set?
-	Route.get2GestorDocumentacion.Models.Entities.Page.Route.get?
-	Route.set2GestorDocumentacion.Models.Entities.Page.Route.setC
-Content.get4GestorDocumentacion.Models.Entities.Page.Content.getC
-Content.set4GestorDocumentacion.Models.Entities.Page.Content.setM
-LastModified.get9GestorDocumentacion.Models.Entities.Page.LastModified.getM
-LastModified.set9GestorDocumentacion.Models.Entities.Page.LastModified.setO
-LastRequested.get:GestorDocumentacion.Models.Entities.Page.LastRequested.getO
-LastRequested.set:GestorDocumentacion.Models.Entities.Page.LastRequested.set
+Ñ
+(GestorDocumentacion.Models.EntityContext'Microsoft.EntityFrameworkCore.DbContextobject³
+CEntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)lGestorDocumentacion.Models.EntityContext.EntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)£
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)dGestorDocumentacion.Models.EntityContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)=
+Page.get1GestorDocumentacion.Models.EntityContext.Page.get=
+Page.set1GestorDocumentacion.Models.EntityContext.Page.setE
+Template.get5GestorDocumentacion.Models.EntityContext.Template.getE
+Template.set5GestorDocumentacion.Models.EntityContext.Template.setE
+Document.get5GestorDocumentacion.Models.EntityContext.Document.getE
+Document.set5GestorDocumentacion.Models.EntityContext.Document.set

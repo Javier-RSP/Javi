@@ -1,0 +1,311 @@
+
+}UrisFactory.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs* *()"0*ı
+0è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs, ,(/ˆ
+Û
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs,% ,(/
+%0string"__id*K*I1
+/UrisFactory.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstring‹
+Ÿ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs, ,(0
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%0string*
+1
+2*ê
+2è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs,4 ,(Xˆ
+Û
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs,5 ,(?
+%2string"__id*K*I1
+/UrisFactory.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstringõ
+ò
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs,G ,(X
+%3string"AUrisFactory.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()*31
+/UrisFactory.Middlewares.ErrorHandlingMiddlewareŸ
+÷
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs,5 ,(Y
+
+%4bool"string.Equals(string?)*
+
+%2string*
+
+%3string*
+1
+3*Ÿ	
+1è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs. /('õ
+ò
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs. .(.
+%5string"AUrisFactory.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()*31
+/UrisFactory.Middlewares.ErrorHandlingMiddlewareˆ
+Û
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs. .(.I1
+/UrisFactory.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstring"__id*
+
+%5stringˆ
+Û
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs/ /('
+%6string"__id*K*I1
+/UrisFactory.Middlewares.ErrorHandlingMiddleware"
+
+_timeStampstring¨
+©
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs/ /((
+
+%7void"DUrisFactory.Middlewares.ErrorHandlingMiddleware.CreateLoggin(string)*31
+/UrisFactory.Middlewares.ErrorHandlingMiddleware*
+
+%6string*
+3*í
+3è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs2 4(6©
+¶
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs2 2(9
+%8"__id*
+""∆
+√
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs2 2(9!
+codeSystem.Net.HttpStatusCode"__id*
+
+%8*
+4
+5*≠	
+4è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs6 7(-©
+¶
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs6 6(0
+%9"__id*
+""∆
+√
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs6 6(0!
+codeSystem.Net.HttpStatusCode"__id*
+
+%9ÈÊ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs7# 7(-
+%10string"System.Exception.Message.get*
+
+exSystem.Exception2Message.get«
+ƒ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs7  7(1
+%11string"__concat*
+
+%10string*
+""Â
+‚
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs7 7(2
+%12void"Serilog.Log.Information(string)*"
+Serilog.Log*
+
+%11string*
+6*ù
+5è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs9 9(8*
+7
+6*Ø	
+7è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs; <(-™
+ß
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs; ;(9
+%13"__id*
+""«
+ƒ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs; ;(9!
+codeSystem.Net.HttpStatusCode"__id*
+
+%13ÈÊ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs<# <(-
+%14string"System.Exception.Message.get*
+
+exSystem.Exception2Message.get«
+ƒ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs<  <(1
+%15string"__concat*
+
+%14string*
+""Â
+‚
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs< <(2
+%16void"Serilog.Log.Information(string)*"
+Serilog.Log*
+
+%15string*
+6*ë
+6è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs? @(:É
+Ä
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs? ?(]
+%17string"4Newtonsoft.Json.JsonConvert.SerializeObject(object?)*"
+Newtonsoft.Json.JsonConvert*
+""æ
+ª
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs? ?(]
+resultstring"__id*
+
+%17string™
+ß
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs@ @(:
+%18"__id*
+""*
+8
+9*Œ
+8è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csB B(MÈÊ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csBC B(M
+%19string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getÉ
+Ä
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csB B(P
+%20string"4Newtonsoft.Json.JsonConvert.SerializeObject(object?)*"
+Newtonsoft.Json.JsonConvert*
+""æ
+ª
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csB B(P
+resultstring"__id*
+
+%20string*
+10*¬
+9è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF F(8ÈÊ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF F('
+%21string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getÔÏ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF+ F(8
+%22string"System.Exception.StackTrace.get*
+
+exSystem.Exception2StackTrace.get«
+ƒ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF F(<
+%23string"__concat*
+
+%21string*
+""–
+Õ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF F(<
+%24string"__concat*
+
+%23string*
+
+%22string«
+ƒ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF F(<
+%25string"__concat*
+
+%24string*
+""ﬂ
+‹
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csF F(=
+%26void"Serilog.Log.Error(string)*"
+Serilog.Log*
+
+%25string*
+10*¬
+10è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csI L(5¨
+©
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csI I(-
+%27&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext£
+†
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csI I(=
+%28string"6Microsoft.AspNetCore.Http.HttpResponse.ContentType.set*/
+-
+%27&Microsoft.AspNetCore.Http.HttpResponse*
+application/json¨
+©
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csJ J(-
+%29&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext«
+ƒ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csJ* J(3
+%30"__id*#
+!
+codeSystem.Net.HttpStatusCodeí
+è
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csJ J(3
+
+%31int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.set*/
+-
+%29&Microsoft.AspNetCore.Http.HttpResponse*
+
+%30¨
+©
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csL L(#-
+%32&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext‹
+Ÿ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csL L(6"
+%33System.Threading.Tasks.Task"ñMicrosoft.AspNetCore.Http.HttpResponseWritingExtensions.WriteAsync(Microsoft.AspNetCore.Http.HttpResponse, string, System.Threading.CancellationToken)*;"9
+7Microsoft.AspNetCore.Http.HttpResponseWritingExtensions*/
+-
+%32&Microsoft.AspNetCore.Http.HttpResponse*
+
+resultstring*
+"""∏
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csL L(7$
+"
+%33System.Threading.Tasks.Task*¿
+11è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csM	 M(	"ß
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csM M(	
+implicit return:0
+context%Microsoft.AspNetCore.Http.HttpContext:
+exSystem.ExceptionB31
+/UrisFactory.Middlewares.ErrorHandlingMiddleware

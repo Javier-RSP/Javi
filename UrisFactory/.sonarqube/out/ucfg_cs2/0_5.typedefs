@@ -1,0 +1,7 @@
+Œ
+/UrisFactory.Middlewares.ErrorHandlingMiddlewareobject¸
+BErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)rUrisFactory.Middlewares.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)Ž
+-Invoke(Microsoft.AspNetCore.Http.HttpContext)]UrisFactory.Middlewares.ErrorHandlingMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)Î
+MHandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)}UrisFactory.Middlewares.ErrorHandlingMiddleware.HandleExceptionAsync(Microsoft.AspNetCore.Http.HttpContext, System.Exception)\
+CreateLoggin(string)DUrisFactory.Middlewares.ErrorHandlingMiddleware.CreateLoggin(string)V
+CreateTimeStamp()AUrisFactory.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()

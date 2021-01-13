@@ -1,36 +1,36 @@
 
-YGestorDocumentacion.Models.Services.PagesOperationServiceMockService.GetPage(System.Guid)¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csC C("0*≠
-0¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE F(Ÿ
-÷
-¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE E(!(
-%0"System.Collections.Generic.List<T>"__id*{*yF
-DGestorDocumentacion.Models.Services.PagesOperationServiceMockService"/
-	_pageList"System.Collections.Generic.List<T>©
-¶
-¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE E(T.
-%1(GestorDocumentacion.Models.Entities.Page"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable**
-(
-%0"System.Collections.Generic.List<T>*
-""ñ
-ì
-¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csE E(T0
-page(GestorDocumentacion.Models.Entities.Page"__id*0
+RGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocument(string)p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs4 4(#"0*ı	
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(\ß
+§
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextí
+è
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
 .
-%1(GestorDocumentacion.Models.Entities.Page"›
-¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csF F(2
-0
-page(GestorDocumentacion.Models.Entities.Page*Ì
-1¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csG	 G(	"æ
-¶
-õC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationServiceMockService.csG G(	
-implicit return:
-pageIDSystem.GuidBHF
-DGestorDocumentacion.Models.Services.PagesOperationServiceMockService
+%0(GestorDocumentacion.Models.EntityContextì
+ê
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(]2
+%2,GestorDocumentacion.Models.Entities.Document"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+"""®
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs6 6(^4
+2
+%2,GestorDocumentacion.Models.Entities.Document*ˇ
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs7	 7(	"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs7 7(	
+implicit return:
+namestringBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

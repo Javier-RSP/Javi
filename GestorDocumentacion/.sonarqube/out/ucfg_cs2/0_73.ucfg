@@ -1,37 +1,18 @@
 
-WGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplate(System.Guid) 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs5 5(#"0*ê
-0 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(eØ
-Õ
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(.
-%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.TemplatesOperationsService"4
-_context(GestorDocumentacion.Models.EntityContextÃ
-À
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(#2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*0
-.
-%0(GestorDocumentacion.Models.EntityContextÄ
-Á
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(f2
-%2,GestorDocumentacion.Models.Entities.Template"ŽSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""Ù
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs7 7(g4
-2
-%2,GestorDocumentacion.Models.Entities.Template*á
-1 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs8	 8(	"¸
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs8 8(	
-implicit return:
-
-templateIDSystem.GuidBB@
->GestorDocumentacion.Models.Services.TemplatesOperationsService
+5GestorDocumentacion.Models.EntityContext.Template.setZ
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (2"0*±
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs3 (3†
+ƒ
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (3f*
+(GestorDocumentacion.Models.EntityContext"8
+Template,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Æ
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (3h*f*
+(GestorDocumentacion.Models.EntityContext"8
+Template,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B,*
+(GestorDocumentacion.Models.EntityContext

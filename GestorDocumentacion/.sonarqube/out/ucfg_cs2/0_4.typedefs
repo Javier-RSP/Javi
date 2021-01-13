@@ -1,8 +1,6 @@
-à
-.GestorDocumentacion.Controllers.PageController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÃ
-‡PageController(GestorDocumentacion.Models.Services.IPagesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)¶GestorDocumentacion.Controllers.PageController.PageController(GestorDocumentacion.Models.Services.IPagesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)Q
-GetPage(string)>GestorDocumentacion.Controllers.PageController.GetPage(string)G
-
-GetPages()9GestorDocumentacion.Controllers.PageController.GetPages()·
-BLoadPage(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)qGestorDocumentacion.Controllers.PageController.LoadPage(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)a
-DeletePage(System.Guid)FGestorDocumentacion.Controllers.PageController.DeletePage(System.Guid)
+Ç
+,GestorDocumentacion.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject«
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jGestorDocumentacion.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¯
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)lGestorDocumentacion.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)©
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)iGestorDocumentacion.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)O
+InitialCreate()<GestorDocumentacion.Migrations.InitialCreate.InitialCreate()

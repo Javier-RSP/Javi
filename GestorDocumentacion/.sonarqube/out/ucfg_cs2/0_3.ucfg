@@ -1,9 +1,13 @@
 
-;GestorDocumentacion.ViewModel.PageViewModel.PageViewModel()
-‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs ("0*»
-0
-‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs ("¥
-
-‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs (
-implicit returnB/-
-+GestorDocumentacion.ViewModel.PageViewModel
+8GestorDocumentacion.Migrations.AddDocument.AddDocument()k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs ($"0*ÿ
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs7 7(‡
+„
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"‚
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs 7(
+implicit returnB.,
+*GestorDocumentacion.Migrations.AddDocument

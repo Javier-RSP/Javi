@@ -1,16 +1,34 @@
 
-5GestorDocumentacion.ViewModel.PageViewModel.Route.getç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs (!"0*§
-0ç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs" ("Î
-Ë
-ç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs ("
-%0string"__id*B*@-
-+GestorDocumentacion.ViewModel.PageViewModel"
-Routestring"†
-ç
-ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\ViewModel\PageViewModel.cs ("
-
-%0stringB/-
-+GestorDocumentacion.ViewModel.PageViewModel
+MGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplates()p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs= =(*"0*¢	
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(-ß
+§
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextí
+è
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*0
+.
+%0(GestorDocumentacion.Models.EntityContext 
+«
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(-(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"û
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(.*
+(
+%2"System.Collections.Generic.List<T>*ˇ
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs@	 @(	"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs@ @(	
+implicit returnBB@
+>GestorDocumentacion.Models.Services.TemplatesOperationsService

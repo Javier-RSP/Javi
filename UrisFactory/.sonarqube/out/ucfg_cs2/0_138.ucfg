@@ -1,0 +1,135 @@
+
+hUrisFactory.Models.Services.SchemaConfigFileOperations.replacePreviousSchemaConfig(System.IO.FileStream)ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs^ ^(0"0*‡
+0ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs` `(!º
+π
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs` `(!
+replacedbool"__id*
+""*
+1*ﬁ
+1ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csc e(€
+ÿ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csc c("3
+%0-UrisFactory.Models.Services.ConfigJsonHandler"__id*Å*8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"C
+_configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandlerü
+ú
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csc c(3
+
+%1void">UrisFactory.Models.Services.ConfigJsonHandler.LoadConfigJson()*5
+3
+%0-UrisFactory.Models.Services.ConfigJsonHandlerá
+Ñ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csd d()
+%2string"__id*U*S8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+oldConfigPathstringÎ
+Ë
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csd d(*
+
+%3void"System.IO.File.Delete(string)*"
+System.IO.File*
+
+%2stringº
+π
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cse e(
+replacedbool"__id*
+""*	
+2
+3
+4*ú
+2ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csk k(*Ñ
+Å
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csk  k(*
+%4string"__id*R*P8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+
+configPathstringÎ
+Ë
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csk k(+
+
+%5void"System.IO.File.Delete(string)*"
+System.IO.File*
+
+%4string*	
+5
+6
+4*Ü
+5ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cso p(*ÌÍ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cso o("
+
+%6void"System.IO.Stream.Close()* 
+
+streamSystem.IO.FileStream2Close()Ñ
+Å
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csp  p(*
+%7string"__id*R*P8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+
+configPathstringÎ
+Ë
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csp p(+
+
+%8void"System.IO.File.Delete(string)*"
+System.IO.File*
+
+%7string*
+6*¯
+6ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csr s( á
+Ñ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csr r('
+%9string"__id*U*S8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+oldConfigPathstringÖ
+Ç
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csr) r(3
+%10string"__id*R*P8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+
+configPathstringÉ
+Ä
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csr r(4
+%11void"#System.IO.File.Move(string, string)*"
+System.IO.File*
+
+%9string*
+
+%10stringº
+π
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.css s( 
+replacedbool"__id*
+""*
+3*Ã
+3ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csu u("≠
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csu u(
+
+replacedbool*Õ
+4ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csv	 v(	"Æ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csv v(	
+implicit return:
+streamSystem.IO.FileStreamB:8
+6UrisFactory.Models.Services.SchemaConfigFileOperations

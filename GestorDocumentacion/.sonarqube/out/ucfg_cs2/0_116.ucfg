@@ -1,15 +1,23 @@
 
-jGestorDocumentacion.Models.Services.FileOperationMockService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs ("0*†
-0ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (M"ß
-ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (N<:
-8<html><head></head><body><p>hola mundo</p></body></html>*Ý
-1ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs	 (	"¶
-ž
-“C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs (	
-implicit return:+
-file#Microsoft.AspNetCore.Http.IFormFileB@>
-<GestorDocumentacion.Models.Services.FileOperationMockService
+VGestorDocumentacion.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs# #("1*W
+1M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs&	 &(	*
+0*û
+0M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs% %()¡
+ž
+M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs% %()7
+%01Microsoft.Extensions.Configuration.IConfiguration"-GestorDocumentacion.Startup.Configuration.set*
+GestorDocumentacion.Startup*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+2*¸
+2M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs&	 &(	"d
+M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs& &(	
+implicit return:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB
+GestorDocumentacion.Startup

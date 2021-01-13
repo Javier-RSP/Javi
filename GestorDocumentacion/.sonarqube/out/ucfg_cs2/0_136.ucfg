@@ -1,408 +1,133 @@
 
-rGestorDocumentacion.Models.Services.PagesOperationService.LoadPage(GestorDocumentacion.Models.Entities.Page, bool)õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csP P("0*Ú
-0õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR V(›⁄
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR# R(6
-%0System.Text.StringBuilder"System.Text.StringBuilder˚
-¯
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR' R(4
+âGestorDocumentacion.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.cs~ ~("0*±
+0O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÄ Ä(#“
+œ
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÄ Ä(#
 
-%1void")System.Text.StringBuilder.StringBuilder()*!
-
-%0System.Text.StringBuilderÔ
-Ï
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csR R(6#
-layoutSystem.Text.StringBuilder"__id*!
-
-%0System.Text.StringBuilder†
-ù
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csS S(#
-%2System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
-#
-layoutSystem.Text.StringBuilder*
-@{±
-Æ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csT T(6
-%3System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
-#
-layoutSystem.Text.StringBuilder*
-Layout = "_Layout";ü
-ú
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csU U("
-%4System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
-#
-layoutSystem.Text.StringBuilder*
-}*
+%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
 1
-2*≈
-1õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX X( ô
-ñ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX X( 
+2*Ú
+1O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÇ Ç(/ñ
+ì
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÇ Ç(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+2*Â&
+2O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÑ ù(˝
+˙
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÑ Ñ(#6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"yMicrosoft.AspNetCore.Builder.AuthAppBuilderExtensions.UseAuthentication(Microsoft.AspNetCore.Builder.IApplicationBuilder)*9"7
+5Microsoft.AspNetCore.Builder.AuthAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder¶
+£
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÖ Ö(>6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"íMicrosoft.AspNetCore.Builder.UseMiddlewareExtensions.UseMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Type, params object[])*8"6
+4Microsoft.AspNetCore.Builder.UseMiddlewareExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+""á
+Ñ
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csÜ Ü(%6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderù
+ö
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csà à(6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder∆√
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csâ$ å(:
+%64Microsoft.AspNetCore.Builder.ForwardedHeadersOptions"4Microsoft.AspNetCore.Builder.ForwardedHeadersOptionsÓ
+Î
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csâ( â(?
 
-%5bool""object.operator !=(object, object)*
-"
-object*2
-0
-page(GestorDocumentacion.Models.Entities.Page*
-""*
-3
-4*∞
-3õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX$ X(Fô
-ñ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX: X(F
-%6string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageË
-Â
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csX% X(G
-
-%7bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-%6string*
-5
-4*Æ
-5õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXK X(kó
-î
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXa X(k
-%8string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageË
-Â
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXL X(l
-
-%9bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-%8string*
-6
-4*‘
-6ú
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXp X(ãô
-ñ
-ú
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXx X(Ç
-%10string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageÓ
-Î
-ú
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXp X(É/
-%11(GestorDocumentacion.Models.Entities.Page"IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)*=;
-9GestorDocumentacion.Models.Services.PagesOperationService*
-
-%10stringö
-ó
-ú
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csXp X(ã
-%12bool""object.operator ==(object, object)*
-"
-object*1
-/
-%11(GestorDocumentacion.Models.Entities.Page*
-""*
-7
-4*ß
-7õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs^ c(Á
-‰
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs^( ^(4
-%13System.DateTime"System.DateTime.Now.get*"
-System.DateTime¬
-ø
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs^ ^(4
-%14System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*2
-0
-page(GestorDocumentacion.Models.Entities.Page*
-
-%13System.DateTimeœ
-Ã
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csa a(/
-%15(GestorDocumentacion.Models.EntityContext"__id*u*s;
-9GestorDocumentacion.Models.Services.PagesOperationService"4
-_context(GestorDocumentacion.Models.EntityContextº
-π
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csa a(!3
-%16,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1GestorDocumentacion.Models.EntityContext.Page.get*1
-/
-%15(GestorDocumentacion.Models.EntityContextüú
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csa a(+H
-%17AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*5
-3
-%16,Microsoft.EntityFrameworkCore.DbSet<TEntity>*2
-0
-page(GestorDocumentacion.Models.Entities.Page2Add(TEntity)œ
-Ã
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csb b(/
-%18(GestorDocumentacion.Models.EntityContext"__id*u*s;
-9GestorDocumentacion.Models.Services.PagesOperationService"4
-_context(GestorDocumentacion.Models.EntityContext¶£
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csb b(*
-
-%19int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
-/
-%18(GestorDocumentacion.Models.EntityContext2SaveChanges()"¶
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csc c( 
-""*„
-2õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh i(5û
-õ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh) h(4
-%20System.Guid"3GestorDocumentacion.Models.Entities.Page.PageID.get*2
-0
-page(GestorDocumentacion.Models.Entities.Page˜
-Ù
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh! h(5/
-%21(GestorDocumentacion.Models.Entities.Page"NGestorDocumentacion.Models.Services.PagesOperationService.GetPage(System.Guid)*=;
-9GestorDocumentacion.Models.Services.PagesOperationService*
-
-%20System.Guidí
-è
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csh h(56
-
-pageModify(GestorDocumentacion.Models.Entities.Page"__id*1
-/
-%21(GestorDocumentacion.Models.Entities.Pageö
-ó
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi) i(5
-%22string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageÍ
-Á
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi i(6
-%23bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-%22string*
-8
-9*Ì
-8õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi: i(\ö
-ó
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi: i(F
-%24string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
-0
-page(GestorDocumentacion.Models.Entities.Page†
-ù
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csiJ i(\
-%25string"4GestorDocumentacion.Models.Entities.Page.Content.get*8
-6
-
-pageModify(GestorDocumentacion.Models.Entities.PageÄ
-˝
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csi: i(\
-%26bool""string.operator !=(string, string)*
-"
-string*
-
-%24string*
-
-%25string*
-10
-9*≠
-
-10õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cso p(:ö
-ó
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cso) o(5
-%27string"4GestorDocumentacion.Models.Entities.Page.Content.get*2
-0
-page(GestorDocumentacion.Models.Entities.Page±
-Æ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cso o(5
-%28string"4GestorDocumentacion.Models.Entities.Page.Content.set*8
-6
-
-pageModify(GestorDocumentacion.Models.Entities.Page*
-
-%27stringÁ
-‰
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csp. p(:
-%29System.DateTime"System.DateTime.Now.get*"
-System.DateTime»
-≈
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csp p(:
-%30System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*8
-6
-
-pageModify(GestorDocumentacion.Models.Entities.Page*
-
-%29System.DateTime*
-9*≥
-9õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr r(4ò
-ï
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr* r(4
-%31string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageÍ
-Á
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr r(5
-%32bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-%31string*
-11
-12*Î
-11õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr9 r(Wò
-ï
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr9 r(C
-%33string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
-0
-page(GestorDocumentacion.Models.Entities.Pageû
-õ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csrG r(W
-%34string"2GestorDocumentacion.Models.Entities.Page.Route.get*8
-6
-
-pageModify(GestorDocumentacion.Models.Entities.PageÄ
-˝
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csr9 r(W
-%35bool""string.operator !=(string, string)*
-"
-string*
-
-%33string*
-
-%34string*
-13
-12*”
-13õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst t(3ò
-ï
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst  t(*
-%36string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageÌ
-Í
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst t(+/
-%37(GestorDocumentacion.Models.Entities.Page"IGestorDocumentacion.Models.Services.PagesOperationService.GetPage(string)*=;
-9GestorDocumentacion.Models.Services.PagesOperationService*
-
-%36stringô
-ñ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cst t(3
-%38bool""object.operator ==(object, object)*
-"
-object*1
-/
-%37(GestorDocumentacion.Models.Entities.Page*
-""*
-14
-15*™
-
-14õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csv w(>ò
-ï
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csv+ v(5
-%39string"2GestorDocumentacion.Models.Entities.Page.Route.get*2
-0
-page(GestorDocumentacion.Models.Entities.PageØ
-¨
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csv v(5
-%40string"2GestorDocumentacion.Models.Entities.Page.Route.set*8
-6
-
-pageModify(GestorDocumentacion.Models.Entities.Page*
-
-%39stringÁ
-‰
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csw2 w(>
-%41System.DateTime"System.DateTime.Now.get*"
-System.DateTime»
-≈
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csw w(>
-%42System.DateTime"9GestorDocumentacion.Models.Entities.Page.LastModified.set*8
-6
-
-pageModify(GestorDocumentacion.Models.Entities.Page*
-
-%41System.DateTime*
-12*À
-15õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs{ {($"¶
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs{ {(%
-""*∆
-12õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs~ (œ
-Ã
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs~ ~(/
-%43(GestorDocumentacion.Models.EntityContext"__id*u*s;
-9GestorDocumentacion.Models.Services.PagesOperationService"4
-_context(GestorDocumentacion.Models.EntityContext¶£
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs~ ~(&
-
-%44int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*1
-/
-%43(GestorDocumentacion.Models.EntityContext2SaveChanges()"¶
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs (
-""*Œ
-4ù
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÅ Å("®
-ù
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÅ Å(
-""*‹
-16ù
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÇ	 Ç(	"µ
-ù
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csÇ Ç(	
-implicit return:0
-page(GestorDocumentacion.Models.Entities.Page:
-isNewboolB=;
-9GestorDocumentacion.Models.Services.PagesOperationService
+%7void"NMicrosoft.AspNetCore.Builder.ForwardedHeadersOptions.ForwardedHeadersOptions()*<
+:
+%64Microsoft.AspNetCore.Builder.ForwardedHeadersOptionsg
+e
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csã# ã(A
+%8"__id*
+""g
+e
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csãD ã(d
+%9"__id*
+""°
+û
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csã ã(d:
+%103Microsoft.AspNetCore.HttpOverrides.ForwardedHeaders"IMicrosoft.AspNetCore.Builder.ForwardedHeadersOptions.ForwardedHeaders.set*<
+:
+%64Microsoft.AspNetCore.Builder.ForwardedHeadersOptions*
+""˘
+ˆ
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csâ å(7
+%110Microsoft.AspNetCore.Builder.IApplicationBuilder"≥Microsoft.AspNetCore.Builder.ForwardedHeadersExtensions.UseForwardedHeaders(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Builder.ForwardedHeadersOptions)*;"9
+7Microsoft.AspNetCore.Builder.ForwardedHeadersExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*<
+:
+%64Microsoft.AspNetCore.Builder.ForwardedHeadersOptionsê
+ç
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csç ç("7
+%120Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderæ
+ª
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csé ï(7
+%130Microsoft.AspNetCore.Builder.IApplicationBuilder"∞Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
+5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""»
+≈
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csñ ô(7
+%140Microsoft.AspNetCore.Builder.IApplicationBuilder"∏Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
+7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""Î
+Ë
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csö ù(7
+%150Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+3*º
+3O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csû	 û(	"f
+O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Startup.csû û(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+GestorDocumentacion.Startup

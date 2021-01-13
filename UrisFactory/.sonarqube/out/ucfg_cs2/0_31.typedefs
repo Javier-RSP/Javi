@@ -1,0 +1,16 @@
+‡
+-UrisFactory.Models.Services.ConfigJsonHandlerobjectX
+ConfigJsonHandler()AUrisFactory.Models.Services.ConfigJsonHandler.ConfigJsonHandler()d
+ConfigJsonHandler(string)GUrisFactory.Models.Services.ConfigJsonHandler.ConfigJsonHandler(string)`
+InitializerConfigJson()EUrisFactory.Models.Services.ConfigJsonHandler.InitializerConfigJson()l
+InitializerConfigJson(string)KUrisFactory.Models.Services.ConfigJsonHandler.InitializerConfigJson(string)P
+GetUrisConfig()=UrisFactory.Models.Services.ConfigJsonHandler.GetUrisConfig()R
+LoadConfigJson()>UrisFactory.Models.Services.ConfigJsonHandler.LoadConfigJson()^
+LoadConfigJson(string)DUrisFactory.Models.Services.ConfigJsonHandler.LoadConfigJson(string)l
+IsCorrectFormedUriStructure()KUrisFactory.Models.Services.ConfigJsonHandler.IsCorrectFormedUriStructure()Ê
+ôDeleteUriStructureInfo(UrisFactory.Models.ConfigEntities.UriStructure, System.Collections.Generic.List<UrisFactory.Models.ConfigEntities.ResourcesClass>)«UrisFactory.Models.Services.ConfigJsonHandler.DeleteUriStructureInfo(UrisFactory.Models.ConfigEntities.UriStructure, System.Collections.Generic.List<UrisFactory.Models.ConfigEntities.ResourcesClass>)n
+DeleteUriStructureInfo(string)LUrisFactory.Models.Services.ConfigJsonHandler.DeleteUriStructureInfo(string)d
+ExistUriStructure(string)GUrisFactory.Models.Services.ConfigJsonHandler.ExistUriStructure(string)`
+GetUriStructure(string)EUrisFactory.Models.Services.ConfigJsonHandler.GetUriStructure(string)b
+GetResourceClass(string)FUrisFactory.Models.Services.ConfigJsonHandler.GetResourceClass(string)ù
+uAddUriStructureInfo(UrisFactory.Models.ConfigEntities.UriStructure, UrisFactory.Models.ConfigEntities.ResourcesClass)£UrisFactory.Models.Services.ConfigJsonHandler.AddUriStructureInfo(UrisFactory.Models.ConfigEntities.UriStructure, UrisFactory.Models.ConfigEntities.ResourcesClass)

@@ -1,0 +1,53 @@
+
+NUrisFactory.Models.ConfigEntities.UriComponentsList.UriComponentsList()!static“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.cs ()"0*ì
+0“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.cs (èå
+”
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.csA (€(
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ü
+ù
+“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.csE (Q
+
+%1void")System.Collections.Generic.List<T>.List()**
+(
+%0"System.Collections.Generic.List<T>­
+ª
+“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.csT (X
+%2"__id*
+""­
+ª
+“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.csZ (c
+%3"__id*
+""­
+ª
+“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.cse (r
+%4"__id*
+""­
+ª
+“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.cst (~
+%5"__id*
+""¡
+ž
+”
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.csA (’3
+%6-System.Collections.Immutable.ImmutableList<T>"tSystem.Collections.Immutable.ImmutableList.ToImmutableList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*.",
+*System.Collections.Immutable.ImmutableList**
+(
+%0"System.Collections.Generic.List<T>Ô
+Ñ
+”
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.cs- (’{5
+3UrisFactory.Models.ConfigEntities.UriComponentsList"B
+defaultParameters-System.Collections.Immutable.ImmutableList<T>"__id*5
+3
+%6-System.Collections.Immutable.ImmutableList<T>"«
+“
+ˆC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\ConfigEntities\UriComponentsList.cs (
+implicit returnB7"5
+3UrisFactory.Models.ConfigEntities.UriComponentsList

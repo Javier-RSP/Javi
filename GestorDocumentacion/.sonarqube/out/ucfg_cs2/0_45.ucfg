@@ -1,17 +1,45 @@
 
-;GestorDocumentacion.Models.Entities.Document.DocumentId.geté
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs! ($"0*º
-0é
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs% (%¸
-˘
-é
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs! (%
-%0System.Guid"__id*M*K.
-,GestorDocumentacion.Models.Entities.Document"
+NGestorDocumentacion.Controllers.DocumentController.DeleteDocument(System.Guid)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csg g(+"2*±	
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(G“
+œ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(1E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*ô*ñ4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsService¿Ω
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(H
 
-DocumentIdSystem.Guid"¶
-é
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Document.cs! (%
-
-%0System.GuidB0.
-,GestorDocumentacion.Models.Entities.Document
+%1bool"[GestorDocumentacion.Models.Services.IDocumentsOperationsService.DeleteDocument(System.Guid)*G
+E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+""2DeleteDocument(System.Guid)ìê
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(I-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+
+%1bool2
+Ok(object)"ó
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(J/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*Ê
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csj	 j(	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csj j(	
+implicit return*ˆ
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csg8 g(8Ö
+Ç
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csg g(+
+%3"__entrypoint*
+""*
+0:
+pageIdSystem.GuidB64
+2GestorDocumentacion.Controllers.DocumentController

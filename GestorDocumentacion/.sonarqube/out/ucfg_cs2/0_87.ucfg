@@ -1,31 +1,59 @@
 
-ZGestorDocumentacion.Models.Services.TemplatesOperationMockService.GetTemplate(System.Guid)£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csA A(#"0*è	
-0£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csC C(Z◊
-‘
-£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csC C( (
-%0"System.Collections.Generic.List<T>"__id*|*zC
-AGestorDocumentacion.Models.Services.TemplatesOperationMockService"3
-_pageTemplate"System.Collections.Generic.List<T>™
-ß
-£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csC C([2
-%1,GestorDocumentacion.Models.Entities.Template"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable**
-(
-%0"System.Collections.Generic.List<T>*
-"""‹
-£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csC C(\4
-2
-%1,GestorDocumentacion.Models.Entities.Template*Á
-1£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csD	 D(	"ª
-£
-òC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationMockService.csD D(	
-implicit return:
+jGestorDocumentacion.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs  (""0*ª
+0m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
+ /(ÑÅ
+m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
+ (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Page*
+""*
+""*
+""*
+""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)àÖ
+m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs #(_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
 
-templateIDSystem.GuidBEC
-AGestorDocumentacion.Models.Services.TemplatesOperationMockService
+Template*
+""*
+""*
+""*
+""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)íè
+m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs% )(_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Page_Name*
+Page*
+Name*
+""*
+""*
+""29CreateIndex(string, string, string, string, bool, string)öó
+m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs+ /(_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Template_Name*
+
+Template*
+Name*
+""*
+""*
+""29CreateIndex(string, string, string, string, bool, string)*
+1*˘
+1m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs0	 0(	"Ñ
+m
+cC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs0 0(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB0.
+,GestorDocumentacion.Migrations.InitialCreate

@@ -1,40 +1,40 @@
 
-¬GestorDocumentacion.Controllers.TemplateController.TemplateController(GestorDocumentacion.Models.Services.ITemplatesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (!"3*ñ
-1î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs 	  (	u
+¬GestorDocumentacion.Controllers.TemplateController.TemplateController(GestorDocumentacion.Models.Services.ITemplatesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (!"3*Â
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs 	  (	u
 s
 
 %0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
 'Microsoft.AspNetCore.Mvc.ControllerBase*
-0*≈
-0î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (:ú
-ô
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (Dó4
+0*≤
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (:Î
+Ë
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (Dó4
 2GestorDocumentacion.Controllers.TemplateController"_
 _templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*`
 ^
-templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServicesÑ
-Å
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (:ã4
+templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServices”
+–
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (:ã4
 2GestorDocumentacion.Controllers.TemplateController"S
 _fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService"__id*T
 R
 fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
-2*…
-2î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs 	  (	"¨
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs   (	
-implicit return*ä
-3ñ
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csá (áÊ
-„
-î
-âC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (!
+2*Ê
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs 	  (	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs   (	
+implicit return*®
+3f
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csá (áµ
+≤
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs (!
 %1"__entrypoint*`
 ^
 templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*T

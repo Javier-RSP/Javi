@@ -1,45 +1,18 @@
 
-NGestorDocumentacion.Controllers.DocumentController.DeleteDocument(System.Guid)”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csg g(+"2*¦
-0”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(Gƒ
-€
-”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(1E
-%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*™*–4
-2GestorDocumentacion.Controllers.DocumentController"^
-_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceñî
-”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(H
-
-%1bool"[GestorDocumentacion.Models.Services.IDocumentsOperationsService.DeleteDocument(System.Guid)*G
-E
-%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
-""2DeleteDocument(System.Guid)ÄÁ
-”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(I-
-%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-
-
-%1bool2
-Ok(object)"È
-”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csi i(J/
--
-%2'Microsoft.AspNetCore.Mvc.OkObjectResult*É
-1”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csj	 j(	"¬
-”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csj j(	
-implicit return*Ø
-2”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csg8 g(8¶
-³
-”
-‰C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.csg g(+
-%3"__entrypoint*
-""*
-0:
-pageIdSystem.GuidB64
-2GestorDocumentacion.Controllers.DocumentController
+5GestorDocumentacion.Models.EntityContext.Document.setZ
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (2"0*±
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs3 (3†
+ƒ
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (3f*
+(GestorDocumentacion.Models.EntityContext"8
+Document,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*7
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Æ
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs/ (3h*f*
+(GestorDocumentacion.Models.EntityContext"8
+Document,Microsoft.EntityFrameworkCore.DbSet<TEntity>:5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B,*
+(GestorDocumentacion.Models.EntityContext

@@ -1,33 +1,34 @@
 
-QGestorDocumentacion.Models.Services.FileOperationMockService.ReadDocument(string)û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs0 0(""0*Ó
-0û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs2 3(/¯
-ı
-û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs2 2(T
-filestring"__id*<:
-8<html><head></head><body><p>hola mundo</p></body></html>˙
-˜
-û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs3 3(!
-%0System.Text.Encoding"System.Text.Encoding.ASCII.get*"
-System.Text.Encodingõò
-û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs3 3(0
-%1byte[]"%System.Text.Encoding.GetBytes(string)*
-
-%0System.Text.Encoding*
-
-filestring2GetBytes(string)"±
-û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs3 3(1
-
-%1byte[]*›
-1û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs4	 4(	"∂
-û
-ìC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationMockService.cs4 4(	
-implicit return:
-routestringB@>
-<GestorDocumentacion.Models.Services.FileOperationMockService
+MGestorDocumentacion.Models.Services.DocumentsOperationsService.GetDocuments()p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csX X(*"0*¢	
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csZ Z(-ß
+§
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csZ Z(.
+%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService"4
+_context(GestorDocumentacion.Models.EntityContextí
+è
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csZ Z($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Document.get*0
+.
+%0(GestorDocumentacion.Models.EntityContext 
+«
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csZ Z(-(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"û
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.csZ Z(.*
+(
+%2"System.Collections.Generic.List<T>*ˇ
+1p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs[	 [(	"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsService.cs[ [(	
+implicit returnBB@
+>GestorDocumentacion.Models.Services.DocumentsOperationsService

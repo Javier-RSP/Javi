@@ -1,0 +1,27 @@
+
+rUrisFactory.Extra.Exceptions.FailedLoadConfigJsonException.FailedLoadConfigJsonException(string, System.Exception)š
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\FailedLoadConfigJsonException.cs (,"1*¥
+1š
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\FailedLoadConfigJsonException.cs	 (	*
+0*Ô
+0š
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\FailedLoadConfigJsonException.cs (!¬
+©
+š
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\FailedLoadConfigJsonException.cs ("
+
+%0void"6System.Exception.Exception(string?, System.Exception?)*
+System.Exception*
+
+messagestring*
+
+innerSystem.Exception*
+2*Õ
+2š
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\FailedLoadConfigJsonException.cs	 (	"²
+š
+C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\FailedLoadConfigJsonException.cs (	
+implicit return:
+messagestring:
+innerSystem.ExceptionB><
+:UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException

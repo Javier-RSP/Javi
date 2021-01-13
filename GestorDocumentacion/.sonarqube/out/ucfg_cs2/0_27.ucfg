@@ -1,16 +1,104 @@
 
-8GestorDocumentacion.Models.Entities.Template.Content.getŽ
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs  (#"0*ª
-0Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs$ ($ï
-ì
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs  ($
-%0string"__id*E*C.
-,GestorDocumentacion.Models.Entities.Template"
-Contentstring"¡
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs  ($
+KGestorDocumentacion.Controllers.DocumentController.GetDocument(System.Guid)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs% %(("4*¥
+
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' (($Ò
+Ï
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' '(:E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService"__id*™*–4
+2GestorDocumentacion.Controllers.DocumentController"^
+_documentsOperationsService?GestorDocumentacion.Models.Services.IDocumentsOperationsServiceñî
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' '(N9
+%13System.Collections.Generic.Dictionary<TKey, TValue>"\GestorDocumentacion.Models.Services.IDocumentsOperationsService.GetDocumentInfo(System.Guid)*G
+E
+%0?GestorDocumentacion.Models.Services.IDocumentsOperationsService*
+""2GetDocumentInfo(System.Guid)ñ
+î
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs' '(NC
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
+9
+%13System.Collections.Generic.Dictionary<TKey, TValue>ô
+ñ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs( (($
+
+%2bool""object.operator !=(object, object)*
+"
+object*E
+C
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>*
+""*
+1
+2*Ö
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(d»
+¸
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(/I
+%3CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection">System.Collections.Generic.Dictionary<TKey, TValue>.Values.get*E
+C
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>¸
+µ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(7
+%4byte[]"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*K
+I
+%3CSystem.Collections.Generic.Dictionary<TKey, TValue>.ValueCollection·
+´
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs*K *(\G
+%5ASystem.Collections.Generic.Dictionary<TKey, TValue>.KeyCollection"<System.Collections.Generic.Dictionary<TKey, TValue>.Keys.get*E
+C
+documentInfo3System.Collections.Generic.Dictionary<TKey, TValue>¶
+³
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs*K *(d
+%6string"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*I
+G
+%5ASystem.Collections.Generic.Dictionary<TKey, TValue>.KeyCollectionáÞ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(e0
+%7*Microsoft.AspNetCore.Mvc.FileContentResult"DMicrosoft.AspNetCore.Mvc.ControllerBase.File(byte[], string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
 
-%0stringB0.
-,GestorDocumentacion.Models.Entities.Template
+%4byte[]*
+application/pdf*
+
+%6string2File(byte[], string, string)"š
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs* *(f2
+0
+%7*Microsoft.AspNetCore.Mvc.FileContentResult*š
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs, ,(!”‘
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs, ,("-
+%8'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	Not found2
+Ok(object)"—
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs, ,(#/
+-
+%8'Microsoft.AspNetCore.Mvc.OkObjectResult*æ
+3d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs-	 -(	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs- -(	
+implicit return*ö
+4d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs%1 %(1…
+‚
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\DocumentController.cs% %((
+%9"__entrypoint*
+""*
+0:
+idSystem.GuidB64
+2GestorDocumentacion.Controllers.DocumentController

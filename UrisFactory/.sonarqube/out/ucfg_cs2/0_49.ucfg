@@ -1,0 +1,58 @@
+
+4UrisFactory.Controllers.SchemaController.GetSchema()‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs. .(#"2*…
+0‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs0 1(PÎ
+Ë
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs0! 0(89
+%03UrisFactory.Models.Services.ISchemaConfigOperations"__id*~*|*
+(UrisFactory.Controllers.SchemaController"N
+_schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperations°­
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs0! 0(I
+%1string"DUrisFactory.Models.Services.ISchemaConfigOperations.GetContentType()*;
+9
+%03UrisFactory.Models.Services.ISchemaConfigOperations2GetContentType()º
+·
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs0 0(I
+contentTypestring"__id*
+
+%1stringÎ
+Ë
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs1 1(/9
+%23UrisFactory.Models.Services.ISchemaConfigOperations"__id*~*|*
+(UrisFactory.Controllers.SchemaController"N
+_schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperations¶³
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs1 1(C
+%3byte[]"GUrisFactory.Models.Services.ISchemaConfigOperations.GetFileSchemaData()*;
+9
+%23UrisFactory.Models.Services.ISchemaConfigOperations2GetFileSchemaData()éæ
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs1 1(Q0
+%4*Microsoft.AspNetCore.Mvc.FileContentResult"<Microsoft.AspNetCore.Mvc.ControllerBase.File(byte[], string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%3byte[]*
+
+contentTypestring2File(byte[], string)"¾
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs1 1(R2
+0
+%4*Microsoft.AspNetCore.Mvc.FileContentResult*¯
+1‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs2	 2(	"Ÿ
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs2 2(	
+implicit return*¶
+2‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs.% .(%¡
+ž
+‡
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs. .(#
+%5"__entrypoint*
+0B,*
+(UrisFactory.Controllers.SchemaController

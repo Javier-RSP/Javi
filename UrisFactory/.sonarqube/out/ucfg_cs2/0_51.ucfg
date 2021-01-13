@@ -1,0 +1,199 @@
+
+DUrisFactory.Controllers.SchemaController.GetUriStructureInfo(string)á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csV V(0"4*Ω
+
+0á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csX Y(Ω
+∫
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csX X(13
+%0-UrisFactory.Models.Services.ConfigJsonHandler"__id*s*q*
+(UrisFactory.Controllers.SchemaController"C
+_configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandler”
+–
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csX X(G4
+%1.UrisFactory.Models.ConfigEntities.UriStructure"EUrisFactory.Models.Services.ConfigJsonHandler.GetUriStructure(string)*5
+3
+%0-UrisFactory.Models.Services.ConfigJsonHandler*
+
+namestringÇ
+ˇ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csX X(G5
+uri.UrisFactory.Models.ConfigEntities.UriStructure"__id*6
+4
+%1.UrisFactory.Models.ConfigEntities.UriStructureä
+á
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csY Y(
+
+%2bool""object.operator !=(object, object)*
+"
+object*7
+5
+uri.UrisFactory.Models.ConfigEntities.UriStructure*
+""*
+1
+2*ë
+1á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs[% _(*Ω
+∫
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs[5 [(G3
+%3-UrisFactory.Models.Services.ConfigJsonHandler"__id*s*q*
+(UrisFactory.Controllers.SchemaController"C
+_configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandler»
+≈
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs[5 [(^(
+%4"System.Collections.Generic.List<T>"FUrisFactory.Models.Services.ConfigJsonHandler.GetResourceClass(string)*5
+3
+%3-UrisFactory.Models.Services.ConfigJsonHandler*
+
+namestringÙ
+Ò
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs[% [(^3
+resourceClass"System.Collections.Generic.List<T>"__id**
+(
+%4"System.Collections.Generic.List<T>Â‚
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs\3 \(I-
+%5'UrisFactory.ViewModels.InfoUriStructure"'UrisFactory.ViewModels.InfoUriStructureÜ
+É
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs\7 \(G
+
+%6void":UrisFactory.ViewModels.InfoUriStructure.InfoUriStructure()*/
+-
+%5'UrisFactory.ViewModels.InfoUriStructureÅ
+˛
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs\! \(I;
+infoUriStructure'UrisFactory.ViewModels.InfoUriStructure"__id*/
+-
+%5'UrisFactory.ViewModels.InfoUriStructureı
+Ú
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs] ](34
+%7.UrisFactory.Models.ConfigEntities.UriStructure"8UrisFactory.ViewModels.InfoUriStructure.UriStructure.set*=
+;
+infoUriStructure'UrisFactory.ViewModels.InfoUriStructure*7
+5
+uri.UrisFactory.Models.ConfigEntities.UriStructureÈ
+Ê
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs^ ^(?(
+%8"System.Collections.Generic.List<T>":UrisFactory.ViewModels.InfoUriStructure.ResourcesClass.set*=
+;
+infoUriStructure'UrisFactory.ViewModels.InfoUriStructure*5
+3
+resourceClass"System.Collections.Generic.List<T>ËÂ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs_ _(+-
+%9'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*=
+;
+infoUriStructure'UrisFactory.ViewModels.InfoUriStructure2
+Ok(object)"ª
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs_ _(,/
+-
+%9'Microsoft.AspNetCore.Mvc.OkObjectResult*Ø
+2á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csc c(P¿
+Ω
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csc" c(V
+%10string"__concat*
+""*
+
+namestringø
+º
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csc" c(V
+%11string"__concat*
+
+%10string*
+""”–
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csc c(W6
+%12/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%11string2BadRequest(object)"ƒ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csc c(X8
+6
+%12/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*Ø
+3á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cse	 e(	"ü
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cse e(	
+implicit return*É
+4á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csV= V(=¥
+±
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csV V(0
+%13"__entrypoint*
+
+namestring˙
+˜
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csQ	 Q(
+%14"
+__annotate*FD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+
+namestring¶
+£
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csR	 R(V
+%15"
+__annotate*rp
+nSwashbuckle.AspNetCore.Annotations.SwaggerResponseAttribute.SwaggerResponseAttribute(int, string, System.Type)*
+
+namestring≈
+¬
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csS	 S(Y
+%16"
+__annotate*êç
+äSwashbuckle.AspNetCore.Filters.SwaggerResponseExampleAttribute.SwaggerResponseExampleAttribute(int, System.Type, System.Type, System.Type)*
+
+namestring¶
+£
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csT	 T(]
+%17"
+__annotate*rp
+nSwashbuckle.AspNetCore.Annotations.SwaggerResponseAttribute.SwaggerResponseAttribute(int, string, System.Type)*
+
+namestring≈
+¬
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csU	 U(d
+%18"
+__annotate*êç
+äSwashbuckle.AspNetCore.Filters.SwaggerResponseExampleAttribute.SwaggerResponseExampleAttribute(int, System.Type, System.Type, System.Type)*
+
+namestringÿ
+’
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csV1 V(<
+namestring"__annotation*
+
+%14*
+
+%15*
+
+%16*
+
+%17*
+
+%18*
+0:
+namestringB,*
+(UrisFactory.Controllers.SchemaController

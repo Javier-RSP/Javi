@@ -1,13 +1,13 @@
 
-<GestorDocumentacion.Migrations.InitialCreate.InitialCreate()ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs (&"0*Â
-0ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs: :(á
+BGestorDocumentacion.Migrations.changePageEntity.changePageEntity()p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.cs ()"0*â
+0p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.csN N(á
 Ñ
 
 %0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
-2Microsoft.EntityFrameworkCore.Migrations.Migration"µ
-ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs :(
-implicit returnB0.
-,GestorDocumentacion.Migrations.InitialCreate
+2Microsoft.EntityFrameworkCore.Migrations.Migration"á
+p
+fC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200911111710_changePageEntity.cs N(
+implicit returnB31
+/GestorDocumentacion.Migrations.changePageEntity

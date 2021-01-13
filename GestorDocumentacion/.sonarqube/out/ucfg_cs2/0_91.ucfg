@@ -1,88 +1,133 @@
 
-^GestorDocumentacion.Models.Services.DocumentsOperationsMockService.DeleteDocument(System.Guid)§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs1 1(""0*ç
-0§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3 4( ⁄
-◊
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3  3(.(
-%0"System.Collections.Generic.List<T>"__id*~*|D
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"4
-_listDocuments"System.Collections.Generic.List<T>´
-®
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3  3(q2
-%1,GestorDocumentacion.Models.Entities.Document"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable**
-(
-%0"System.Collections.Generic.List<T>*
-""†
-ù
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs3 3(q8
-document,GestorDocumentacion.Models.Entities.Document"__id*4
-2
-%1,GestorDocumentacion.Models.Entities.Document™
-ß
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs4 4( 
-
-%2bool""object.operator !=(object, object)*
-"
-object*:
-8
-document,GestorDocumentacion.Models.Entities.Document*
-""*
-1
-2*ö
-1§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs6 7(I⁄
-◊
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs6 6((
-%3"System.Collections.Generic.List<T>"__id*~*|D
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"4
-_listDocuments"System.Collections.Generic.List<T>Ã
-…
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs6 6(/
-
-%4bool",System.Collections.Generic.List<T>.Remove(T)**
-(
-%3"System.Collections.Generic.List<T>*:
-8
-document,GestorDocumentacion.Models.Entities.Documentí
-è
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs7 7(&?
-%59GestorDocumentacion.Models.Services.IFileOperationService"__id*û*õD
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService"S
-_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService±
-Æ
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs76 7(I
-%6string";GestorDocumentacion.Models.Entities.Document.SavedRoute.get*:
-8
-document,GestorDocumentacion.Models.Entities.DocumentÛ
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs7 7(J
-
-%7void"PGestorDocumentacion.Models.Services.IFileOperationService.DeleteDocument(string)*A
-?
-%59GestorDocumentacion.Models.Services.IFileOperationService*
+LGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.CreateLoggin(string)i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csN N(!"0*Ì
+0i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csP Q(/ˇ
+¸
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csP# P(/
+%0string"DGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.GetLogPath()*;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddlewareù
+ö
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csP P(/
+pathDirectorystring"__id*
 
-%6string2DeleteDocument(string)*
-2*‹
-2§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs9 9("Ø
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs9 9(
-""*È
-3§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs:	 :(	"º
-§
-ôC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\DocumentsOperationsMockService.cs: :(	
-implicit return:
+%0string“
+œ
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csQ Q(0
 
-documentIdSystem.GuidBFD
-BGestorDocumentacion.Models.Services.DocumentsOperationsMockService
+%1bool""System.IO.Directory.Exists(string)*"
+System.IO.Directory*
+
+pathDirectorystring*
+1
+2*‰
+1i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csS S(7Ó
+Î
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csS S(8
+%2System.IO.DirectoryInfo"+System.IO.Directory.CreateDirectory(string)*"
+System.IO.Directory*
+
+pathDirectorystring*
+2*
+2i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(yÆ´
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(2!
+%3Serilog.LoggerConfiguration"Serilog.LoggerConfiguration“
+œ
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(0
+
+%4void"1Serilog.LoggerConfiguration.LoggerConfiguration()*#
+!
+%3Serilog.LoggerConfigurationˆ
+Û
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(99
+%53Serilog.Configuration.LoggerEnrichmentConfiguration"&Serilog.LoggerConfiguration.Enrich.get*#
+!
+%3Serilog.LoggerConfigurationî
+ë
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(J!
+%6Serilog.LoggerConfiguration"DSerilog.Configuration.LoggerEnrichmentConfiguration.FromLogContext()*;
+9
+%53Serilog.Configuration.LoggerEnrichmentConfigurationÒ
+Ó
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(R3
+%7-Serilog.Configuration.LoggerSinkConfiguration"'Serilog.LoggerConfiguration.WriteTo.get*#
+!
+%6Serilog.LoggerConfiguration©
+¶
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csUX U(
+%8string"__concat*
+
+pathDirectorystring*
+""Æ
+´
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csUX U(
+%9string"__concat*
+
+%8string*
+
+
+pTimestampstringü
+ú
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csUX U(
+%10string"__concat*
+
+%9string*
+""¿
+Ω
+j
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(Ä"
+%11Serilog.LoggerConfiguration"ÀSerilog.FileLoggerConfigurationExtensions.File(Serilog.Configuration.LoggerSinkConfiguration, string, Serilog.Events.LogEventLevel, string, System.IFormatProvider, long?, Serilog.Core.LoggingLevelSwitch, bool, bool, System.TimeSpan?, Serilog.RollingInterval, bool, int?, System.Text.Encoding, Serilog.Sinks.File.FileLifecycleHooks)*-"+
+)Serilog.FileLoggerConfigurationExtensions*5
+3
+%7-Serilog.Configuration.LoggerSinkConfiguration*
+
+%10string*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""›
+⁄
+j
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(è
+%12Serilog.Core.Logger"*Serilog.LoggerConfiguration.CreateLogger()*$
+"
+%11Serilog.LoggerConfigurationŒ
+À
+j
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csU U(è
+%13Serilog.ILogger"Serilog.Log.Logger.set*"
+Serilog.Log*
+
+%12Serilog.Core.Logger*
+3*Ò
+3i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csV	 V(	"Ä
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.csV V(	
+implicit return:
+
+pTimestampstringB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

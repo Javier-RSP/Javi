@@ -1,41 +1,244 @@
 
-lGestorDocumentacion.Models.EntityContext.EntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("1*”
-1‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs	 (	*
-0*‚
-0‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (è
-å
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (
+yGestorDocumentacion.Controllers.TemplateController.LoadTemplate(string, System.Guid, Microsoft.AspNetCore.Http.IFormFile)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN N()"7*¶
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csP R(,|
+z
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csP  P(*
+%0"__id*
+""”
+‘
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csP P(*
+guidTemplateSystem.Guid"__id*
+
+%0†
+ƒ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csQ Q(
+isNewbool"__id*
+""|
+z
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csR R(
+%1"__id*
+""¦
+£
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csR R(-
 
-%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
-'Microsoft.EntityFrameworkCore.DbContext*;
-9
-options.Microsoft.EntityFrameworkCore.DbContextOptions*
-2
-3*‹
-2‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("ÃÀ
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (A
-%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*+)
-'Microsoft.EntityFrameworkCore.DbContext2Database.get®
-«
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("
+%2bool"System.Guid.Equals(System.Guid)*
+
+%1*
+""*
+1
+2*Â
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csT U(¤
+¡
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csT T(-
+%3System.Guid"System.Guid.NewGuid()*"
+System.Guid¡
+ž
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csT T(-
+guidTemplateSystem.Guid"__id*
+
+%3System.Guid†
+ƒ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csU U(
+isNewbool"__id*
+""*
+3*…
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csY Y()”
+‘
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csY Y()
+guidTemplateSystem.Guid"__id*
+""*
+3*
+3d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\ b(IËÈ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\  a(2
+%4,GestorDocumentacion.Models.Entities.Template",GestorDocumentacion.Models.Entities.Templateä
+á
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\$ \(,
 
-%2void"…Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)*D"B
-@Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions*C
-A
-%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
-3*³
-3‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs	 (	"¡
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (	
-implicit return:9
-options.Microsoft.EntityFrameworkCore.DbContextOptions:
-memoryboolB,*
-(GestorDocumentacion.Models.EntityContext
+%5void"7GestorDocumentacion.Models.Entities.Template.Template()*4
+2
+%4,GestorDocumentacion.Models.Entities.Templateö
+ó
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs^ ^(
+%6string"5GestorDocumentacion.Models.Entities.Template.Name.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Template*
+
+namestringŽ
+‹
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs_ _()
+%7System.Guid";GestorDocumentacion.Models.Entities.Template.TemplateID.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Template*
+
+guidTemplateSystem.GuidÁ
+¾
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs` `(0?
+%89GestorDocumentacion.Models.Services.IFileOperationService"__id*Ž*‹4
+2GestorDocumentacion.Controllers.TemplateController"S
+_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationServiceŠ‡
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs` `(H
+%9string"gGestorDocumentacion.Models.Services.IFileOperationService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)*A
+?
+%89GestorDocumentacion.Models.Services.IFileOperationService*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFile2-ReadFile(Microsoft.AspNetCore.Http.IFormFile)ø
+õ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs` `(H
+%10string"8GestorDocumentacion.Models.Entities.Template.Content.set*4
+2
+%4,GestorDocumentacion.Models.Entities.Template*
+
+%9stringß
+Ü
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs\ a(8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%4,GestorDocumentacion.Models.Entities.TemplateÕ
+Ò
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csb b(,G
+%11@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*š*—4
+2GestorDocumentacion.Controllers.TemplateController"_
+_templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServicesÔÑ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csb b(J
+%12bool"GestorDocumentacion.Models.Services.ITemplatesOperationsServices.LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)*I
+G
+%11@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+
+isNewbool2@LoadTemplate(GestorDocumentacion.Models.Entities.Template, bool)*
+4
+5*û
+4d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd d(@œ
+™
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd" d(P
+%13string"__concat*
+""*
+
+namestring›
+˜
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd" d(P
+%14string"__concat*
+
+%13string*
+""¯¬
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd d(Q6
+%15/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%14string2BadRequest(object)" 
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csd d(R8
+6
+%15/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*¬
+5d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csf f("¥¢
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csf f(#.
+%16'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+guidTemplateSystem.Guid2
+Ok(object)"˜
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csf f($0
+.
+%16'Microsoft.AspNetCore.Mvc.OkObjectResult*æ
+6d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csg	 g(	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csg g(	
+implicit return*¿
+7d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN` N(`Ð
+Í
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN N()
+%17"__entrypoint*
+
+namestring*
+""*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFileÒ
+Ï
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csL	 L(
+%18"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*
+
+namestringÒ
+Ï
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csM	 M(
+%19"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*
+
+namestring™
+–
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csN* N(5
+namestring"__annotation*
+
+%18*
+
+%19ø
+õ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csL	 L(
+%20"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFileø
+õ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csM	 M(
+%21"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*6
+4
+html_template#Microsoft.AspNetCore.Http.IFormFile¿
+¼
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.csNH N(_4
+html_template#Microsoft.AspNetCore.Http.IFormFile"__annotation*
+
+%20*
+
+%21*
+0:
+namestring:
+
+templateIdSystem.Guid:4
+html_template#Microsoft.AspNetCore.Http.IFormFileB64
+2GestorDocumentacion.Controllers.TemplateController

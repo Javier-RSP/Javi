@@ -1,0 +1,26 @@
+
+^UrisFactory.Middlewares.LoadConfigJsonMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\LoadConfigJsonMiddleware.cs ( "0*œ
+0ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\LoadConfigJsonMiddleware.cs (π
+∂
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\LoadConfigJsonMiddleware.cs (/
+%0)Microsoft.AspNetCore.Http.RequestDelegate"__id*j*h2
+0UrisFactory.Middlewares.LoadConfigJsonMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegateı
+Ú
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\LoadConfigJsonMiddleware.cs ( !
+%1System.Threading.Tasks.Task"WMicrosoft.AspNetCore.Http.RequestDelegate.Invoke(Microsoft.AspNetCore.Http.HttpContext)*-+
+)Microsoft.AspNetCore.Http.RequestDelegate*2
+0
+context%Microsoft.AspNetCore.Http.HttpContext*
+1*¡
+1ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\LoadConfigJsonMiddleware.cs	 (	"®
+ê
+ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\LoadConfigJsonMiddleware.cs (	
+implicit return:0
+context%Microsoft.AspNetCore.Http.HttpContextB42
+0UrisFactory.Middlewares.LoadConfigJsonMiddleware

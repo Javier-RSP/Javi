@@ -1,34 +1,16 @@
 
-MGestorDocumentacion.Models.Services.TemplatesOperationsService.GetTemplates() 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs= =(*"0*—
-0 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(-Ø
-Õ
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(.
-%0(GestorDocumentacion.Models.EntityContext"__id*z*x@
->GestorDocumentacion.Models.Services.TemplatesOperationsService"4
-_context(GestorDocumentacion.Models.EntityContextÃ
-À
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?($2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"5GestorDocumentacion.Models.EntityContext.Template.get*0
-.
-%0(GestorDocumentacion.Models.EntityContextû
-ø
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(-(
-%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*4
+5GestorDocumentacion.Models.EntityContext.Template.getZ
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* (-"0*ú
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs. (.ƒ
+€
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* (.2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*h*f*
+(GestorDocumentacion.Models.EntityContext"8
+Template,Microsoft.EntityFrameworkCore.DbSet<TEntity>"’
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* (.4
 2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Ï
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs? ?(.*
-(
-%2"System.Collections.Generic.List<T>*á
-1 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs@	 @(	"¸
- 
-•C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\TemplatesOperationsService.cs@ @(	
-implicit returnBB@
->GestorDocumentacion.Models.Services.TemplatesOperationsService
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>B,*
+(GestorDocumentacion.Models.EntityContext

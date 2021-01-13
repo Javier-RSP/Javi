@@ -1,0 +1,24 @@
+
+fUrisFactory.Extra.Exceptions.ParametersNotConfiguredException.ParametersNotConfiguredException(string)ù
+íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\ParametersNotConfiguredException.cs (/"1*®
+1ù
+íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\ParametersNotConfiguredException.cs	 (	*
+0*™
+0ù
+íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\ParametersNotConfiguredException.cs (ˇ
+¸
+ù
+íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\ParametersNotConfiguredException.cs (
+
+%0void"#System.Exception.Exception(string?)*
+System.Exception*
+
+messagestring*
+2*€
+2ù
+íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\ParametersNotConfiguredException.cs	 (	"µ
+ù
+íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\ParametersNotConfiguredException.cs (	
+implicit return:
+messagestringBA?
+=UrisFactory.Extra.Exceptions.ParametersNotConfiguredException

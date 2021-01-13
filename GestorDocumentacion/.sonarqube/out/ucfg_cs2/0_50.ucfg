@@ -1,16 +1,16 @@
 
--GestorDocumentacion.Startup.Configuration.get|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs(. ((1"0*ç
-0|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs(2 ((2§
-¤
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs(. ((27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*e*c
-GestorDocumentacion.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"¹
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Startup.cs(. ((29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB
-GestorDocumentacion.Startup
+:GestorDocumentacion.Models.Entities.Page.LastRequested.getZ
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs) (,"0*°
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs- (-Ô
+Ñ
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs) (-
+%0System.Nullable<T>"__id*S*Q*
+(GestorDocumentacion.Models.Entities.Page"#
+LastRequestedSystem.Nullable<T>"x
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs) (-
+
+%0System.Nullable<T>B,*
+(GestorDocumentacion.Models.Entities.Page

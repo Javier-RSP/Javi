@@ -1,36 +1,27 @@
 
-NGestorDocumentacion.Models.Services.PagesOperationService.GetPage(System.Guid)õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs= =("0*¿
-0õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs@ @(RŒ
-À
+PGestorDocumentacion.Models.Services.FileOperationsService.DeleteDocument(string)k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs& &(""0*ﬂ
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs( )(!û
 õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs@ @(.
-%0(GestorDocumentacion.Models.EntityContext"__id*u*s;
-9GestorDocumentacion.Models.Services.PagesOperationService"4
-_context(GestorDocumentacion.Models.EntityContext∫
-∑
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs@ @( 2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1GestorDocumentacion.Models.EntityContext.Page.get*0
-.
-%0(GestorDocumentacion.Models.EntityContextª
-∏
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs@ @(S.
-%2(GestorDocumentacion.Models.Entities.Page"éSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
-System.Linq.Queryable*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-"""–
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.cs@ @(T0
-.
-%2(GestorDocumentacion.Models.Entities.Page*◊
-1õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csA	 A(	"≥
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\PagesOperationService.csA A(	
-implicit return:
-pageIDSystem.GuidB=;
-9GestorDocumentacion.Models.Services.PagesOperationService
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs( (($
+	routeFilestring"__id*
+
+routestring∆
+√
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs) )("
+
+%0void"System.IO.File.Delete(string)*"
+System.IO.File*
+
+	routeFilestring*
+1*ı
+1k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs*	 *(	"Ç
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs* *(	
+implicit return:
+routestringB=;
+9GestorDocumentacion.Models.Services.FileOperationsService

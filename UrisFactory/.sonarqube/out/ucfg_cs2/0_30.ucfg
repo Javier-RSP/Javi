@@ -1,0 +1,46 @@
+
+ùUrisFactory.Controllers.SchemaController.SchemaController(UrisFactory.Models.Services.ConfigJsonHandler, UrisFactory.Models.Services.ISchemaConfigOperations)á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs" "("3*˝
+1á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs&	 &(	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*∆
+0á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs$ %(<Ã
+…
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs$ $(2q*
+(UrisFactory.Controllers.SchemaController"C
+_configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandler"__id*D
+B
+configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandler‚
+ﬂ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs% %(<|*
+(UrisFactory.Controllers.SchemaController"N
+_schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperations"__id*O
+M
+schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperations*
+2*Ø
+2á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs&	 &(	"ü
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs& &(	
+implicit return*Õ
+3á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs"t "(t∏
+µ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs" "(
+%1"__entrypoint*D
+B
+configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandler*O
+M
+schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperations*
+1:B
+configJsonHandler-UrisFactory.Models.Services.ConfigJsonHandler:M
+schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperationsB,*
+(UrisFactory.Controllers.SchemaController

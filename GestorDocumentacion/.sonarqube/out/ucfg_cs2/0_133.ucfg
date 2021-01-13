@@ -1,29 +1,93 @@
 
-NGestorDocumentacion.Models.Services.FileOperationsService.ReadDocument(string)õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs; ;(""0*ú
-0õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= >(˚
-¯
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= =(/
-%0byte[]"#System.IO.File.ReadAllBytes(string)*"
-System.IO.File*
-
-routestring«
-ƒ
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs= =(/
-databyte[]"__id*
+gGestorDocumentacion.Models.Services.FileOperationsService.ReadFile(Microsoft.AspNetCore.Http.IFormFile)k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs ("0*à
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (F¨©
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (,
+%0System.Text.StringBuilder"System.Text.StringBuilder 
+«
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (*
+
+%1void")System.Text.StringBuilder.StringBuilder()*!
+
+%0System.Text.StringBuilderæ
+ª
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (,#
+resultSystem.Text.StringBuilder"__id*!
+
+%0System.Text.StringBuilderˇ¸
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs1 (F
+%2System.IO.Stream"4Microsoft.AspNetCore.Http.IFormFile.OpenReadStream()*-
++
+file#Microsoft.AspNetCore.Http.IFormFile2OpenReadStream()¶£
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs  (G
+%3System.IO.StreamReader"System.IO.StreamReaderÌ
+Í
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs$ (0
+
+%4void"5System.IO.StreamReader.StreamReader(System.IO.Stream)*
+
+%3System.IO.StreamReader*
+
+%2System.IO.Stream∏
+µ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (G 
+readerSystem.IO.StreamReader"__id*
+
+%3System.IO.StreamReader*
+1*¡
+1k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs ()∆√
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs ($	
+%5int"System.IO.StreamReader.Peek()*"
+ 
+readerSystem.IO.StreamReader2Peek()*
+2
+3*√
+2k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (7—Œ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs& (7
+%6string"!System.IO.StreamReader.ReadLine()*"
+ 
+readerSystem.IO.StreamReader2
+ReadLine()˜
+Ù
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs (8
+%7System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*%
+#
+resultSystem.Text.StringBuilder*
 
-%0byte[]"∞
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs> >(
-
-databyte[]*◊
-1õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs?	 ?(	"≥
-õ
-êC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs? ?(	
-implicit return:
-routestringB=;
+%6string*
+1*u
+3k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs!	 !(	*
+4*Ω
+4k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs   ($À
+»
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs   ($
+%8string"$System.Text.StringBuilder.ToString()*%
+#
+resultSystem.Text.StringBuilder"}
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs   (%
+
+%8string*ı
+5k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs!	 !(	"Ç
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Services\FileOperationsService.cs! !(	
+implicit return:+
+file#Microsoft.AspNetCore.Http.IFormFileB=;
 9GestorDocumentacion.Models.Services.FileOperationsService

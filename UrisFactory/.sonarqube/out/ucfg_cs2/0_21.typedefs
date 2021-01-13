@@ -1,0 +1,7 @@
+—
+UrisFactory.Startupobjectå
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)NUrisFactory.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)¥
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)bUrisFactory.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Û
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ÅUrisFactory.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment):
+Configuration.get%UrisFactory.Startup.Configuration.get:
+Configuration.set%UrisFactory.Startup.Configuration.set

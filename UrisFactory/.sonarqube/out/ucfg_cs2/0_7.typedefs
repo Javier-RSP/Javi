@@ -1,0 +1,8 @@
+Ê
+(UrisFactory.Controllers.SchemaController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectñ
+tSchemaController(UrisFactory.Models.Services.ConfigJsonHandler, UrisFactory.Models.Services.ISchemaConfigOperations)ùUrisFactory.Controllers.SchemaController.SchemaController(UrisFactory.Models.Services.ConfigJsonHandler, UrisFactory.Models.Services.ISchemaConfigOperations)C
+GetSchema()4UrisFactory.Controllers.SchemaController.GetSchema()ù
+8ReplaceSchemaConfig(Microsoft.AspNetCore.Http.IFormFile)aUrisFactory.Controllers.SchemaController.ReplaceSchemaConfig(Microsoft.AspNetCore.Http.IFormFile)c
+GetUriStructureInfo(string)DUrisFactory.Controllers.SchemaController.GetUriStructureInfo(string)a
+DeleteUriStructure(string)CUrisFactory.Controllers.SchemaController.DeleteUriStructure(string)ù
+8AddUriStructure(UrisFactory.ViewModels.InfoUriStructure)aUrisFactory.Controllers.SchemaController.AddUriStructure(UrisFactory.ViewModels.InfoUriStructure)

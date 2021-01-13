@@ -1,33 +1,41 @@
 
-*GestorDocumentacion.Program.Main(string[])|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs	 	("0*Æ
-0|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs ("†
-ù
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"7GestorDocumentacion.Program.CreateHostBuilder(string[])*"
-GestorDocumentacion.Program*
-
-argsstring[]öó
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Â
-‚
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (1
+lGestorDocumentacion.Models.EntityContext.EntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("1*d
+1Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs	 (	*
+0*¢
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (∏
+µ
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (
 
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*ó
-1|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs	 (	"ì
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (	
-implicit return:
-argsstring[]B"
-GestorDocumentacion.Program
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*;
+9
+options.Microsoft.EntityFrameworkCore.DbContextOptions*
+2
+3*˚
+2Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("ìê
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (A
+%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*+)
+'Microsoft.EntityFrameworkCore.DbContext2Database.get˛
+˚
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs ("
+
+%2void"ÖMicrosoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)*D"B
+@Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions*C
+A
+%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+3*“
+3Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs	 (	"q
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs (	
+implicit return:9
+options.Microsoft.EntityFrameworkCore.DbContextOptions:
+memoryboolB,*
+(GestorDocumentacion.Models.EntityContext

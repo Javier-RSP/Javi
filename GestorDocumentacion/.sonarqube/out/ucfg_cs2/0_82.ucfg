@@ -1,46 +1,64 @@
 
-∂GestorDocumentacion.Controllers.PageController.PageController(GestorDocumentacion.Models.Services.IPagesOperationsServices, GestorDocumentacion.Models.Services.IFileOperationService)ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs ("3*í
-1ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs!	 !(	u
-s
-
-%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-0*°
-0ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs  (:Ñ
-Å
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs (<ã0
-.GestorDocumentacion.Controllers.PageController"W
-_pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices"__id*X
-V
-pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices¸
-˘
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs   (:á0
-.GestorDocumentacion.Controllers.PageController"S
-_fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService"__id*T
-R
-fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
-2*¡
-2ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs!	 !(	"®
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs! !(	
-implicit return*¯
-3ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs{ ({⁄
-◊
-ê
-ÖC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Controllers\PageController.cs (
-%1"__entrypoint*X
-V
-pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices*T
-R
-fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationService*
-1:V
-pagesOperationsService<GestorDocumentacion.Models.Services.IPagesOperationsServices:R
-fileOperationsService9GestorDocumentacion.Models.Services.IFileOperationServiceB20
-.GestorDocumentacion.Controllers.PageController
+dGestorDocumentacion.Models.EntityContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs    (/"0*ˆ
+0Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" +($¿Ω
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" "('P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()Ê„
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" #('E
+%1?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"ïMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)◊‘
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs" $(E
+%2?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
+E
+%1?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
+""2IsUnique(bool)¿Ω
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& &(+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()Ê„
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& '(&E
+%4?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"ïMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)◊‘
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs& ((E
+%5?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
+E
+%4?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
+""2IsUnique(bool)¿Ω
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* *(+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"<Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>()*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2Entity<TEntity>()Ê„
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* +(%E
+%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"ïMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*R
+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2JHasIndex(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)◊‘
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs* ,(E
+%8?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>"NMicrosoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>.IsUnique(bool)*G
+E
+%7?Microsoft.EntityFrameworkCore.Metadata.Builders.IndexBuilder<T>*
+""2IsUnique(bool)*
+1*“
+1Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs-	 -(	"q
+Z
+PC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\EntityContext.cs- -(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB,*
+(GestorDocumentacion.Models.EntityContext

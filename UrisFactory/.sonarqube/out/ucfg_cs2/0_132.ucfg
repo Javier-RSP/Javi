@@ -1,0 +1,56 @@
+
+jUrisFactory.Models.Services.SchemaConfigFileOperations.SaveConfigFile(Microsoft.AspNetCore.Http.IFormFile)–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs8 8(""0*ù
+0–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs: >(!»
+¸
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs: :('
+%0System.IO.FileStream"EUrisFactory.Models.Services.SchemaConfigFileOperations.CreateStream()*:8
+6UrisFactory.Models.Services.SchemaConfigFileOperationsà
+Ý
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs: :('
+streamSystem.IO.FileStream"__id*
+
+%0System.IO.FileStreamÕÒ
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs; ;(#
+
+%1void"<Microsoft.AspNetCore.Http.IFormFile.CopyTo(System.IO.Stream)*1
+/
+formFile#Microsoft.AspNetCore.Http.IFormFile* 
+
+streamSystem.IO.FileStream2CopyTo(System.IO.Stream)íê
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs< <(
+
+%2void"System.IO.Stream.Close()* 
+
+streamSystem.IO.FileStream2Close()ð
+í
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs=" =(E
+
+%3bool"hUrisFactory.Models.Services.SchemaConfigFileOperations.replacePreviousSchemaConfig(System.IO.FileStream)*:8
+6UrisFactory.Models.Services.SchemaConfigFileOperations* 
+
+streamSystem.IO.FileStreamÈ
+Å
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs= =(E
+savedCorrectlybool"__id*
+
+
+%3bool"³
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs> >("
+
+savedCorrectlybool*Í
+1–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs?	 ?(	"®
+–
+‹C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.cs? ?(	
+implicit return:/
+formFile#Microsoft.AspNetCore.Http.IFormFileB:8
+6UrisFactory.Models.Services.SchemaConfigFileOperations

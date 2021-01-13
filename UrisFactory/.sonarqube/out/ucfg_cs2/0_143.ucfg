@@ -1,0 +1,141 @@
+
+ÉUrisFactory.Models.Services.UriFormer.ParserCharacter(System.Collections.Generic.List<UrisFactory.Models.ConfigEntities.Component>)Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csì ì(&"0*“
+0Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csï ò(%¥
+±
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csï ï((
+labelCharacterstring"__id*
+""¢
+ü
+á
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csñ' ñ(ñ1
+%0+UrisFactory.Models.ConfigEntities.Component"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*?
+=
+pUriStructureComponents"System.Collections.Generic.List<T>*
+""ì
+ê
+á
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csñ' ñ(®
+%1string"AUrisFactory.Models.ConfigEntities.Component.UriComponentValue.get*3
+1
+%0+UrisFactory.Models.ConfigEntities.Component¿
+Ω
+á
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csñ ñ(®
+uriComponentValuestring"__id*
+
+%1string˙
+˜
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csó" ó(>
+%2string[]"-string.Split(char, System.StringSplitOptions)*
+
+uriComponentValuestring*
+""*
+""º
+π
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csó ó(>
+
+parametersstring[]"__id*
+
+%2string[] 
+«
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csò ò( 	
+%3int"System.Array.Length.get*
+
+
+parametersstring[]*
+1
+2*˘
+1Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csö ú(*∆
+√
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csö# ö(0
+%4string"
+__arrayGet*
+
+
+parametersstring[]*2º
+π
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csö# ö(:
+%5string"string.ToLower()*
+
+%4string∑
+¥
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csö ö(:
+	characterstring"__id*
+
+%5string¨
+©
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csõ- õ(9;
+%65UrisFactory.Models.ConfigEntities.UriStructureGeneral"6UrisFactory.Models.Services.UriFormer.UriStructure.get*)'
+%UrisFactory.Models.Services.UriFormerº
+π
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csõ- õ(D)
+%7#System.Collections.Generic.IList<T>"DUrisFactory.Models.ConfigEntities.UriStructureGeneral.Characters.get*=
+;
+%65UrisFactory.Models.ConfigEntities.UriStructureGeneralè
+å
+á
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csõ- õ(Å2
+%8,UrisFactory.Models.ConfigEntities.Characters"{System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*+
+)
+%7#System.Collections.Generic.IList<T>*
+""ä
+á
+á
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csõ õ(Å?
+characterObject,UrisFactory.Models.ConfigEntities.Characters"__id*4
+2
+%8,UrisFactory.Models.ConfigEntities.Charactersì
+ê
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csú ú(*
+
+%9bool""object.operator !=(object, object)*
+"
+object*A
+?
+characterObject,UrisFactory.Models.ConfigEntities.Characters*
+""*
+3
+2*Û
+3Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csû û(Cü
+ú
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csû% û(C
+%10string"?UrisFactory.Models.ConfigEntities.Characters.LabelCharacter.get*A
+?
+characterObject,UrisFactory.Models.ConfigEntities.CharactersΩ
+∫
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.csû û(C
+labelCharacterstring"__id*
+
+%10string*
+2*¥
+2Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.cs° °(!"•
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.cs° °("
+
+labelCharacterstring*≠
+4Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.cs¢	 ¢(	"û
+Ü
+zC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\UriFormer.cs¢ ¢(	
+implicit return:=
+pUriStructureComponents"System.Collections.Generic.List<T>B)'
+%UrisFactory.Models.Services.UriFormer

@@ -1,18 +1,82 @@
 
-5GestorDocumentacion.Models.Entities.Template.Name.setŽ
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs" (%"0*Þ
-0Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& (&ï
-ì
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs" (&@.
-,GestorDocumentacion.Models.Entities.Template"
-Namestring"__id*
-
-valuestring"Õ
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs" (&B*@.
-,GestorDocumentacion.Models.Entities.Template"
-Namestring:
-valuestringB0.
-,GestorDocumentacion.Models.Entities.Template
+KGestorDocumentacion.Controllers.TemplateController.GetTemplate(System.Guid)d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs& &(("4*ý	
+0d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( )( Ô
+Ñ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( ((6F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices"__id*š*—4
+2GestorDocumentacion.Controllers.TemplateController"_
+_templatesOperationsService@GestorDocumentacion.Models.Services.ITemplatesOperationsServicesäá
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( ((N2
+%1,GestorDocumentacion.Models.Entities.Template"YGestorDocumentacion.Models.Services.ITemplatesOperationsServices.GetTemplate(System.Guid)*H
+F
+%0@GestorDocumentacion.Models.Services.ITemplatesOperationsServices*
+""2GetTemplate(System.Guid)ß
+Ü
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs( ((N8
+template,GestorDocumentacion.Models.Entities.Template"__id*4
+2
+%1,GestorDocumentacion.Models.Entities.Templateé
+æ
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs) )( 
+
+%2bool""object.operator !=(object, object)*
+"
+object*:
+8
+template,GestorDocumentacion.Models.Entities.Template*
+""*
+1
+2*‹
+1d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(*í
+ê
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(*
+%3string"8GestorDocumentacion.Models.Entities.Template.Content.get*:
+8
+template,GestorDocumentacion.Models.Entities.Template•’
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(+-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%3string2
+Ok(object)"—
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs+ +(,/
+-
+%4'Microsoft.AspNetCore.Mvc.OkObjectResult*š
+2d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs- -(!”‘
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs- -("-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	Not found2
+Ok(object)"—
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs- -(#/
+-
+%5'Microsoft.AspNetCore.Mvc.OkObjectResult*æ
+3d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs.	 .(	"{
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs. .(	
+implicit return*ö
+4d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs&9 &(9…
+‚
+d
+ZC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Controllers\TemplateController.cs& &((
+%6"__entrypoint*
+""*
+0:
+
+templateIdSystem.GuidB64
+2GestorDocumentacion.Controllers.TemplateController

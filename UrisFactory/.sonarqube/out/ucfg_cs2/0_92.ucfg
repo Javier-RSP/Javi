@@ -1,0 +1,150 @@
+
+AUrisFactory.Middlewares.ErrorHandlingMiddleware.CreateTimeStamp()è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csT T(&"0*Ó
+
+0è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csV X(!⁄
+◊
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csV V((
+%0System.DateTime"System.DateTime.Now.get*"
+System.DateTimeÕ
+ 
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csV V((
+timeSystem.DateTime"__id*
+
+%0System.DateTime÷
+”
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csW W(%	
+%1int"System.DateTime.Month.get*
+
+timeSystem.DateTime¿
+Ω
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csW W(0
+%2string"int.ToString()*
+	
+%1intº
+π
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csW W(0
+monthstring"__id*
+
+%2string∆
+√
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csX X(	
+%3int"string.Length.get*
+
+monthstring*
+1
+2*§
+1è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csZ Z(!»
+≈
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csZ Z(#
+%4string"__concat*
+""*
+
+monthstringº
+π
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csZ Z(#
+monthstring"__id*
+
+%4string*
+2*ª
+2è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs\ ](‘
+—
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs\ \(!	
+%5int"System.DateTime.Day.get*
+
+timeSystem.DateTime¿
+Ω
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs\ \(,
+%6string"int.ToString()*
+	
+%5int∫
+∑
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs\ \(,
+daystring"__id*
+
+%6stringƒ
+¡
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs] ](	
+%7int"string.Length.get*
+
+daystring*
+3
+4*†
+3è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs_ _(∆
+√
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs_ _(
+%8string"__concat*
+""*
+
+daystring∫
+∑
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.cs_ _(
+daystring"__id*
+
+%8string*
+4*…
+
+4è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csa b(’
+“
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csa" a(+	
+%9int"System.DateTime.Year.get*
+
+timeSystem.DateTime¡
+æ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csa" a(6
+%10string"int.ToString()*
+	
+%9int“
+œ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csa a(D
+%11string"__concat*
+
+%10string*
+
+monthstring–
+Õ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csa a(D
+%12string"__concat*
+
+%11string*
+
+daystring¡
+æ
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csa a(D
+	timeStampstring"__id*
+
+%12string"©
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csb b(
+
+	timeStampstring*ø
+5è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csc	 c(	"ß
+è
+ÑC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Middlewares\ErrorHandlingMiddleware.csc c(	
+implicit returnB31
+/UrisFactory.Middlewares.ErrorHandlingMiddleware

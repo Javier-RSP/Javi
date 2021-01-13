@@ -1,31 +1,38 @@
 
-7GestorDocumentacion.Program.CreateHostBuilder(string[])|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs# (4"0*Ó
-0|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (¯
-¬
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]é
-æ
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""±
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*—
-1|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs ("“
-|
-rC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Program.cs (
-implicit return:
-argsstring[]B"
-GestorDocumentacion.Program
+hGestorDocumentacion.Migrations.AddDocument.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs  (""0*™
+0k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs
+ (†ƒ
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs
+ (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Document*
+""*
+""*
+""*
+""2ûCreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)˜•
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs (_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Document_Name*
+
+Document*
+Name*
+""*
+""*
+""29CreateIndex(string, string, string, string, bool, string)*
+1*õ
+1k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs	 (	"‚
+k
+aC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Migrations\20200821104338_AddDocument.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB.,
+*GestorDocumentacion.Migrations.AddDocument

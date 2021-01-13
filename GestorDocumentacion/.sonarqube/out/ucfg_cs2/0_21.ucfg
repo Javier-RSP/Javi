@@ -1,23 +1,28 @@
 
-zGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (&"1*¤
-1™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs	 (	*
-0*ò
-0™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (Ë
-È
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (o9
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"2
-_next)Microsoft.AspNetCore.Http.RequestDelegate"__id*3
-1
-next)Microsoft.AspNetCore.Http.RequestDelegate*
-2*Ó
-2™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs	 (	"±
-™
-ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (	
-implicit return:1
-next)Microsoft.AspNetCore.Http.RequestDelegateB;9
-7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware
+>GestorDocumentacion.ViewModel.TemplateViewModel.TemplateID.seta
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+& 
+()"0*õ
+0a
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+* 
+(*Ô
+Ñ
+a
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+& 
+(*N1
+/GestorDocumentacion.ViewModel.TemplateViewModel"
+
+TemplateIDSystem.Guid"__id*
+
+valueSystem.Guid"µ
+a
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+& 
+(*P*N1
+/GestorDocumentacion.ViewModel.TemplateViewModel"
+
+TemplateIDSystem.Guid:
+valueSystem.GuidB31
+/GestorDocumentacion.ViewModel.TemplateViewModel

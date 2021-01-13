@@ -1,0 +1,101 @@
+
+ÄUrisFactory.Models.Services.ConfigJsonHandler.IsCorrectFormedUriStructure(UrisFactory.Models.ConfigEntities.UriStructureGeneral)è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csÑ Ñ(6"0*ˆ
+0è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csÜ á(!¥
+±
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csÜ Ü( 
+correctbool"__id*
+""ü
+ú
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá á(!
+
+%0bool""object.operator !=(object, object)*
+"
+object*D
+B
+	uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral*
+""*
+1
+2*µ
+1è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá% á(;©
+¶
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá% á(3
+%1string">UrisFactory.Models.ConfigEntities.UriStructureGeneral.Base.get*D
+B
+	uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneralÈ
+Ê
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá% á(;
+
+%2bool""string.operator !=(string, string)*
+"
+string*
+
+%1string*
+""*
+3
+2*¸
+3è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá? á(]Ã
+…
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá? á(S)
+%3#System.Collections.Generic.IList<T>"DUrisFactory.Models.ConfigEntities.UriStructureGeneral.Characters.get*D
+B
+	uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneralçä
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csá? á(Y	
+%4int"3System.Collections.Generic.ICollection<T>.Count.get*+
+)
+%3#System.Collections.Generic.IList<T>2	Count.get*
+4
+2*Ä
+4ê
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csáa á(Çœ
+Ã
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csáa á(x)
+%5#System.Collections.Generic.IList<T>"GUrisFactory.Models.ConfigEntities.UriStructureGeneral.UriStructures.get*D
+B
+	uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneralçä
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csáa á(~	
+%6int"3System.Collections.Generic.ICollection<T>.Count.get*+
+)
+%5#System.Collections.Generic.IList<T>2	Count.get*
+5
+2*—
+5è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csâ â(¥
+±
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csâ â(
+correctbool"__id*
+""*
+6*Ñ
+2è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csç ç( Á
+‰
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csç ç( B
+	uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*
+""*
+6*Ω
+6è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csè è("•
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csè è(
+
+correctbool*ø
+7è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csê	 ê(	"ß
+è
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csê ê(	
+implicit return:B
+	uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneralB1"/
+-UrisFactory.Models.Services.ConfigJsonHandler

@@ -1,10 +1,10 @@
-Ñ
-(GestorDocumentacion.Models.EntityContext'Microsoft.EntityFrameworkCore.DbContextobject³
-CEntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)lGestorDocumentacion.Models.EntityContext.EntityContext(Microsoft.EntityFrameworkCore.DbContextOptions, bool)£
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)dGestorDocumentacion.Models.EntityContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)=
-Page.get1GestorDocumentacion.Models.EntityContext.Page.get=
-Page.set1GestorDocumentacion.Models.EntityContext.Page.setE
-Template.get5GestorDocumentacion.Models.EntityContext.Template.getE
-Template.set5GestorDocumentacion.Models.EntityContext.Template.setE
-Document.get5GestorDocumentacion.Models.EntityContext.Document.getE
-Document.set5GestorDocumentacion.Models.EntityContext.Document.set
+³
+,GestorDocumentacion.Models.Entities.TemplateobjectE
+
+Template()7GestorDocumentacion.Models.Entities.Template.Template()M
+TemplateID.get;GestorDocumentacion.Models.Entities.Template.TemplateID.getM
+TemplateID.set;GestorDocumentacion.Models.Entities.Template.TemplateID.setA
+Name.get5GestorDocumentacion.Models.Entities.Template.Name.getA
+Name.set5GestorDocumentacion.Models.Entities.Template.Name.setG
+Content.get8GestorDocumentacion.Models.Entities.Template.Content.getG
+Content.set8GestorDocumentacion.Models.Entities.Template.Content.set

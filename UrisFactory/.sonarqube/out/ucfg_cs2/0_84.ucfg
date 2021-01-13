@@ -1,0 +1,31 @@
+
+/UrisFactory.Program.CreateHostBuilder(string[])r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs# (4"0*«
+0r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs (¥
+¢
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]ß
+Ü
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""§
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*ƒ
+1r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs ("‰
+r
+hC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Program.cs (
+implicit return:
+argsstring[]B"
+UrisFactory.Program

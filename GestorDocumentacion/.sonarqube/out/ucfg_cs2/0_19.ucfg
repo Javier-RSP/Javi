@@ -1,20 +1,23 @@
 
-;GestorDocumentacion.Models.Entities.Template.TemplateID.seté
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& ()"0*˘
-0é
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs* (*ˇ
-¸
-é
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& (*K.
-,GestorDocumentacion.Models.Entities.Template"
-
-TemplateIDSystem.Guid"__id*
-
-valueSystem.Guid"‡
-é
-ÉC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& (*M*K.
-,GestorDocumentacion.Models.Entities.Template"
-
-TemplateIDSystem.Guid:
-valueSystem.GuidB0.
-,GestorDocumentacion.Models.Entities.Template
+zGestorDocumentacion.Middlewares.ErrorHandlingMiddleware.ErrorHandlingMiddleware(Microsoft.AspNetCore.Http.RequestDelegate)i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (&"1*s
+1i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs	 (	*
+0*ê
+0i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (ö
+ó
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (o9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware"2
+_next)Microsoft.AspNetCore.Http.RequestDelegate"__id*3
+1
+next)Microsoft.AspNetCore.Http.RequestDelegate*
+2*Ò
+2i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs	 (	"Ä
+i
+_C:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Middlewares\ErrorHandlingMiddleware.cs (	
+implicit return:1
+next)Microsoft.AspNetCore.Http.RequestDelegateB;9
+7GestorDocumentacion.Middlewares.ErrorHandlingMiddleware

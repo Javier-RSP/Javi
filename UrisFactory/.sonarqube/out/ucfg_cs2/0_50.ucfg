@@ -1,0 +1,121 @@
+
+aUrisFactory.Controllers.SchemaController.ReplaceSchemaConfig(Microsoft.AspNetCore.Http.IFormFile)á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs@ @(0"4*À
+0á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csB C(Œ
+À
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csB B(19
+%03UrisFactory.Models.Services.ISchemaConfigOperations"__id*~*|*
+(UrisFactory.Controllers.SchemaController"N
+_schemaConfigOperations3UrisFactory.Models.Services.ISchemaConfigOperationsÆ´
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csB B(Q
+
+%1bool"gUrisFactory.Models.Services.ISchemaConfigOperations.SaveConfigFile(Microsoft.AspNetCore.Http.IFormFile)*;
+9
+%03UrisFactory.Models.Services.ISchemaConfigOperations*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFile23SaveConfigFile(Microsoft.AspNetCore.Http.IFormFile)±
+Æ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csB B(Q
+resultbool"__id*
+
+
+%1bool*
+1
+2*ì
+1á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csE E(2≈¬
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csE E(3-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+new config file loaded2
+Ok(object)"ª
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csE E(4/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*’
+2á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csI I(`ˇ¸
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csI I(a5
+%3/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*<:
+8{{"error": " new config file is not correctly formed."}}2BadRequest(object)"√
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csI I(b7
+5
+%3/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*Ø
+3á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csK	 K(	"ü
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.csK K(	
+implicit return*å
+4á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs@K @(K€
+ÿ
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs@ @(0
+%4"__entrypoint*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFileù
+ö
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs;	 ;(
+%5"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFileÕ
+ 
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs<	 <(L
+%6"
+__annotate*rp
+nSwashbuckle.AspNetCore.Annotations.SwaggerResponseAttribute.SwaggerResponseAttribute(int, string, System.Type)*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFileÏ
+È
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs=	 =(W
+%7"
+__annotate*êç
+äSwashbuckle.AspNetCore.Filters.SwaggerResponseExampleAttribute.SwaggerResponseExampleAttribute(int, System.Type, System.Type, System.Type)*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFileÕ
+ 
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs>	 >(]
+%8"
+__annotate*rp
+nSwashbuckle.AspNetCore.Annotations.SwaggerResponseAttribute.SwaggerResponseAttribute(int, string, System.Type)*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFileÏ
+È
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs?	 ?(c
+%9"
+__annotate*êç
+äSwashbuckle.AspNetCore.Filters.SwaggerResponseExampleAttribute.SwaggerResponseExampleAttribute(int, System.Type, System.Type, System.Type)*8
+6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFile˚
+¯
+á
+}C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Controllers\SchemaController.cs@1 @(J6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFile"__annotation*
+
+%5*
+
+%6*
+
+%7*
+
+%8*
+
+%9*
+0:6
+newSchemaConfig#Microsoft.AspNetCore.Http.IFormFileB,*
+(UrisFactory.Controllers.SchemaController

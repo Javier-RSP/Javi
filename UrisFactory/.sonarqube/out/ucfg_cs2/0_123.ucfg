@@ -1,0 +1,131 @@
+
+KUrisFactory.Models.Services.ConfigJsonHandler.IsCorrectFormedUriStructure()ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csr r(0"0*º
+0ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cst u("≤
+Ø
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cst t( 
+correctbool"__id*
+""–
+Õ
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csu u(;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneralñ
+ì
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csu u("
+
+%1bool""object.operator !=(object, object)*
+"
+object*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral*
+""*
+1
+2*˚
+1ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csu& u(=–
+Õ
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csu& u(0;
+%25UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral†
+ù
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csu& u(5
+%3string">UrisFactory.Models.ConfigEntities.UriStructureGeneral.Base.get*=
+;
+%25UrisFactory.Models.ConfigEntities.UriStructureGeneralÁ
+‰
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csu& u(=
+
+%4bool""string.operator !=(string, string)*
+"
+string*
+
+%3string*
+""*
+3
+2*¬
+3ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csuA u(`–
+Õ
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csuA u(K;
+%55UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral√
+¿
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csuA u(V)
+%6#System.Collections.Generic.IList<T>"DUrisFactory.Models.ConfigEntities.UriStructureGeneral.Characters.get*=
+;
+%55UrisFactory.Models.ConfigEntities.UriStructureGeneralãà
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csuA u(\	
+%7int"3System.Collections.Generic.ICollection<T>.Count.get*+
+)
+%6#System.Collections.Generic.IList<T>2	Count.get*
+4
+2*»
+4é
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csud u(Ü–
+Õ
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csud u(n;
+%85UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*x*v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral∆
+√
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csud u(|)
+%9#System.Collections.Generic.IList<T>"GUrisFactory.Models.ConfigEntities.UriStructureGeneral.UriStructures.get*=
+;
+%85UrisFactory.Models.ConfigEntities.UriStructureGeneralçä
+é
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csud u(Ç
+
+%10int"3System.Collections.Generic.ICollection<T>.Count.get*+
+)
+%9#System.Collections.Generic.IList<T>2	Count.get*
+5
+2*Õ
+5ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csw w(≤
+Ø
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csw w(
+correctbool"__id*
+""*
+6*¥
+2ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs{ {(!ô
+ñ
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs{ {(!v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*
+""*
+6*π
+6ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs} }("£
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs} }(
+
+correctbool*ª
+7ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs~	 ~(	"•
+ç
+ÇC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.cs~ ~(	
+implicit returnB1/
+-UrisFactory.Models.Services.ConfigJsonHandler

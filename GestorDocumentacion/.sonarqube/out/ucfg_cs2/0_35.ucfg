@@ -1,18 +1,20 @@
 
-4GestorDocumentacion.Models.Entities.Page.Content.set‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs% (("0*Í
-0‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs) ()é
-æ
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs% ()?*
-(GestorDocumentacion.Models.Entities.Page"
-Contentstring"__id*
-
-valuestring"Ï
-‰
-C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Page.cs% ()A*?*
-(GestorDocumentacion.Models.Entities.Page"
-Contentstring:
-valuestringB,*
-(GestorDocumentacion.Models.Entities.Page
+;GestorDocumentacion.Models.Entities.Template.TemplateID.set^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& ()"0*æ
+0^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs* (*Î
+Ë
+^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& (*K.
+,GestorDocumentacion.Models.Entities.Template"
+
+TemplateIDSystem.Guid"__id*
+
+valueSystem.Guid"¯
+^
+TC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs& (*M*K.
+,GestorDocumentacion.Models.Entities.Template"
+
+TemplateIDSystem.Guid:
+valueSystem.GuidB0.
+,GestorDocumentacion.Models.Entities.Template

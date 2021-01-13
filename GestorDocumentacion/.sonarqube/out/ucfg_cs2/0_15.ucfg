@@ -1,17 +1,25 @@
 
-;GestorDocumentacion.Models.Entities.Template.TemplateID.getŽ
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs! ($"0*¼
-0Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs% (%ü
-ù
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs! (%
-%0System.Guid"__id*M*K.
-,GestorDocumentacion.Models.Entities.Template"
+>GestorDocumentacion.ViewModel.TemplateViewModel.TemplateID.geta
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+! 
+($"0*´
+0a
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+% 
+(%Ñ
+Î
+a
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+! 
+(%
+%0System.Guid"__id*P*N1
+/GestorDocumentacion.ViewModel.TemplateViewModel"
 
-TemplateIDSystem.Guid"¦
-Ž
-ƒC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Models\Entities\Template.cs! (%
+TemplateIDSystem.Guid"x
+a
+WC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\ViewModel\TemplateViewModel.cs
+! 
+(%
 
-%0System.GuidB0.
-,GestorDocumentacion.Models.Entities.Template
+%0System.GuidB31
+/GestorDocumentacion.ViewModel.TemplateViewModel

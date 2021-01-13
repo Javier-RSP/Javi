@@ -1,0 +1,27 @@
+
+pUrisFactory.Extra.Exceptions.UriStructureBadInfoException.UriStructureBadInfoException(string, System.Exception)™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureBadInfoException.cs (+"1*¤
+1™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureBadInfoException.cs	 (	*
+0*Ò
+0™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureBadInfoException.cs (!«
+¨
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureBadInfoException.cs ("
+
+%0void"6System.Exception.Exception(string?, System.Exception?)*
+System.Exception*
+
+messagestring*
+
+innerSystem.Exception*
+2*Ó
+2™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureBadInfoException.cs	 (	"±
+™
+ŽC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Extra\Exceptions\UriStructureBadInfoException.cs (	
+implicit return:
+messagestring:
+innerSystem.ExceptionB=;
+9UrisFactory.Extra.Exceptions.UriStructureBadInfoException

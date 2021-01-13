@@ -1,0 +1,52 @@
+
+EUrisFactory.Models.Services.SchemaConfigFileOperations.CreateStream()ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csT T('"0*
+0ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csV W()Ñ
+Å
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csV V( 
+%0string"__id*R*P8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+
+configPathstringá
+Ñ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csV" V(/
+%1string"__id*U*S8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+oldConfigPathstringÅ
+˛
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csV V(0
+
+%2void"#System.IO.File.Move(string, string)*"
+System.IO.File*
+
+%0string*
+
+%1stringÑ
+Å
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csW W()
+%3string"__id*R*P8
+6UrisFactory.Models.Services.SchemaConfigFileOperations"
+
+configPathstring˚
+¯
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csW W(*
+%4System.IO.FileStream"System.IO.File.Create(string)*"
+System.IO.File*
+
+%3string"∑
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csW W(+
+
+%4System.IO.FileStream*Õ
+1ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csX	 X(	"Æ
+ñ
+ãC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\SchemaConfigFileOperations.csX X(	
+implicit returnB:8
+6UrisFactory.Models.Services.SchemaConfigFileOperations

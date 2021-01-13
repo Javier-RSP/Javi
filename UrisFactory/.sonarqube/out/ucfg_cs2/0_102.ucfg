@@ -1,0 +1,64 @@
+
+>UrisFactory.Models.Services.ConfigJsonHandler.LoadConfigJson()
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csK K(""0*Ê
+0
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csO P(2·
+´
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csO O(4;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneral"3UrisFactory.Models.Services.ReaderConfigJson.Read()*0".
+,UrisFactory.Models.Services.ReaderConfigJsonÐ
+Í
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csO O(4v/
+-UrisFactory.Models.Services.ConfigJsonHandler"C
+
+_uriSchema5UrisFactory.Models.ConfigEntities.UriStructureGeneral"__id*=
+;
+%05UrisFactory.Models.ConfigEntities.UriStructureGeneralŸ
+œ
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csP P(2
+
+%1bool"KUrisFactory.Models.Services.ConfigJsonHandler.IsCorrectFormedUriStructure()*1/
+-UrisFactory.Models.Services.ConfigJsonHandler*
+1
+2*´
+1
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csR R(x‘Ž
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csR R(y@
+%2:UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException":UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException…
+‚
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csR R(;
+
+%3void"`UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException.FailedLoadConfigJsonException(string)*B
+@
+%2:UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException*><
+:Could not load config file, the structure is not correctly*
+3*›
+2
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csY	 Y(	*
+4
+3*Ô
+4Ž
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csW W(’’
+Ž
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csW W(“@
+%4:UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException":UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException£
+ 
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csW W(7
+
+%5void"`UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException.FailedLoadConfigJsonException(string)*B
+@
+%4:UrisFactory.Extra.Exceptions.FailedLoadConfigJsonException*\Z
+XCould not load config file, maybe Config/UrisConfig.json does not exist or is bad formed*
+3*»
+3
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csY	 Y(	"¥
+
+‚C:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\UrisFactory\UrisAutoGenerator\Models\Services\ConfigJsonHandler.csY Y(	
+implicit returnB1/
+-UrisFactory.Models.Services.ConfigJsonHandler

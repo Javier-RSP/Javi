@@ -1,59 +1,31 @@
 
-jGestorDocumentacion.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs  (""0*∞
-0ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
- /(µ≤
-ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs
- (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+7GestorDocumentacion.Program.CreateHostBuilder(string[])M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs# (4"0*ó
+0M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs (Ä
+˝
 M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Page*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)π∂
-ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs #(_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]∫
+∑
 M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Template*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)√¿
-ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs% )(_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""Ç
 M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Page_Name*
-Page*
-Name*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)À»
-ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs+ /(_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*∏
+1M
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs ("d
 M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Template_Name*
-
-Template*
-Name*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)*
-1*€
-1ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs0	 0(	"µ
-ù
-íC:\Hercules\AutoGeneradorUris\UrisFactoryGit\GnossDeustoBackend\GestorDocumentacion\GestorDocumentacion\Migrations\20200819104710_InitialCreate.cs0 0(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB0.
-,GestorDocumentacion.Migrations.InitialCreate
+CC:\GIT-Javi\Javi\GestorDocumentacion\GestorDocumentacion\Program.cs (
+implicit return:
+argsstring[]B"
+GestorDocumentacion.Program
